@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+<title>Für Emely 💛</title>
+<style>
+  *{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+  html,body{height:100%;overflow:hidden}
+  body{
+    font-family:-apple-system,"Segoe UI",Roboto,sans-serif;color:#fff;
+    background:linear-gradient(160deg,#1b2a4a,#33457a);
+    transition:background 1.2s ease;user-select:none;
+  }
+  body.warm{background:linear-gradient(160deg,#ff9a56,#ff6b95 55%,#ffd166)}
+  #app{position:relative;height:100%;width:100%;display:flex;flex-direction:column;
+       align-items:center;justify-content:center;text-align:center;padding:20px}
+
+  .screen{position:absolute;inset:0;display:flex;flex-direction:column;
+          align-items:center;justify-content:center;padding:24px;
+          transition:opacity .5s;}
+  .hidden{opacity:0;pointer-events:none}
+
+  h1{font-size:clamp(26px,7vw,46px);margin-bottom:10px;text-shadow:0 4px 20px rgba(0,0,0,.3);line-height:1.15}
+  p.lead{font-size:clamp(15px,4.2vw,19px);opacity:.95;max-width:460px;line-height:1.45;margin-bottom:8px}
+
+  button{font:inherit;font-weight:800;font-size:17px;cursor:pointer;border:none;border-radius:50px;
+    padding:16px 30px;margin-top:22px;color:#fff;
+    background:linear-gradient(135deg,#ff6b95,#ff9a56);
+    box-shadow:0 10px 26px rgba(255,107,149,.5);transition:transform .15s}
+  button:hover{transform:translateY(-3px) scale(1.04)}
+  button:active{transform:scale(.95)}
+
+  /* HUD */
+  #hud{position:absolute;top:0;left:0;right:0;padding:16px 18px;display:flex;
+       justify-content:space-between;align-items:center;z-index:20;font-weight:800;font-size:16px}
+  .bar{flex:1;height:18px;margin:0 12px;border-radius:12px;background:rgba(255,255,255,.22);overflow:hidden}
+  .bar-fill{height:100%;width:0%;border-radius:12px;transition:width .25s;
+    background:linear-gradient(90deg,#7ec8e3,#ffd166,#ff6b95)}
+
+  /* falling items */
+  .item{position:absolute;top:-50px;font-size:34px;cursor:pointer;z-index:10;will-change:transform;
+        filter:drop-shadow(0 3px 6px rgba(0,0,0,.25))}
+  .pop{animation:pop .35s forwards}
+  @keyframes pop{to{transform:scale(1.8);opacity:0}}
+
+  .toast{position:absolute;top:64px;left:50%;transform:translateX(-50%);
+    font-weight:800;font-size:18px;opacity:0;pointer-events:none;z-index:30;
+    text-shadow:0 2px 8px rgba(0,0,0,.4)}
+  .toast.show{animation:toast 1s ease forwards}
+  @keyframes toast{0%{opacity:0;transform:translate(-50%,10px)}25%{opacity:1}100%{opacity:0;transform:translate(-50%,-30px)}}
+
+  /* gift */
+  .gift{font-size:120px;cursor:pointer;animation:wobble 1.4s ease-in-out infinite;filter:drop-shadow(0 12px 24px rgba(0,0,0,.35))}
+  @keyframes wobble{0%,100%{transform:rotate(-5deg) scale(1)}50%{transform:rotate(5deg) scale(1.06)}}
+  .gift.opening{animation:burst .6s forwards}
+  @keyframes burst{0%{transform:scale(1)}40%{transform:scale(1.3) rotate(8deg)}100%{transform:scale(0);opacity:0}}
+
+  /* voucher */
+  .voucher{background:linear-gradient(135deg,#fff8f0,#ffe9e0);color:#5a2a3a;
+    border-radius:22px;padding:30px 26px;max-width:420px;width:100%;
+    box-shadow:0 22px 60px rgba(0,0,0,.4);position:relative;
+    border:3px dashed #ff6b95;transform:scale(0) rotate(-8deg);transition:transform .6s cubic-bezier(.3,1.4,.5,1)}
+  .voucher.show{transform:scale(1) rotate(0)}
+  .voucher .ribbon{position:absolute;top:-14px;left:50%;transform:translateX(-50%);
+    background:#ff6b95;color:#fff;padding:6px 20px;border-radius:30px;font-size:13px;font-weight:800;letter-spacing:1px}
+  .voucher h2{font-size:24px;margin:10px 0 4px}
+  .voucher .big{font-size:22px;font-weight:900;margin:14px 0;line-height:1.3;color:#d6336c}
+  .voucher ul{list-style:none;text-align:left;margin:16px auto;max-width:300px;font-size:15px;line-height:1.9}
+  .voucher ul li::before{content:"💗 ";}
+  .voucher .sig{margin-top:18px;font-size:13px;opacity:.8;font-style:italic}
+  .voucher .code{margin-top:10px;font-size:12px;letter-spacing:2px;opacity:.6}
+
+  .confetti{position:absolute;top:-20px;font-size:20px;z-index:5;pointer-events:none}
+  @keyframes fall{to{transform:translateY(110vh) rotate(540deg);opacity:.3}}
+
+  .small{font-size:13px;opacity:.75;margin-top:18px}
+</style>
+</head>
+<body>
+<div id="app">
+
+  <!-- START -->
+  <section class="screen" id="start">
+    <h1>Hey Emely 💛<br>dir ist kalt?</h1>
+    <p class="lead">Dann lass uns das ändern. Fang die fallenden Herzchen & Sonnen 🌞 und weich den Schneeflocken aus ❄️ — wärm dich auf, bis die Wärme-Leiste voll ist.</p>
+    <p class="lead" style="opacity:.8">Am Ende wartet eine Überraschung auf dich. 🎁</p>
+    <button onclick="startGame()">▶️ Los, wärm mich auf</button>
+    <p class="small">Tipp: tippen/klicken zum Fangen</p>
+  </section>
+
+  <!-- GAME -->
+  <section class="screen hidden" id="game">
+    <div id="hud">
+      <span>🔥 <span id="score">0</span></span>
+      <div class="bar"><div class="bar-fill" id="fill"></div></div>
+      <span id="goalTxt">0%</span>
+    </div>
+  </section>
+
+  <!-- GIFT -->
+  <section class="screen hidden" id="giftScreen">
+    <h1 style="font-size:clamp(24px,6vw,38px)">Du glühst! 🔥</h1>
+    <p class="lead">Du hast dich warmgespielt — und dir eine Überraschung verdient. Klick auf das Geschenk. 👇</p>
+    <div class="gift" id="gift" onclick="openGift()">🎁</div>
+  </section>
+
+  <!-- VOUCHER -->
+  <section class="screen hidden" id="voucherScreen">
+    <div class="voucher" id="voucher">
+      <span class="ribbon">GUTSCHEIN</span>
+      <h2>Für meine Emely 💛</h2>
+      <div class="big">1× Gemütlicher Filmeabend<br>+ Kuscheln auf dem Sofa 🛋️🍿</div>
+      <ul>
+        <li>Decke, du & ich — eingemummelt</li>
+        <li>Dein Film, deine Wahl 🎬</li>
+        <li>Snacks &amp; warmer Kakao inklusive ☕</li>
+        <li>Garantiert keine kalten Füße mehr 🧦</li>
+      </ul>
+      <p class="sig">Einlösbar wann immer du willst. Kein Ablaufdatum. Unendlich oft. ❤️</p>
+      <p class="code">CODE: ICH-LIEB-DICH-EMELY</p>
+    </div>
+    <button onclick="restart()">🔁 Nochmal spielen</button>
+  </section>
+
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+let score=0, GOAL=15, playing=false, spawnTimer, fallItems=[];
+
+const good=["❤️","💛","🧡","💕","🌞","🔥","☕","🤗"];
+const bad=["❄️","🧊"];
+const praise=["Süß! +1","Wärmer! 🔥","Herz gefangen 💗","Awww 🥰","Mehr! 💛","Heiß! ♨️"];
+
+function show(id){document.querySelectorAll('.screen').forEach(s=>s.classList.add('hidden'));$(id).classList.remove('hidden');}
+
+function startGame(){
+  score=0;playing=true;updateHud();
+  show('game');
+  spawnLoop();
+}
+
+function spawnLoop(){
+  if(!playing)return;
+  spawnItem();
+  spawnTimer=setTimeout(spawnLoop, 520+Math.random()*350);
+}
+
+function spawnItem(){
+  const isBad=Math.random()<0.28;
+  const el=document.createElement('div');
+  el.className='item';
+  el.textContent=isBad? bad[Math.random()*bad.length|0] : good[Math.random()*good.length|0];
+  const x=Math.random()*(window.innerWidth-50);
+  el.style.left=x+'px';
+  const dur=3200+Math.random()*1800;
+  el.style.transition='transform '+dur+'ms linear';
+  $('game').appendChild(el);
+  requestAnimationFrame(()=>{ el.style.transform='translateY('+(window.innerHeight+80)+'px)'; });
+
+  const handler=ev=>{ev.preventDefault();catchItem(el,isBad);};
+  el.addEventListener('click',handler);
+  el.addEventListener('touchstart',handler,{passive:false});
+
+  setTimeout(()=>{el.remove();},dur+100);
+}
+
+function catchItem(el,isBad){
+  if(el.classList.contains('pop'))return;
+  el.classList.add('pop');
+  if(isBad){
+    score=Math.max(0,score-1);
+    toast("Brrr ❄️ -1");
+  }else{
+    score++;
+    toast(praise[Math.random()*praise.length|0]);
+  }
+  updateHud();
+  if(score>=GOAL)winGame();
+}
+
+function toast(t){
+  const el=document.createElement('div');
+  el.className='toast show';el.textContent=t;
+  $('game').appendChild(el);
+  setTimeout(()=>el.remove(),1000);
+}
+
+function updateHud(){
+  $('score').textContent=score;
+  const pct=Math.min(100,Math.round(score/GOAL*100));
+  $('fill').style.width=pct+'%';
+  $('goalTxt').textContent=pct+'%';
+  if(pct>60)document.body.classList.add('warm');
+}
+
+function winGame(){
+  playing=false;clearTimeout(spawnTimer);
+  document.body.classList.add('warm');
+  document.querySelectorAll('.item').forEach(i=>i.remove());
+  setTimeout(()=>show('giftScreen'),400);
+}
+
+function openGift(){
+  $('gift').classList.add('opening');
+  confetti(40);
+  setTimeout(()=>{
+    show('voucherScreen');
+    setTimeout(()=>$('voucher').classList.add('show'),50);
+    confetti(30);
+  },550);
+}
+
+function confetti(n){
+  const set=["❤️","💛","🧡","💕","✨","🎉","🔥","🌟"];
+  for(let i=0;i<n;i++){
+    const c=document.createElement('div');
+    c.className='confetti';c.textContent=set[Math.random()*set.length|0];
+    c.style.left=Math.random()*100+'vw';
+    c.style.fontSize=(16+Math.random()*22)+'px';
+    c.style.animation='fall '+(2.5+Math.random()*2.5)+'s linear forwards';
+    document.body.appendChild(c);
+    setTimeout(()=>c.remove(),5200);
+  }
+}
+
+function restart(){
+  document.body.classList.remove('warm');
+  $('gift').classList.remove('opening');
+  $('voucher').classList.remove('show');
+  show('start');
+}
+</script>
+</body>
+</html>
