@@ -6,6 +6,10 @@ Auf deinem eigenen Rechner ausführen (YouTube blockiert Cloud-Server):
 
 Schon vorhandene Transkripte werden übersprungen, du kannst das Skript also
 jederzeit abbrechen und später weiterlaufen lassen.
+
+YouTube sperrt nach ca. 30-40 Abrufen am Stück. Deshalb lädt das Skript pro
+Durchlauf höchstens PRO_DURCHLAUF Videos. Einfach ein paar Stunden später
+(oder am nächsten Tag) nochmal starten, bis alle da sind.
 """
 import csv
 import time
@@ -16,6 +20,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 HIER = Path(__file__).parent
 ZIEL = HIER / "transkripte"
 ZIEL.mkdir(exist_ok=True)
+PRO_DURCHLAUF = 30
 
 api = YouTubeTranscriptApi()
 with open(HIER / "videos.csv", encoding="utf-8") as f:
@@ -23,16 +28,22 @@ with open(HIER / "videos.csv", encoding="utf-8") as f:
 
 fehler = []
 gesperrt_in_folge = 0
+geladen = 0
 for v in videos:
     datei = ZIEL / f"{int(v['nr']):03d}_{v['video_id']}.txt"
     if datei.exists():
         continue
+    if geladen >= PRO_DURCHLAUF:
+        print(f"\n{PRO_DURCHLAUF} Videos geladen - Pause, damit YouTube nicht sperrt.")
+        print("Starte das Skript in ein paar Stunden nochmal, es macht hier weiter.")
+        break
     try:
         t = api.fetch(v["video_id"], languages=["en", "de"])
         zeilen = [f"[{int(s.start // 60):02d}:{int(s.start % 60):02d}] {s.text}" for s in t.snippets]
         datei.write_text(f"{v['titel']}\n{v['url']}\n\n" + "\n".join(zeilen), encoding="utf-8")
         print(f"OK   {v['nr']:>3}  {v['titel']}")
         gesperrt_in_folge = 0
+        geladen += 1
     except Exception as e:
         fehler.append(v["nr"])
         print(f"FEHL {v['nr']:>3}  {v['titel']}  ({type(e).__name__})")
@@ -45,4 +56,7 @@ for v in videos:
                 break
     time.sleep(10)  # langsam, sonst sperrt YouTube
 
-print(f"\nFertig. {len(videos) - len(fehler)} ok, {len(fehler)} fehlgeschlagen: {fehler}")
+vorhanden = len(list(ZIEL.glob("*.txt")))
+print(f"\nStand: {vorhanden} von {len(videos)} Transkripten vorhanden.")
+if fehler:
+    print(f"Diesmal fehlgeschlagen: {fehler}")
