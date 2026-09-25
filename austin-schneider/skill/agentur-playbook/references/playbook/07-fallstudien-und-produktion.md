@@ -47,75 +47,75 @@ Sortiert nach Nr. (klein = neu). „Plan“ heißt: Coaching-Call, Ergebnis noch
 
 | Nr. | Agentur / Person | Nische | Ausgangslage | Wichtigste Maßnahmen | Ergebnis |
 |---|---|---|---|---|---|
-| [3](../videos/003_cAGEGF0meNA.md) | Mike (siehe auch 5, 41) | Ads für Home Service, Med Spas | 170–180k, nur ~20 % Marge, schwache Closer, organischer Content frisst Marge | Gründer verkauft selbst mit KPI-Tracking, Closer mit hohem OTE, Pod-Leader als Upseller, Content nicht mehr aktiv verkaufen | Plan Richtung 500k |
-| [5](../videos/005_MOM0FqF2njE.md) | Mike (Rückblick) | wie 3 | 17,5k, drei Partner machen alles, Kunden wollen Offshore-Preise | Start-Stop-Liste, Rollen, Offer mit Zielgruppe + Ergebnis + Zeitraum + Garantie, Kunden gekündigt | ~180k in ~12 Monaten, Verdopplung in 30 Tagen nach neuem Offer |
-| [6](../videos/006_6Pv2dx4sEag.md) | Andrew & Clayton | YouTube für Makler | Andrew 3 Jahre bei ~15k als Generalist | eine Leistung, +25 % Preis alle 5 Kunden, 12-Monats-Verträge, 28-Tage-Abrechnung, Hiring-Funnel | 300k, 75 Mitarbeiter |
-| [7](../videos/007_1ZkSsNQyUiM.md) | Casey (vermutlich wie 102, 116) | Content + Ads, San Diego | Tiefpunkt 14k, Schnittagentur frisst Marge, 15-Stunden-Tage | Notion-OS, unpassende Kunden gekündigt, 2 Editoren + Videograf, Funnel mit VSL | 40k, 3–4 h Arbeit pro Tag |
-| [8](../videos/008_xmQ0jHBtk2c.md) | Justin Goudy (wie 78) | Content für Makler, Mortgage | 5–15k schwankend, macht alles selbst | Offer aus Kundeninterviews, 3 Stufen 3–5k, 10 % Rabatt bei Vorauszahlung, DM-Ads ab 40 $/Tag | 55k mit 15 Kunden, 400k Vertragsvolumen bei 14k Ad Spend |
-| [9](../videos/009_Bd3ZFNZOruQ.md) | Remy, Kings Media | organischer Short Form für Gründer | 12–20k, Großkunde springt ab, falsche Nische | Nische nach Ergebnissen, Drei-Jahres-Vision verkaufen, Events und Partnerschaften, Pods | 100k, Retainer 8–12k |
-| [13](../videos/013_fDzvgh6lRrU.md) | Natalie | Social Media | 10k, 6 Kunden mit Sonderpaketen, Praktikantinnen | Angebotsleiter (Content Day, Kern-Retainer mit Ads), Community Management streichen, Vollzeitkraft | Plan (Ziel 50k) |
-| [16](../videos/016_Cc39Z3yV0nU.md) | Christian | Video für Musikproduzenten | nimmt alles an, lebt von Kreditkarte, 1 Retainer | Nische mit eigener Glaubwürdigkeit, Momentum, Notion | 4 Neukunden ohne Churn; Titel: 20k |
-| [23](../videos/023_s2rBk6Tkumc.md) | Thomas | YouTube für Business-Creator | 1 Kunde von 8k auf 4k gekürzt | Offer in einem Satz, persönliche IG-DMs, Kunden per FaceTime beim Selbstfilmen anleiten | ~16k nach einem Monat |
-| [25](../videos/025_41DYjRTgSLY.md) | Jivon | Videograf wird Agentur | ~10k schwankend, Projekte à ~1.200 | Offer Breakdown mit Preisuntergrenze, Landingpage + VSL + Filter statt reiner DM-Ads, SOPs | Basis 3.500/Monat, ~31k neue Verträge |
-| [27](../videos/027_d7vDXgg1SWo.md) | Mao | Social, lokale Dienstleister | 12k, Aufgaben in Slack, Preise 1–1,5k | ein Offer, Onboarding automatisiert, Time Audit | ~25k in 4 Monaten, Marge >60 % |
-| [30](../videos/030_HoorDJNAzi4.md) | Tawny | Gesundheitsfachkräfte | keine Erfahrung, 1 Kunde | Positionierung in einem Satz | erster Kunde in 30 Tagen, ~10k Umsatz |
-| [37](../videos/037_iXATbS0lINU.md) | Tyler Vaden | Paid Ads, Web | 15–23k, 60–70 h im Fulfillment, Ja-Sager | COGS-Kalkulation, Time Audit, Paid in Full, Reaktivierung | 40k (Bestmonat) |
-| [41](../videos/041_hMcMa2SI1cA.md) | Michael & Steph (vermutlich wie 3, 5) | Full Service, dann Ads-first | 14 Kunden, 17k, alles individuell | 8 Phasen: Offer, Sales-Infrastruktur, Ads-first, Stripe-Abos, Setter, Pods | 145k Cash in einem Monat |
-| [42](../videos/042_7HmJmFo4cyU.md) | Tara McElvey | Content, Dallas | Stundenpakete, Scope Creep, Burnout | feste Pakete, Margenrechner, Angebot noch im Call verschicken | Basispreis 1.000 → 2.000, 20–25 h/Woche gespart |
-| [45](../videos/045_mnB0cYJkx-A.md) | Justin (Phoenix; ggf. wie 8/78) | Videoproduktion | teure Einzelprojekte, ~7,5k, 100 % Empfehlungen | 3 Retainer-Stufen, Momentum, Authority Funnel ab ~40 $/Tag, Editor als erste Einstellung | 5 Monate in Folge >50k Cash |
-| [47](../videos/047_SL-aJmXkL-k.md) | Kayla Cuevas | Funnels, Ads, E-Mail | ~80-h-Wochen, erste Assistentin gescheitert | Pakete mit 3-Monats-Retainer, System vor Einstellung, Editor | >30 h/Woche weniger |
-| [49](../videos/049_PP0m5fIZX58.md) | Annika | Branding, Print, Digital | 5 Jahre „Ja zu allem“, Kunden liefern nichts zu | feste Pakete mit Mindestumfang, Onboarding-Kette, Vorqualifizierung | 15–20 h/Woche gespart |
-| [53](../videos/053_kfqLeDTjtqo.md) | Ian Whitmarsh | Social, Ads, Web | 22–25k, 30 % Marge, 60–65 h | Kosten pro Leistung, Fragen nach dem Kernproblem im Sales, SOPs, Websites extern | 60–66 % Marge, ~40 h/Woche |
-| [56](../videos/056_-Epdh65xclQ.md) | Cora (wie 70) | Content + Ads für Coaches | rein organisch, schwankend | Ads ins Offer, Momentum, Editorin, Notion | erster Paid-in-Full-Kunde (7.000) |
-| [58](../videos/058_zgka6p0rU4U.md) | Brandon | Design, lokale Dienstleister | Bauchladen, keine Verträge, unbegrenzte Revisionen | Fokus-Offer „Website in 7 Tagen“, Verträge mit Grenzen, Kundenportal | Empfehlungen 1–2 → ~7/Monat |
-| [59](../videos/059_wv0-Urye72A.md) | Gabrielle | Social → Interior Designer | ~10k, ~1.000 pro Kunde | Content + Ads, Altkunden umstellen oder verabschieden, eigene Ads | >30k, 2.400 Ad Spend → 24k |
-| [62](../videos/062_EbVsuIfUqJY.md) | Tony | Content für Blue-Collar-Betriebe | 2,5–5k nebenberuflich, Reisen, Rückerstattungen | Nische, Pitch-Deck mit Case Studies, 30 DMs/Tag, B-Roll-Ad, Drehtag pro Monat | 10–15k in <3 Monaten, Job gekündigt |
-| [65](../videos/065_4rLXd-TSa7Q.md) | Jake (Utah) | Generalist → Home Services | ~7k nebenberuflich | Nische mit kurzem Sales-Zyklus, Ergebnis-Offer, Momentum | ~21k in ~4 Monaten |
-| [67](../videos/067_hrCP0vVDy_8.md) | Javier & Leslie | Video, lokale Firmen | 0 Kunden, Churn nach Monat 1 | schriftliches Offer, Momentum, Rollenteilung, Editor-Boards | knapp 10k, 5 Retainer, ohne Ads |
-| [69](../videos/069_sMXoCitR4uI.md) | AJ Caldwell | Video-Marketing | schwankend, ein Jahr erfolglose Ads | B-Roll-Ads nach Vorlage, Content-Kanban, Cold-DM-CRM | 100+ Kontakte/Woche; keine Umsatzzahl |
-| [70](../videos/070_iH8tIRLiswg.md) | Cora | wie 56 | 5 Kunden à 2.000, 35 h Projektmanagement | Rolle aus eigenen Aufgaben ableiten, 3-C-Bewertung, Preis +200 pro Call | Plan (Ziel 30k) |
-| [74](../videos/074_P_01ldB1Bvk.md) | Marlo | Growth Marketing | 30–34k, nie eigene Ads | „hässliche“ B-Roll-Ad, größten Hebel zuerst | ~80k in <6 Monaten, ~50 Leads/Monat |
-| [78](../videos/078_-AILv8Y60mM.md) | Justin Godsy (wie 8) | Makler, Premium-Dienstleister | 10–15k, schneidet bis 23 Uhr | gestuftes Offer 2,5–6,5k, Momentum, DM-Ads, automatisiertes Onboarding | ~2k Ad Spend → 4 Kunden, >50k Vertragswert |
-| [81](../videos/081_eUrfMvPUGGU.md) | Albi | Video, Houston | 12k, Angst vor Ads | Sales-Deck, Authority Funnel, ManyChat, Preise aus Teamkosten | ~40k, 5.400 Ad Spend → ~45k |
-| [84](../videos/084__TsElVjIsgQ.md) | Dylan (vermutlich wie 173) | Leads für Versicherungsagenten | 50k, hält Onboarding-Calls selbst | delegieren, neue Ad-Angles, VSL, Wins sammeln, Coaching-Offer | >200k |
-| [86](../videos/086_LSPJ52jh4cI.md) | Jake/Jacob | Video, Michigan | Inhaber als Flaschenhals, nichts dokumentiert | Customer Roadmap, Kickoff-Briefing, Rollendefinition mit 30-60-90-Plan | Einarbeitung 6 Monate → 30 Tage |
-| [87](../videos/087_BxEB7DHCV3E.md) | Dontell | Branding für Med Spas | ~70k, 23 Kunden, keine Funnel-Daten | tägliches KPI-Tracking, Setter-Board, VSL mit Proof, Preise erhöhen | Plan |
-| [89](../videos/089_ykmz7HIwouY.md) | Briana | Social Media | 1 Kunde (1.600) | Client Wish List, Paid in Full, Offer-Check | 47k Cash in 8 Wochen, ohne Ads |
-| [94](../videos/094_cVscb0aIgnQ.md) | Steve Shay | Performance Marketing | Analyse-Paralyse, reaktive Einstellungen | Business-Mathe-Audit, fokussiertes Offer, Onboarding mit Vorlagen | Team auf 1/3, Gewinn mindestens verdoppelt |
-| [95](../videos/095_Fn4ZKLXfrKQ.md) | Clayton (wie 6) | YouTube-Agentur | 200k, ~300 Projekte/Monat, Flickwerk in ClickUp | eigenes Notion-System in 60 Tagen, Zeitstempel je Schritt | Engpass gefunden (überflüssiger Review-Schritt) |
-| [96](../videos/096_4eOxK494MPU.md) | Caleb | Content, Service-Betriebe | neu, von anderem Programm enttäuscht | Offer nach Vorlage, Sales-Deck, Authority Funnel | erster Kunde nach ~4 Wochen |
-| [101](../videos/101_dVh263luJSM.md) | Andrew, Run Media (wie 6) | YouTube + E-Mail für Makler | Leistungsbündel, 1.500 pro Kunde | nur YouTube, Preise alle ~5 Kunden +10–20 %, Pod-Modell | >100k MRR, Preis 4.500, Retention 16–18 Monate |
-| [102](../videos/102_FvjMjC0eaSA.md) | Casey (Follow-up zu 116) | Video + Ads | 1.500 für 15 Videos, monatlich kündbar, Marge <40 % | ein 90-Tage-Programm (meist 7.500 vorab), OS, CSM → Editor → Videograf | „auf Kurs für 100k“, ~30 h/Woche gespart |
-| [108](../videos/108_Gda3v3_C9Cw.md) | Juliana (wie 158) | Social, lokale Dienstleister | 8–15k, Ads bringen Kunden ohne Budget | Einstieg nur mit Ads, finanzielle Vorqualifizierung, Messaging für Betriebe ab 15k | Plan |
-| [112](../videos/112_l2mkxM_Rp30.md) | Sev | Follower-Ads + Content | 11 Kunden, Kunden setten schlecht, Inhaber im Fulfillment | Setting ins Offer, Leads-OS, Delegationsleiter, eigene Ads nie abschalten | Plan |
-| [116](../videos/116_UCuCiEm1Rlg.md) | Casey Schultz | Video, San Diego | 25k, Zahlen top, er selbst Engpass (50–60 h) | CSM statt Videograf zuerst, Preise in 250–500-$-Schritten, erste Ad in 7 Tagen | Plan (Ergebnis siehe 102) |
-| [118](../videos/118_UnlJylXRAoY.md) | Santi | Video + Studio, San Diego | Garage, Whiteboard | OS „als hätte er ein Team“, eigenes Studio | 0 → sechsstellig in 6 Monaten, 27–30 Drehs/Monat |
-| [126](../videos/126_J4CG3HHi97E.md) | Todd | Immobilien-Medien | Listing-Geschäft mit ~700 Maklern | Retainer-Offer, Personal Brand, Authority Funnel | ~550 Ad Spend → 5 Kunden, ~27k Vertragswert |
-| [133](../videos/133_alGapqeMtKY.md) | Philip Heck | Creative (Web, Foto, Video) | 2–3k wiederkehrend, „Ja zu allem“ | Fokus, Notion, Contractors | 25–27k |
-| [135](../videos/135_W63UpHLnNZY.md) | Demetri | Video-Retainer, Nashville | Full Service, nur Empfehlungen, nie Ads | produktisiertes Retainer-Offer, eine Ad, Überliefern nach Abschluss | 0 → ~30k in 3–4 Monaten (~2.500 Ad Spend) |
-| [137](../videos/137_YUSPn7pqoYw.md) | Taj | Restaurants, Atlanta | viraler Reel → alles angenommen → Burnout | klare Deliverables, Nische, Ads statt Viralität, Team | 30k-Monate |
-| [139](../videos/139_ZpJeLuJPMrY.md) | Austin Lord | Short Form | austauschbarer Videograf, Kunden springen ab | Strategie ins Offer, Kunde hat nur 2 Termine pro Monat, Schnitt ausgelagert | 7 Retainer, ~23k |
-| [140](../videos/140_uJ3RhIJnjj8.md) | Ken, 20X Agency | Creative → Coaching für Coaches | 24 Mitarbeiter, zerstückelte Systeme | Done-with-you-Offer nach ~40 Interviews | ~100k in 7 Wochen verkauft |
-| [150](../videos/150_xUKYgsdqeCk.md) | Justin Hughes | Restaurants → Personal Brand für Gründer | 5–10k, „Vitamin“-Offer | Offer löst dringendes Problem, Creative Partner Model, Preisformel | >40k, Team von 4 |
-| [152](../videos/152_AFP8g5ybFLw.md) | Danny Thomas | Web, SEO, PPC für Contractors | ~4k, Shiny-Object-Syndrom | Systeme, Personal Brand, Authority Funnel | konstant 15k, Spitze 20k |
-| [158](../videos/158_cSCcAIomSv4.md) | Juliana Evangelista | Beauty-Dienstleister | 1.750 seit einem Jahr, Preise unter Markt | feste Tiers, Kostensheet, Authority Funnel + Setter | 14.300 in Monat 3 |
-| [160](../videos/160_DD17nsWAPOA.md) | Zach Wood & Mike | Recruiting für Door-to-Door-Firmen | 4–5k, Kunden in Gratis-Probemonaten | Offer, Authority Funnel für Kunden, OS, Sales-Framework | 50k MRR nach ~270 Tagen |
-| [165](../videos/165_LyxUtEwuNiI.md) | Ryan Samuels | Immobilienfotos → Content für Makler | ~200 pro Shoot, 18-Stunden-Tage | Retainer-Offer, Momentum-Post | ~34–40k Verträge in 2 Wochen |
-| [169](../videos/169_NnOfVZ7OdTk.md) | Ian Gaty | Listing-Medien → Content-Retainer | ~550 Makler als Massenkunden | ~75 % der Kunden gestrichen, Retainer-Offer | Retainer 7k → >20k |
-| [172](../videos/172_bpRIUw6iP0s.md) | Cam | Immobilien-Medien | Listing-Geschäft saisonal | Retainer zusätzlich für bestehende Kunden (Offer Stacking) | ~15k Retainer in 6 Monaten |
-| [173](../videos/173_tjRmEAFPmfo.md) | Dylan (frühere Phase) | Personal Brand für Network-Marketer | ~2k, 2 Kunden, Überforderung | Nische, Onboarding per Zapier, Sales-Framework | fast 20k MRR |
-| [176](../videos/176_SOt9NnNTZFA.md) | Owen, AOK Studios | Strategie + Content, Sportvereine | jedes Angebot anders | festes Offer, Strategie verkaufen | Bestmonat 40–50k |
-| [177](../videos/177_r7QMKXSzQIs.md) | Ryan Magin, Viral Edits | Short Form für Personal Brands | (Erfahrungsbericht) | breite Themen + Überzeugung, Dreh vor Ort, Clipper und Editoren trennen | 80–120k, Pakete 6k/10k |
-| [208](../videos/208_71KEEApPO84.md) | Max, Podfluence | Podcast-Clipping | 4–5k Einzelaufträge, Clipping austauschbar | Strategie und gezielt vorbereitete „virale Momente“, 3–6-Monats-Verträge | 15k Retainer |
-| [210](../videos/210_xqw2mUDVp8Q.md) | Jordan, Forward Marketing | Short Form für Dienstleister | 1 Kunde (~2k), zu viel versprochen | Offer übernehmen, selbst posten, Offshore-Editor | erster 10k-Monat |
-| [221](../videos/221_ahwUsWw9ph8.md) | Cameron, CDS Visuals | Video für erklärungsbedürftige Produkte | ~500k/Jahr, alle machen alles | Accountability Chart, Price to Delegate | ~1 Mio./Jahr, 275k-Deal mit 92 % Marge |
-| [228](../videos/228_FFK-LBAKHmM.md) | Gabe | Immobilien-Medien, Phoenix | keine Systeme, abhängig vom Listing-Markt | Notion, Automationen, Retainer, Warm Outreach | Retainer 6–7k → ~13k |
-| [235](../videos/235_4ooOfLCZB5E.md) | Gabe, Matt, Jordan | div. | Kurzfälle | Cash-Kampagne per SMS, KI-Outbound, organisches Posten | 8 Calls aus 20 SMS; 3 Verträge an einem Tag; ~10k organisch |
-| [239](../videos/239_reak5WzmXks.md) | Steven Sanchez | Short Form, Immobilien | Solo-Creator | Vorlagen, Editor ~15 $/Video, zum Kunden fliegen: 3 Monate Content an einem Tag | ~20k Zusatzumsatz, 3–4× Kapazität |
-| [241](../videos/241_-29-CkbBRFk.md) | Zach Siegel, Think Bullish | Chiropraktiker | lange Stagnation | früh Systeme und Hiring, Offer schrittweise bis Callcenter ausgebaut | 110k, 32 Mitarbeiter |
-| [242](../videos/242_laSYEb_-Ku8.md) | Matt Seadra, Savvy Media | Short Form, Makler | 5–8k nur über Empfehlungen, alle Nischen | Nische, Kostenrechnung, List Builder + SMS | ~20k, 3–4 Neukunden/Monat |
-| [275](../videos/275_9TDwYbbDNlQ.md) | Santiago Castro | Branding/Video | Kunden auf dem Whiteboard | Notion + Zapier + Onboarding-Automation | sechsstellig in ~4 Monaten, ~12 Kunden |
-| [278](../videos/278_Z716BCHOAwk.md) | Chase Fade | Immobilien-Video | Solo, 2 Kunden, ~5k | Notion-Board, Pricing-Spreadsheet, Teilzeit-Editoren | ~10k in 3 Monaten |
+| [3](https://www.youtube.com/watch?v=cAGEGF0meNA) | Mike (siehe auch 5, 41) | Ads für Home Service, Med Spas | 170–180k, nur ~20 % Marge, schwache Closer, organischer Content frisst Marge | Gründer verkauft selbst mit KPI-Tracking, Closer mit hohem OTE, Pod-Leader als Upseller, Content nicht mehr aktiv verkaufen | Plan Richtung 500k |
+| [5](https://www.youtube.com/watch?v=MOM0FqF2njE) | Mike (Rückblick) | wie 3 | 17,5k, drei Partner machen alles, Kunden wollen Offshore-Preise | Start-Stop-Liste, Rollen, Offer mit Zielgruppe + Ergebnis + Zeitraum + Garantie, Kunden gekündigt | ~180k in ~12 Monaten, Verdopplung in 30 Tagen nach neuem Offer |
+| [6](https://www.youtube.com/watch?v=6Pv2dx4sEag) | Andrew & Clayton | YouTube für Makler | Andrew 3 Jahre bei ~15k als Generalist | eine Leistung, +25 % Preis alle 5 Kunden, 12-Monats-Verträge, 28-Tage-Abrechnung, Hiring-Funnel | 300k, 75 Mitarbeiter |
+| [7](https://www.youtube.com/watch?v=1ZkSsNQyUiM) | Casey (vermutlich wie 102, 116) | Content + Ads, San Diego | Tiefpunkt 14k, Schnittagentur frisst Marge, 15-Stunden-Tage | Notion-OS, unpassende Kunden gekündigt, 2 Editoren + Videograf, Funnel mit VSL | 40k, 3–4 h Arbeit pro Tag |
+| [8](https://www.youtube.com/watch?v=xmQ0jHBtk2c) | Justin Goudy (wie 78) | Content für Makler, Mortgage | 5–15k schwankend, macht alles selbst | Offer aus Kundeninterviews, 3 Stufen 3–5k, 10 % Rabatt bei Vorauszahlung, DM-Ads ab 40 $/Tag | 55k mit 15 Kunden, 400k Vertragsvolumen bei 14k Ad Spend |
+| [9](https://www.youtube.com/watch?v=Bd3ZFNZOruQ) | Remy, Kings Media | organischer Short Form für Gründer | 12–20k, Großkunde springt ab, falsche Nische | Nische nach Ergebnissen, Drei-Jahres-Vision verkaufen, Events und Partnerschaften, Pods | 100k, Retainer 8–12k |
+| [13](https://www.youtube.com/watch?v=fDzvgh6lRrU) | Natalie | Social Media | 10k, 6 Kunden mit Sonderpaketen, Praktikantinnen | Angebotsleiter (Content Day, Kern-Retainer mit Ads), Community Management streichen, Vollzeitkraft | Plan (Ziel 50k) |
+| [16](https://www.youtube.com/watch?v=Cc39Z3yV0nU) | Christian | Video für Musikproduzenten | nimmt alles an, lebt von Kreditkarte, 1 Retainer | Nische mit eigener Glaubwürdigkeit, Momentum, Notion | 4 Neukunden ohne Churn; Titel: 20k |
+| [23](https://www.youtube.com/watch?v=s2rBk6Tkumc) | Thomas | YouTube für Business-Creator | 1 Kunde von 8k auf 4k gekürzt | Offer in einem Satz, persönliche IG-DMs, Kunden per FaceTime beim Selbstfilmen anleiten | ~16k nach einem Monat |
+| [25](https://www.youtube.com/watch?v=41DYjRTgSLY) | Jivon | Videograf wird Agentur | ~10k schwankend, Projekte à ~1.200 | Offer Breakdown mit Preisuntergrenze, Landingpage + VSL + Filter statt reiner DM-Ads, SOPs | Basis 3.500/Monat, ~31k neue Verträge |
+| [27](https://www.youtube.com/watch?v=d7vDXgg1SWo) | Mao | Social, lokale Dienstleister | 12k, Aufgaben in Slack, Preise 1–1,5k | ein Offer, Onboarding automatisiert, Time Audit | ~25k in 4 Monaten, Marge >60 % |
+| [30](https://www.youtube.com/watch?v=HoorDJNAzi4) | Tawny | Gesundheitsfachkräfte | keine Erfahrung, 1 Kunde | Positionierung in einem Satz | erster Kunde in 30 Tagen, ~10k Umsatz |
+| [37](https://www.youtube.com/watch?v=iXATbS0lINU) | Tyler Vaden | Paid Ads, Web | 15–23k, 60–70 h im Fulfillment, Ja-Sager | COGS-Kalkulation, Time Audit, Paid in Full, Reaktivierung | 40k (Bestmonat) |
+| [41](https://www.youtube.com/watch?v=hMcMa2SI1cA) | Michael & Steph (vermutlich wie 3, 5) | Full Service, dann Ads-first | 14 Kunden, 17k, alles individuell | 8 Phasen: Offer, Sales-Infrastruktur, Ads-first, Stripe-Abos, Setter, Pods | 145k Cash in einem Monat |
+| [42](https://www.youtube.com/watch?v=7HmJmFo4cyU) | Tara McElvey | Content, Dallas | Stundenpakete, Scope Creep, Burnout | feste Pakete, Margenrechner, Angebot noch im Call verschicken | Basispreis 1.000 → 2.000, 20–25 h/Woche gespart |
+| [45](https://www.youtube.com/watch?v=mnB0cYJkx-A) | Justin (Phoenix; ggf. wie 8/78) | Videoproduktion | teure Einzelprojekte, ~7,5k, 100 % Empfehlungen | 3 Retainer-Stufen, Momentum, Authority Funnel ab ~40 $/Tag, Editor als erste Einstellung | 5 Monate in Folge >50k Cash |
+| [47](https://www.youtube.com/watch?v=SL-aJmXkL-k) | Kayla Cuevas | Funnels, Ads, E-Mail | ~80-h-Wochen, erste Assistentin gescheitert | Pakete mit 3-Monats-Retainer, System vor Einstellung, Editor | >30 h/Woche weniger |
+| [49](https://www.youtube.com/watch?v=PP0m5fIZX58) | Annika | Branding, Print, Digital | 5 Jahre „Ja zu allem“, Kunden liefern nichts zu | feste Pakete mit Mindestumfang, Onboarding-Kette, Vorqualifizierung | 15–20 h/Woche gespart |
+| [53](https://www.youtube.com/watch?v=kfqLeDTjtqo) | Ian Whitmarsh | Social, Ads, Web | 22–25k, 30 % Marge, 60–65 h | Kosten pro Leistung, Fragen nach dem Kernproblem im Sales, SOPs, Websites extern | 60–66 % Marge, ~40 h/Woche |
+| [56](https://www.youtube.com/watch?v=-Epdh65xclQ) | Cora (wie 70) | Content + Ads für Coaches | rein organisch, schwankend | Ads ins Offer, Momentum, Editorin, Notion | erster Paid-in-Full-Kunde (7.000) |
+| [58](https://www.youtube.com/watch?v=zgka6p0rU4U) | Brandon | Design, lokale Dienstleister | Bauchladen, keine Verträge, unbegrenzte Revisionen | Fokus-Offer „Website in 7 Tagen“, Verträge mit Grenzen, Kundenportal | Empfehlungen 1–2 → ~7/Monat |
+| [59](https://www.youtube.com/watch?v=wv0-Urye72A) | Gabrielle | Social → Interior Designer | ~10k, ~1.000 pro Kunde | Content + Ads, Altkunden umstellen oder verabschieden, eigene Ads | >30k, 2.400 Ad Spend → 24k |
+| [62](https://www.youtube.com/watch?v=EbVsuIfUqJY) | Tony | Content für Blue-Collar-Betriebe | 2,5–5k nebenberuflich, Reisen, Rückerstattungen | Nische, Pitch-Deck mit Case Studies, 30 DMs/Tag, B-Roll-Ad, Drehtag pro Monat | 10–15k in <3 Monaten, Job gekündigt |
+| [65](https://www.youtube.com/watch?v=4rLXd-TSa7Q) | Jake (Utah) | Generalist → Home Services | ~7k nebenberuflich | Nische mit kurzem Sales-Zyklus, Ergebnis-Offer, Momentum | ~21k in ~4 Monaten |
+| [67](https://www.youtube.com/watch?v=hrCP0vVDy_8) | Javier & Leslie | Video, lokale Firmen | 0 Kunden, Churn nach Monat 1 | schriftliches Offer, Momentum, Rollenteilung, Editor-Boards | knapp 10k, 5 Retainer, ohne Ads |
+| [69](https://www.youtube.com/watch?v=sMXoCitR4uI) | AJ Caldwell | Video-Marketing | schwankend, ein Jahr erfolglose Ads | B-Roll-Ads nach Vorlage, Content-Kanban, Cold-DM-CRM | 100+ Kontakte/Woche; keine Umsatzzahl |
+| [70](https://www.youtube.com/watch?v=iH8tIRLiswg) | Cora | wie 56 | 5 Kunden à 2.000, 35 h Projektmanagement | Rolle aus eigenen Aufgaben ableiten, 3-C-Bewertung, Preis +200 pro Call | Plan (Ziel 30k) |
+| [74](https://www.youtube.com/watch?v=P_01ldB1Bvk) | Marlo | Growth Marketing | 30–34k, nie eigene Ads | „hässliche“ B-Roll-Ad, größten Hebel zuerst | ~80k in <6 Monaten, ~50 Leads/Monat |
+| [78](https://www.youtube.com/watch?v=-AILv8Y60mM) | Justin Godsy (wie 8) | Makler, Premium-Dienstleister | 10–15k, schneidet bis 23 Uhr | gestuftes Offer 2,5–6,5k, Momentum, DM-Ads, automatisiertes Onboarding | ~2k Ad Spend → 4 Kunden, >50k Vertragswert |
+| [81](https://www.youtube.com/watch?v=eUrfMvPUGGU) | Albi | Video, Houston | 12k, Angst vor Ads | Sales-Deck, Authority Funnel, ManyChat, Preise aus Teamkosten | ~40k, 5.400 Ad Spend → ~45k |
+| [84](https://www.youtube.com/watch?v=_TsElVjIsgQ) | Dylan (vermutlich wie 173) | Leads für Versicherungsagenten | 50k, hält Onboarding-Calls selbst | delegieren, neue Ad-Angles, VSL, Wins sammeln, Coaching-Offer | >200k |
+| [86](https://www.youtube.com/watch?v=LSPJ52jh4cI) | Jake/Jacob | Video, Michigan | Inhaber als Flaschenhals, nichts dokumentiert | Customer Roadmap, Kickoff-Briefing, Rollendefinition mit 30-60-90-Plan | Einarbeitung 6 Monate → 30 Tage |
+| [87](https://www.youtube.com/watch?v=BxEB7DHCV3E) | Dontell | Branding für Med Spas | ~70k, 23 Kunden, keine Funnel-Daten | tägliches KPI-Tracking, Setter-Board, VSL mit Proof, Preise erhöhen | Plan |
+| [89](https://www.youtube.com/watch?v=ykmz7HIwouY) | Briana | Social Media | 1 Kunde (1.600) | Client Wish List, Paid in Full, Offer-Check | 47k Cash in 8 Wochen, ohne Ads |
+| [94](https://www.youtube.com/watch?v=cVscb0aIgnQ) | Steve Shay | Performance Marketing | Analyse-Paralyse, reaktive Einstellungen | Business-Mathe-Audit, fokussiertes Offer, Onboarding mit Vorlagen | Team auf 1/3, Gewinn mindestens verdoppelt |
+| [95](https://www.youtube.com/watch?v=Fn4ZKLXfrKQ) | Clayton (wie 6) | YouTube-Agentur | 200k, ~300 Projekte/Monat, Flickwerk in ClickUp | eigenes Notion-System in 60 Tagen, Zeitstempel je Schritt | Engpass gefunden (überflüssiger Review-Schritt) |
+| [96](https://www.youtube.com/watch?v=4eOxK494MPU) | Caleb | Content, Service-Betriebe | neu, von anderem Programm enttäuscht | Offer nach Vorlage, Sales-Deck, Authority Funnel | erster Kunde nach ~4 Wochen |
+| [101](https://www.youtube.com/watch?v=dVh263luJSM) | Andrew, Run Media (wie 6) | YouTube + E-Mail für Makler | Leistungsbündel, 1.500 pro Kunde | nur YouTube, Preise alle ~5 Kunden +10–20 %, Pod-Modell | >100k MRR, Preis 4.500, Retention 16–18 Monate |
+| [102](https://www.youtube.com/watch?v=FvjMjC0eaSA) | Casey (Follow-up zu 116) | Video + Ads | 1.500 für 15 Videos, monatlich kündbar, Marge <40 % | ein 90-Tage-Programm (meist 7.500 vorab), OS, CSM → Editor → Videograf | „auf Kurs für 100k“, ~30 h/Woche gespart |
+| [108](https://www.youtube.com/watch?v=Gda3v3_C9Cw) | Juliana (wie 158) | Social, lokale Dienstleister | 8–15k, Ads bringen Kunden ohne Budget | Einstieg nur mit Ads, finanzielle Vorqualifizierung, Messaging für Betriebe ab 15k | Plan |
+| [112](https://www.youtube.com/watch?v=l2mkxM_Rp30) | Sev | Follower-Ads + Content | 11 Kunden, Kunden setten schlecht, Inhaber im Fulfillment | Setting ins Offer, Leads-OS, Delegationsleiter, eigene Ads nie abschalten | Plan |
+| [116](https://www.youtube.com/watch?v=UCuCiEm1Rlg) | Casey Schultz | Video, San Diego | 25k, Zahlen top, er selbst Engpass (50–60 h) | CSM statt Videograf zuerst, Preise in 250–500-$-Schritten, erste Ad in 7 Tagen | Plan (Ergebnis siehe 102) |
+| [118](https://www.youtube.com/watch?v=UnlJylXRAoY) | Santi | Video + Studio, San Diego | Garage, Whiteboard | OS „als hätte er ein Team“, eigenes Studio | 0 → sechsstellig in 6 Monaten, 27–30 Drehs/Monat |
+| [126](https://www.youtube.com/watch?v=J4CG3HHi97E) | Todd | Immobilien-Medien | Listing-Geschäft mit ~700 Maklern | Retainer-Offer, Personal Brand, Authority Funnel | ~550 Ad Spend → 5 Kunden, ~27k Vertragswert |
+| [133](https://www.youtube.com/watch?v=alGapqeMtKY) | Philip Heck | Creative (Web, Foto, Video) | 2–3k wiederkehrend, „Ja zu allem“ | Fokus, Notion, Contractors | 25–27k |
+| [135](https://www.youtube.com/watch?v=W63UpHLnNZY) | Demetri | Video-Retainer, Nashville | Full Service, nur Empfehlungen, nie Ads | produktisiertes Retainer-Offer, eine Ad, Überliefern nach Abschluss | 0 → ~30k in 3–4 Monaten (~2.500 Ad Spend) |
+| [137](https://www.youtube.com/watch?v=YUSPn7pqoYw) | Taj | Restaurants, Atlanta | viraler Reel → alles angenommen → Burnout | klare Deliverables, Nische, Ads statt Viralität, Team | 30k-Monate |
+| [139](https://www.youtube.com/watch?v=ZpJeLuJPMrY) | Austin Lord | Short Form | austauschbarer Videograf, Kunden springen ab | Strategie ins Offer, Kunde hat nur 2 Termine pro Monat, Schnitt ausgelagert | 7 Retainer, ~23k |
+| [140](https://www.youtube.com/watch?v=uJ3RhIJnjj8) | Ken, 20X Agency | Creative → Coaching für Coaches | 24 Mitarbeiter, zerstückelte Systeme | Done-with-you-Offer nach ~40 Interviews | ~100k in 7 Wochen verkauft |
+| [150](https://www.youtube.com/watch?v=xUKYgsdqeCk) | Justin Hughes | Restaurants → Personal Brand für Gründer | 5–10k, „Vitamin“-Offer | Offer löst dringendes Problem, Creative Partner Model, Preisformel | >40k, Team von 4 |
+| [152](https://www.youtube.com/watch?v=AFP8g5ybFLw) | Danny Thomas | Web, SEO, PPC für Contractors | ~4k, Shiny-Object-Syndrom | Systeme, Personal Brand, Authority Funnel | konstant 15k, Spitze 20k |
+| [158](https://www.youtube.com/watch?v=cSCcAIomSv4) | Juliana Evangelista | Beauty-Dienstleister | 1.750 seit einem Jahr, Preise unter Markt | feste Tiers, Kostensheet, Authority Funnel + Setter | 14.300 in Monat 3 |
+| [160](https://www.youtube.com/watch?v=DD17nsWAPOA) | Zach Wood & Mike | Recruiting für Door-to-Door-Firmen | 4–5k, Kunden in Gratis-Probemonaten | Offer, Authority Funnel für Kunden, OS, Sales-Framework | 50k MRR nach ~270 Tagen |
+| [165](https://www.youtube.com/watch?v=LyxUtEwuNiI) | Ryan Samuels | Immobilienfotos → Content für Makler | ~200 pro Shoot, 18-Stunden-Tage | Retainer-Offer, Momentum-Post | ~34–40k Verträge in 2 Wochen |
+| [169](https://www.youtube.com/watch?v=NnOfVZ7OdTk) | Ian Gaty | Listing-Medien → Content-Retainer | ~550 Makler als Massenkunden | ~75 % der Kunden gestrichen, Retainer-Offer | Retainer 7k → >20k |
+| [172](https://www.youtube.com/watch?v=bpRIUw6iP0s) | Cam | Immobilien-Medien | Listing-Geschäft saisonal | Retainer zusätzlich für bestehende Kunden (Offer Stacking) | ~15k Retainer in 6 Monaten |
+| [173](https://www.youtube.com/watch?v=tjRmEAFPmfo) | Dylan (frühere Phase) | Personal Brand für Network-Marketer | ~2k, 2 Kunden, Überforderung | Nische, Onboarding per Zapier, Sales-Framework | fast 20k MRR |
+| [176](https://www.youtube.com/watch?v=SOt9NnNTZFA) | Owen, AOK Studios | Strategie + Content, Sportvereine | jedes Angebot anders | festes Offer, Strategie verkaufen | Bestmonat 40–50k |
+| [177](https://www.youtube.com/watch?v=r7QMKXSzQIs) | Ryan Magin, Viral Edits | Short Form für Personal Brands | (Erfahrungsbericht) | breite Themen + Überzeugung, Dreh vor Ort, Clipper und Editoren trennen | 80–120k, Pakete 6k/10k |
+| [208](https://www.youtube.com/watch?v=71KEEApPO84) | Max, Podfluence | Podcast-Clipping | 4–5k Einzelaufträge, Clipping austauschbar | Strategie und gezielt vorbereitete „virale Momente“, 3–6-Monats-Verträge | 15k Retainer |
+| [210](https://www.youtube.com/watch?v=xqw2mUDVp8Q) | Jordan, Forward Marketing | Short Form für Dienstleister | 1 Kunde (~2k), zu viel versprochen | Offer übernehmen, selbst posten, Offshore-Editor | erster 10k-Monat |
+| [221](https://www.youtube.com/watch?v=ahwUsWw9ph8) | Cameron, CDS Visuals | Video für erklärungsbedürftige Produkte | ~500k/Jahr, alle machen alles | Accountability Chart, Price to Delegate | ~1 Mio./Jahr, 275k-Deal mit 92 % Marge |
+| [228](https://www.youtube.com/watch?v=FFK-LBAKHmM) | Gabe | Immobilien-Medien, Phoenix | keine Systeme, abhängig vom Listing-Markt | Notion, Automationen, Retainer, Warm Outreach | Retainer 6–7k → ~13k |
+| [235](https://www.youtube.com/watch?v=4ooOfLCZB5E) | Gabe, Matt, Jordan | div. | Kurzfälle | Cash-Kampagne per SMS, KI-Outbound, organisches Posten | 8 Calls aus 20 SMS; 3 Verträge an einem Tag; ~10k organisch |
+| [239](https://www.youtube.com/watch?v=reak5WzmXks) | Steven Sanchez | Short Form, Immobilien | Solo-Creator | Vorlagen, Editor ~15 $/Video, zum Kunden fliegen: 3 Monate Content an einem Tag | ~20k Zusatzumsatz, 3–4× Kapazität |
+| [241](https://www.youtube.com/watch?v=-29-CkbBRFk) | Zach Siegel, Think Bullish | Chiropraktiker | lange Stagnation | früh Systeme und Hiring, Offer schrittweise bis Callcenter ausgebaut | 110k, 32 Mitarbeiter |
+| [242](https://www.youtube.com/watch?v=laSYEb_-Ku8) | Matt Seadra, Savvy Media | Short Form, Makler | 5–8k nur über Empfehlungen, alle Nischen | Nische, Kostenrechnung, List Builder + SMS | ~20k, 3–4 Neukunden/Monat |
+| [275](https://www.youtube.com/watch?v=9TDwYbbDNlQ) | Santiago Castro | Branding/Video | Kunden auf dem Whiteboard | Notion + Zapier + Onboarding-Automation | sechsstellig in ~4 Monaten, ~12 Kunden |
+| [278](https://www.youtube.com/watch?v=Z716BCHOAwk) | Chase Fade | Immobilien-Video | Solo, 2 Kunden, ~5k | Notion-Board, Pricing-Spreadsheet, Teilzeit-Editoren | ~10k in 3 Monaten |
 
 Ergänzend gibt es Sammelstatements vom Mastermind [Nr. 143] und Kurzbeispiele im Vlog [Nr. 163].
 
@@ -346,18 +346,18 @@ Konkrete Kamera- oder Lichtempfehlungen enthalten die Notizen **kaum**. Die Bots
 ---
 
 ## 5. Weiterlesen
-- [Nr. 41 – Helping An Agency Owner Go From $40-50K Month to $100K Month](../videos/041_hMcMa2SI1cA.md): die 8 Phasen von 17k auf 145k
-- [Nr. 45 – Helping An Agency Owner Go From $30K/Month to $60K/Month](../videos/045_mnB0cYJkx-A.md): Videograf wird Retainer-Agentur
-- [Nr. 3 – $180K/mo Agency and Only Keeping 20% - Here's The Fix](../videos/003_cAGEGF0meNA.md): Marge, Sales und Pods bei 180k
-- [Nr. 116 – Building a $100K/mo Agency For A Stranger in 26 Mins](../videos/116_UCuCiEm1Rlg.md): der Inhaber als Engpass, CSM vor Videograf
-- [Nr. 102 – He’s on Track for $100K/Month… and Works LESS Than You](../videos/102_FvjMjC0eaSA.md): Follow-up zu Nr. 116
-- [Nr. 101 – Agency Scaled to $200k/Mo by QUITTING THIS](../videos/101_dVh263luJSM.md): eine Leistung, Preisstufen, Pod-Mathe
-- [Nr. 87 – Building A $1,000,000 Agency For A Client In 29 Mins](../videos/087_BxEB7DHCV3E.md): KPI-Tracking und Setter-System
-- [Nr. 169 – How Cutting 75% of His Clients Created Clarity](../videos/169_NnOfVZ7OdTk.md): vom Listing-Geschäft zum Retainer
-- [Nr. 177 – The Guy Behind Viral Personal Brands Sharing ALL His Secrets](../videos/177_r7QMKXSzQIs.md): Handwerk viraler Short-Form-Videos
-- [Nr. 83 – Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver](../videos/083_WLurUGpDnYM.md): Fulfillment Funnel im Detail
-- [Nr. 60 – the EXACT video production workflow I used for my 5M agency](../videos/060_mRPFm-ze_nA.md): kompakter Produktions-Workflow
-- [Nr. 237 – How I Hire A PLAYER Video Editors for Our Agency (STEP BY STEP)](../videos/237_L3BG3DIRq8I.md): Editor-Hiring-Funnel
-- [Nr. 48 – how to price video production retainer packages](../videos/048_a6VYG8jV-xk.md): COGS-Kalkulation für Video-Retainer
-- [Nr. 255 – Are Short Form Video Agencies DEAD? (The TRUTH)](../videos/255_ZXSMmxDIpYE.md): Positionierung gegen die Massenware Editing
-- [Nr. 207 – Scaling Content Systems For Agencies with Stephen G. Pope](../videos/207_zz0VuF7hNxU.md): Content-Kaskade, Tools, KI-Regeln
+- [Nr. 41 – Helping An Agency Owner Go From $40-50K Month to $100K Month](https://www.youtube.com/watch?v=hMcMa2SI1cA): die 8 Phasen von 17k auf 145k
+- [Nr. 45 – Helping An Agency Owner Go From $30K/Month to $60K/Month](https://www.youtube.com/watch?v=mnB0cYJkx-A): Videograf wird Retainer-Agentur
+- [Nr. 3 – $180K/mo Agency and Only Keeping 20% - Here's The Fix](https://www.youtube.com/watch?v=cAGEGF0meNA): Marge, Sales und Pods bei 180k
+- [Nr. 116 – Building a $100K/mo Agency For A Stranger in 26 Mins](https://www.youtube.com/watch?v=UCuCiEm1Rlg): der Inhaber als Engpass, CSM vor Videograf
+- [Nr. 102 – He’s on Track for $100K/Month… and Works LESS Than You](https://www.youtube.com/watch?v=FvjMjC0eaSA): Follow-up zu Nr. 116
+- [Nr. 101 – Agency Scaled to $200k/Mo by QUITTING THIS](https://www.youtube.com/watch?v=dVh263luJSM): eine Leistung, Preisstufen, Pod-Mathe
+- [Nr. 87 – Building A $1,000,000 Agency For A Client In 29 Mins](https://www.youtube.com/watch?v=BxEB7DHCV3E): KPI-Tracking und Setter-System
+- [Nr. 169 – How Cutting 75% of His Clients Created Clarity](https://www.youtube.com/watch?v=NnOfVZ7OdTk): vom Listing-Geschäft zum Retainer
+- [Nr. 177 – The Guy Behind Viral Personal Brands Sharing ALL His Secrets](https://www.youtube.com/watch?v=r7QMKXSzQIs): Handwerk viraler Short-Form-Videos
+- [Nr. 83 – Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver](https://www.youtube.com/watch?v=WLurUGpDnYM): Fulfillment Funnel im Detail
+- [Nr. 60 – the EXACT video production workflow I used for my 5M agency](https://www.youtube.com/watch?v=mRPFm-ze_nA): kompakter Produktions-Workflow
+- [Nr. 237 – How I Hire A PLAYER Video Editors for Our Agency (STEP BY STEP)](https://www.youtube.com/watch?v=L3BG3DIRq8I): Editor-Hiring-Funnel
+- [Nr. 48 – how to price video production retainer packages](https://www.youtube.com/watch?v=a6VYG8jV-xk): COGS-Kalkulation für Video-Retainer
+- [Nr. 255 – Are Short Form Video Agencies DEAD? (The TRUTH)](https://www.youtube.com/watch?v=ZXSMmxDIpYE): Positionierung gegen die Massenware Editing
+- [Nr. 207 – Scaling Content Systems For Agencies with Stephen G. Pope](https://www.youtube.com/watch?v=zz0VuF7hNxU): Content-Kaskade, Tools, KI-Regeln

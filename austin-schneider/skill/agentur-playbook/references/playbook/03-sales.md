@@ -404,18 +404,18 @@ Das Framework taucht in über 15 Videos in leicht unterschiedlicher Granularitä
 
 ## Weiterlesen
 
-- [Nr. 3 – $180K/mo Agency and Only Keeping 20% - Here's The Fix](../videos/003_cAGEGF0meNA.md) – Closer-Probleme, Einwände, Finanzierung, Upsells durch Pod-Leader
-- [Nr. 28 – I Tracked 10 Metrics in 723 Agencies, Here’s What Works](../videos/028_LWYmO5Df-TU.md) – Sales-Benchmarks (Close-, Show-, Cash-Collected-Rate)
-- [Nr. 57 – I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency](../videos/057_ecqocK8bhHw.md) – Pre-Call-Engine und Call-Ablauf in aktueller Form
-- [Nr. 77 – How I Added $116K In Video Retainers For My Agency](../videos/077_amUEjRARz-A.md) – Pre-Call-Engine in 5 Schritten
-- [Nr. 87 – Building A $1,000,000 Agency For A Client In 29 Mins](../videos/087_BxEB7DHCV3E.md) – Setter-Board, Bewerbungsfilter, KPI-Tracking
-- [Nr. 98 – How I Built a $5M Client Getting System (FREE COURSE)](../videos/098_5K1l2zTX_Xk.md) – DM-Setting-Workflow und Diagnose nach Funnel-Stufe
-- [Nr. 122 – The ONLY Agency Sales Systems Training To Scale To $100k/mo](../videos/122_nKtb-Xr5HRE.md) – Kerntraining: Setter-Team, VSL, 8-stufiges Call-Framework, Einwände
-- [Nr. 131 – How I Turned Notion into a CRM For My Agency (10X SALES)](../videos/131_JH9QoJH6jys.md) – Sales-Fundament in 7 Bausteinen, Präsentation, Payment-Links
-- [Nr. 167 – How to Build $200k/mo Systems (So Your SMMA Runs Without You)](../videos/167_f95ci9_8rVA.md) – Pre-Call / Call / Post-Call als System
-- [Nr. 178 – How to Get Clients Predictably To Hit $100k/mo](../videos/178_WNfEVXyna6o.md) – Brücke, Minimal-Setup, Datenbank-Reaktivierung
-- [Nr. 192 – Agencies: 10x Revenue with 1 New Sales Process](../videos/192_AzHMh_WYFlA.md) – VSL in 13 Schritten, Call-Framework mit Preis-Framing
-- [Nr. 199 – How to Track Your $100k/Mo Agency Using Notion](../videos/199_kT7iYENYNZU.md) – Momentum-OS, Leads-OS, Sales-OS, Pipeline-Status
-- [Nr. 217 – Agency Sales Mastery: A Comprehensive Guide To Land More Sales](../videos/217_R0rPHcg3Iik.md) – Sales-Mindset, „nicht salesy“, Volumen
-- [Nr. 225 – $50,000/mo Agency with Appointment Setters](../videos/225_VMkUBziiBAU.md) – wann und wie man Setter einstellt und führt
-- [Nr. 251 – Mastering Sales at Your SMMA (SECRETS REVEALED) | ep. 2](../videos/251_ajpkbolCmII.md) – Closer-Team, Close-Rate-Standards, Diagnose-Reihenfolge
+- [Nr. 3 – $180K/mo Agency and Only Keeping 20% - Here's The Fix](https://www.youtube.com/watch?v=cAGEGF0meNA) – Closer-Probleme, Einwände, Finanzierung, Upsells durch Pod-Leader
+- [Nr. 28 – I Tracked 10 Metrics in 723 Agencies, Here’s What Works](https://www.youtube.com/watch?v=LWYmO5Df-TU) – Sales-Benchmarks (Close-, Show-, Cash-Collected-Rate)
+- [Nr. 57 – I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency](https://www.youtube.com/watch?v=ecqocK8bhHw) – Pre-Call-Engine und Call-Ablauf in aktueller Form
+- [Nr. 77 – How I Added $116K In Video Retainers For My Agency](https://www.youtube.com/watch?v=amUEjRARz-A) – Pre-Call-Engine in 5 Schritten
+- [Nr. 87 – Building A $1,000,000 Agency For A Client In 29 Mins](https://www.youtube.com/watch?v=BxEB7DHCV3E) – Setter-Board, Bewerbungsfilter, KPI-Tracking
+- [Nr. 98 – How I Built a $5M Client Getting System (FREE COURSE)](https://www.youtube.com/watch?v=5K1l2zTX_Xk) – DM-Setting-Workflow und Diagnose nach Funnel-Stufe
+- [Nr. 122 – The ONLY Agency Sales Systems Training To Scale To $100k/mo](https://www.youtube.com/watch?v=nKtb-Xr5HRE) – Kerntraining: Setter-Team, VSL, 8-stufiges Call-Framework, Einwände
+- [Nr. 131 – How I Turned Notion into a CRM For My Agency (10X SALES)](https://www.youtube.com/watch?v=JH9QoJH6jys) – Sales-Fundament in 7 Bausteinen, Präsentation, Payment-Links
+- [Nr. 167 – How to Build $200k/mo Systems (So Your SMMA Runs Without You)](https://www.youtube.com/watch?v=f95ci9_8rVA) – Pre-Call / Call / Post-Call als System
+- [Nr. 178 – How to Get Clients Predictably To Hit $100k/mo](https://www.youtube.com/watch?v=WNfEVXyna6o) – Brücke, Minimal-Setup, Datenbank-Reaktivierung
+- [Nr. 192 – Agencies: 10x Revenue with 1 New Sales Process](https://www.youtube.com/watch?v=AzHMh_WYFlA) – VSL in 13 Schritten, Call-Framework mit Preis-Framing
+- [Nr. 199 – How to Track Your $100k/Mo Agency Using Notion](https://www.youtube.com/watch?v=kT7iYENYNZU) – Momentum-OS, Leads-OS, Sales-OS, Pipeline-Status
+- [Nr. 217 – Agency Sales Mastery: A Comprehensive Guide To Land More Sales](https://www.youtube.com/watch?v=R0rPHcg3Iik) – Sales-Mindset, „nicht salesy“, Volumen
+- [Nr. 225 – $50,000/mo Agency with Appointment Setters](https://www.youtube.com/watch?v=VMkUBziiBAU) – wann und wie man Setter einstellt und führt
+- [Nr. 251 – Mastering Sales at Your SMMA (SECRETS REVEALED) | ep. 2](https://www.youtube.com/watch?v=ajpkbolCmII) – Closer-Team, Close-Rate-Standards, Diagnose-Reihenfolge

@@ -19,19 +19,18 @@ references/
 │   ├── 05-operations-und-fulfillment.md  SOPs, Notion-OS, Projekt-Workflow, Kundenbindung
 │   ├── 06-skalierung-und-finanzen.md     Wachstumsphasen, Marge, KPIs, Mindset
 │   └── 07-fallstudien-und-produktion.md  Fallstudien nach Ausgangslage, Produktions-Handwerk
-├── video-index.md            ← alle Videos nach Thema, mit Einzeiler
-└── videos/NNN_<id>.md        ← Detailnotiz je Video (Kernaussagen, Zahlen, Zeitstempel)
+└── videoliste.md             ← Nr. → Videotitel, YouTube-Link, Themen
 ```
 
-Die Playbook-Kapitel verweisen mit `[Nr. 12]` auf Videos; die passende Datei ist `references/videos/012_*.md`.
+Die Playbook-Kapitel verweisen mit `[Nr. 12]` auf Videos; Titel und Link stehen in `references/videoliste.md`.
 
 ## Vorgehen
 
 1. **Situation verstehen.** Beratung ist nur so gut wie das Bild der Lage. Wenn es wichtig ist und fehlt, frag kurz nach: aktueller Monatsumsatz, Nische, Leistungen, Teamgröße, größtes Problem. Frag nicht alles ab, wenn die Frage eng ist.
 2. **Passendes Kapitel lesen.** Lies das oder die relevanten Kapitel in `references/playbook/`, bevor du antwortest – nicht aus dem Gedächtnis antworten, denn der Wert liegt in Austins konkreten Frameworks und Zahlen. Bei Querschnittsfragen ("Wie komme ich von 20k auf 50k?") mehrere Kapitel.
-3. **Bei Bedarf in die Tiefe.** Für Details, genaue Schritte oder Beispiele die im Kapitel zitierten Video-Notizen öffnen. Für Stichworte, die im Playbook fehlen, `video-index.md` durchsuchen oder `grep -ril "<begriff>" references/videos/`.
+3. **Bei Bedarf suchen.** Für Stichworte, die nicht im gerade gelesenen Kapitel stehen, die anderen Kapitel durchsuchen (z. B. `grep -il "<begriff>" references/playbook/*.md`). Die Kapitel sind lang – lies gezielt die passenden Abschnitte über das Inhaltsverzeichnis am Anfang.
 4. **Auf die Situation übertragen.** Nicht das Playbook nacherzählen, sondern konkret für diesen Nutzer anwenden: rechne seine Zahlen durch, formuliere sein Angebot, schreib seine Outreach-Nachricht. Die Frameworks sind Werkzeuge, keine Antwort.
-5. **Quellen nennen.** Verweise sparsam auf die wichtigsten Videos, z. B. „(Austin, Video 12: [Titel](url) ab 03:12)“ – die URL steht im Frontmatter der Notiz, Zeitstempel-Links in den Kernaussagen. So kann der Nutzer selbst nachschauen.
+5. **Quellen nennen.** Verweise sparsam auf die wichtigsten Videos, z. B. „(Austin, Video 12: [Titel](url))“ – Titel und Link aus `references/videoliste.md`. So kann der Nutzer selbst nachschauen.
 
 ## Worauf du achten solltest
 
