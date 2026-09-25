@@ -1,0 +1,1024 @@
+# Video-Index
+
+277 Notizen. Nr. 1 = neuestes Video. Zum Suchen: nach Stichwort in dieser Datei oder per grep in `videos/` suchen.
+
+## Nach Thema
+
+### Angebot & Positionierung (91)
+- [2] How I Would Build a $6.4M/Year Agency (If I Had to Start Over) → `videos/002_Ryj3Iywg1SQ.md`
+- [4] Building a $100K/Month Agency Offer From SCRATCH (Full Guide) → `videos/004_VDEbrYSHIpo.md`
+- [5] From $17.5K to $180K/mo | How This Agency Scaled in 12 Months → `videos/005_MOM0FqF2njE.md`
+- [8] (Leaked Mastermind Footage) Agency Owner Reveals How He Scaled From $10K/Mo To $50K/Mo → `videos/008_xmQ0jHBtk2c.md`
+- [10] The Exact Video Retainer Model I Used To Go From Project Work To $100K+Month → `videos/010_bokLFVIDAas.md`
+- [13] Watch Me Live Scale This $10K/Mo Social Media Marketing Agency → `videos/013_fDzvgh6lRrU.md`
+- [14] I Almost Quit My Agency — Here's What Changed Everything → `videos/014_Zc7lHDG6A5Q.md`
+- [16] From Chaotic "Yes Man" to $20K/mo Agency Owner in 4 Months → `videos/016_Cc39Z3yV0nU.md`
+- [18] How I Sell $5K+ Mo Video Retainers to Local Businesses → `videos/018_-TGxrN1qliw.md`
+- [19] How to Prove ROI to Agency Clients So They Never Want to Leave → `videos/019__pn6jL4u6Z4.md`
+- [22] When to Fire an Agency Client (5 Signs It's Time) → `videos/022_dSjwo9q_JKw.md`
+- [23] From $4K/Mo to $16K/Mo - How He 4X'd His YouTube Agency → `videos/023_s2rBk6Tkumc.md`
+- [26] The Best Funnel for Video Agencies & Videographers → `videos/026_b58B_0c4xJg.md`
+- [31] How To Transition From Video Editor To Agency Owner → `videos/031_dPYgTlksigY.md`
+- [36] Scaling From Solo Videographer To Multi 6 Figure Agency → `videos/036_Yup0x3gjEO0.md`
+- [38] How I Scaled My Video Agency Past $100KMonth Without Being On Every Shoot → `videos/038_yC3_wg-ssbY.md`
+- [41] Helping An Agency Owner Go From $40-50K Month to $100K Month → `videos/041_hMcMa2SI1cA.md`
+- [44] How to Price Video Retainer Packages (Real Numbers) → `videos/044_U6hgYmZGm8c.md`
+- [45] Helping An Agency Owner Go From $30K/Month to $60K/Month → `videos/045_mnB0cYJkx-A.md`
+- [48] how to price video production retainer packages → `videos/048_a6VYG8jV-xk.md`
+- [49] From 60-Hour Weeks to True CEO: How She Automated Her Agency → `videos/049_PP0m5fIZX58.md`
+- [51] Scope Creep For Video Agencies (And How To Prevent It) → `videos/051__D5utdwbBfI.md`
+- [55] "I'm working 16 hours per day in my agency" → `videos/055__LWAVSQw2no.md`
+- [56] How She Went From Solo Operator To CEO (Social Media Agency) → `videos/056_-Epdh65xclQ.md`
+- [58] How This Agency Owner Did More in 6 WEEKS Than an Entire Year (And Working Less) → `videos/058_zgka6p0rU4U.md`
+- [59] Helping An Agency Owner Go From $10K/Month to $30K/Month → `videos/059_wv0-Urye72A.md`
+- [63] Agency stuck in fulfillment? → `videos/063_TRX0KO8NHX8.md`
+- [64] How I Grew My Video Agency From $0- $225K/Month → `videos/064_-IsDXPDGe3s.md`
+- [65] How Jake Scaled His Agency From $7K/Mo to $21K/Mo → `videos/065_4rLXd-TSa7Q.md`
+- [67] Javier & Leslie Went From $0-$10K/month With Their Video Agency → `videos/067_hrCP0vVDy_8.md`
+- [72] "I just lost the biggest client in my agency, now what do I do?" → `videos/072_JttWv-YndBw.md`
+- [77] How I Added $116K In Video Retainers For My Agency → `videos/077_amUEjRARz-A.md`
+- [78] How Justin Scaled His Agency From $10-15K/Mo to $50K/Mo → `videos/078_-AILv8Y60mM.md`
+- [91] The Fastest Way To Make $100k/Month with Your Video Agency → `videos/091_7FmI3BgRw0s.md`
+- [98] How I Built a $5M Client Getting System (FREE COURSE) → `videos/098_5K1l2zTX_Xk.md`
+- [99] Video Agencies: Get CRAZY Results For Your Clients (GUARANTEED) → `videos/099_6imElLkkfLU.md`
+- [100] The TRUTH About Building a $100K/Mo Agency → `videos/100_wmeVIlUQMbI.md`
+- [101] Agency Scaled to $200k/Mo by QUITTING THIS → `videos/101_dVh263luJSM.md`
+- [102] He’s on Track for $100K/Month… and Works LESS Than You → `videos/102_FvjMjC0eaSA.md`
+- [104] 8 Brutal Lessons I Learned Scaling My Agency To $100K/mo → `videos/104_0KF2yBiyEBI.md`
+- [105] I Was Broke At 19. Now My Agency Makes +$100K/mos Without Me → `videos/105_VGdZHzlXoiw.md`
+- [108] Building a $100k/mo Agency For A Client In 23 Min → `videos/108_Gda3v3_C9Cw.md`
+- [109] Give me just 13 mins and I’ll DELETE your broken mindset → `videos/109_3m_SV_D1QOI.md`
+- [110] $10k/mo Freelancer vs $100k/mo Agency → `videos/110_OCzrqh8hAGw.md`
+- [113] Starting a $100k/mo Agency in 1 Day → `videos/113_ODCKv8NMjxc.md`
+- [124] This is Boring, But You’ll Hit $100k/mo in Your Agency FAST → `videos/124_iH8tQCN6l4I.md`
+- [134] I Went From BROKE Freelancer to $200k/mo Agency CEO in 2 Years! → `videos/134_VVcqpHBexqQ.md`
+- [137] THIS Video Agency Owner Went From Burnout to $30K Months in 6 Months → `videos/137_YUSPn7pqoYw.md`
+- [139] The SYSTEM That Made THIS Freelancer into a Full-Time Agency → `videos/139_ZpJeLuJPMrY.md`
+- [140] Ken Made $100K in 7 Weeks this NEW Offer in His Agency (CASE STUDY) → `videos/140_uJ3RhIJnjj8.md`
+- [142] Why Agencies FAIL (The Hidden Problem No One Talks About) → `videos/142_RC4Z-58Vck0.md`
+- [146] How I Deliver RESULTS For My Video Agency Clients → `videos/146_rHAdaeWcFpQ.md`
+- [150] Justin was a confused freelancer to having clarity with $40k/mo running a team (CASE STUDY) → `videos/150_xUKYgsdqeCk.md`
+- [151] i hit $200k month in my smma on easy mode lol → `videos/151_UMMMJ0ISsms.md`
+- [154] How I Scaled My Agency to $220,000/Month [FULL Masterclass] → `videos/154_XzTjYx3wlyc.md`
+- [156] 7 Years of No BS SMMA Advice in 18 Mins → `videos/156__yibGLQRA8o.md`
+- [159] How to Build A $100k/mo Agency Offer → `videos/159_8ggjfN6VA-4.md`
+- [163] pov: 31 year old $200k/mo Agency Owner CEO → `videos/163_HzFnVqjfdrk.md`
+- [165] How Ryan Added $34,000 in 2 Weeks in his SMMA → `videos/165_LyxUtEwuNiI.md`
+- [166] if you want to scale your agency to $100k/mo. watch this. → `videos/166_3YZmT1pV2jE.md`
+- [169] How Cutting 75% of His Clients Created Clarity → `videos/169_NnOfVZ7OdTk.md`
+- [174] I Debunked 200+ Agency Owner’s Myths → `videos/174_vFfjitL_Af4.md`
+- [175] Alex Hormozi SECRETS for Scaling an Agency to $100k/mo → `videos/175_QxpFwFFUGDk.md`
+- [176] How This 18-Year-Old Built a 50K/Month Business While in School! → `videos/176_SOt9NnNTZFA.md`
+- [181] Alex Hormozi 4 Business Concepts for Agencies → `videos/181_88E4JR78tyM.md`
+- [182] The 4 Pillars Your Agency Needs To Scale to $200k/pm → `videos/182_M88S2UId1zg.md`
+- [183] Ranking Every SMMA Niche From Best to Worst (2024) → `videos/183_Z-3jvO0meNA.md`
+- [187] any idiot can make $10k/pm in an agency doing THIS → `videos/187_Wpn5ppaPAcM.md`
+- [193] The Only Guide You'll Ever Need to Hit $100k/months in 2025 → `videos/193_MHOBpY7STRQ.md`
+- [194] $200k/mo CEO Explains How to Build An Agency You Love → `videos/194_0efZT3jKV-s.md`
+- [195] 4 Reasons Your Agency Is Stuck at $20K/Month → `videos/195_xM7Po9uT5BI.md`
+- [201] how to add $15k+ into your agency → `videos/201_GQyPGAynEC4.md`
+- [202] how i built a $200k month agency to prove it’s not luck → `videos/202_UsCcAh9jio8.md`
+- [203] Watch these 45 minutes if you want to 10x your agency in 2024 → `videos/203_7nSKdRH7mGs.md`
+- [205] Debunking The Most Common Agency Myths (Part 1) → `videos/205_JxDkAqWRK1U.md`
+- [208] How Max's Content Agency Makes Podcast Go Viral → `videos/208_71KEEApPO84.md`
+- [209] Agencies Are Dying... Do THIS Instead → `videos/209_vaCDjkm-vF4.md`
+- [212] How to Build a Agency in 2024 [FULL GUIDE] → `videos/212_dPWsCJRWAgY.md`
+- [213] The Only Agency Guide You'll Ever Need → `videos/213_VPrNFNQCB48.md`
+- [219] Hormozi's Advice for Agencies → `videos/219_IOkMlGRc2XQ.md`
+- [220] If I Were to Start an Agency in 2025, This Is What I'd Do [$0-$1M GUIDE] → `videos/220_LtY-O1GPqrQ.md`
+- [221] He fired himself from his agency…Here’s what happened → `videos/221_ahwUsWw9ph8.md`
+- [223] The BEST Agency Offer to Scale in 2024 → `videos/223_TYl4GYvX9yU.md`
+- [235] How to Land Your Next 10 Agency Clients (PROOF) → `videos/235_4ooOfLCZB5E.md`
+- [244] Scaling Your Agency To $10k A Month And Beyond - Here's What You Need To Know | Episode 4 → `videos/244_eSsV7zvArBs.md`
+- [254] Why Your Agency Isn't Scaling Past $15k/mo... → `videos/254_hW_RyYAPgM4.md`
+- [255] Are Short Form Video Agencies DEAD? (The TRUTH) → `videos/255_ZXSMmxDIpYE.md`
+- [257] How to Price Your Agency Services (FOR PROFIT AND SCALE) → `videos/257_h7ct-1Ztve4.md`
+- [259] How I Built a 7 Figure Agency (4 Key Steps) → `videos/259_jUTeGM_lMIQ.md`
+- [261] Short Form Video Offer: A Step-by-Step Guide for SMMA Success → `videos/261_PEf-sLzRDCw.md`
+- [276] The BEST Agency Niches 2022 (and ones to avoid) → `videos/276_nVfLgkiNbFo.md`
+
+### Content & Personal Brand (25)
+- [8] (Leaked Mastermind Footage) Agency Owner Reveals How He Scaled From $10K/Mo To $50K/Mo → `videos/008_xmQ0jHBtk2c.md`
+- [24] How we generated 7 figures from Instagram → `videos/024_IF0lQNt2eLM.md`
+- [69] How AJ Built A Client Getting System For His Video Agency → `videos/069_sMXoCitR4uI.md`
+- [107] 3 AI Agents You MUST HAVE For Your Agency in 2025 → `videos/107_hkuPPcRY4AM.md`
+- [111] How I Grew My Marketing Agency From $0-$320K/month In Under 18 Months → `videos/111_1oyAVPhQIKU.md`
+- [117] i tried 16 ways of getting clients, here are the BEST (SMMA) → `videos/117_ZFxhuH_l9N4.md`
+- [123] FULL Notion Course For Agency Owners (112 Mins) → `videos/123_5mWj25dYkKo.md`
+- [125] How I Built a $200k/mo Agency From My Personal Brand (Full Breakdown) → `videos/125_-8MEGEFG990.md`
+- [152] $4K to $20K: The Accountability and Systems That CHANGED Our Agency (CASE STUDY) → `videos/152_AFP8g5ybFLw.md`
+- [157] Alex Hormozi’s Agency Strategy Will Blow Up Your Business → `videos/157_65WmMB-1Vg8.md`
+- [161] Want 20 New Clients for Your Agency? Watch this → `videos/161_UsCWjrFEJcM.md`
+- [177] The Guy Behind Viral Personal Brands Sharing ALL His Secrets → `videos/177_r7QMKXSzQIs.md`
+- [187] any idiot can make $10k/pm in an agency doing THIS → `videos/187_Wpn5ppaPAcM.md`
+- [188] How I Book 40+ Sales Calls A Month Guaranteed (2025) → `videos/188_PWZxZm2-0WU.md`
+- [207] Scaling Content Systems For Agencies with Stephen G. Pope → `videos/207_zz0VuF7hNxU.md`
+- [210] How Jordan CRUSHED $10k in 90 Days → `videos/210_xqw2mUDVp8Q.md`
+- [214] How I book 1-2 sales calls a day for my agency → `videos/214_mthVXqf1Y9M.md`
+- [222] The Best Lead Generation Strategy in 2024 → `videos/222_bsemMP4f-1c.md`
+- [224] Why You're Not Getting New Clients... (For Content Agencies) → `videos/224_1yue8P7s6yM.md`
+- [231] Subscribe for more → `videos/231_sCcrliBE4PA.md`
+- [232] Our Agencies First Million Dollars...Here's How. → `videos/232_eAM2ldHzkVI.md`
+- [249] We've generated MILLIONS from BRAND | Agency U Podcast Ep. 3 → `videos/249_bMf7MPmwI0Q.md`
+- [271] REVEALED: How Agents Can Close 5 Deals from Instagram (super simple tactics) → `videos/271_7LqBX7Vp0OM.md`
+- [272] Your Brand Has Value → `videos/272_Ed-AtdFiaA8.md`
+- [282] Neel Dhingra - Social media and mortgage, how to land BIG collabs, and financial freedom. → `videos/282_dd5Jl7UiPH0.md`
+
+### Fallstudie / Coaching-Call (70)
+- [3] $180K/mo Agency and Only Keeping 20% - Here's The Fix → `videos/003_cAGEGF0meNA.md`
+- [5] From $17.5K to $180K/mo | How This Agency Scaled in 12 Months → `videos/005_MOM0FqF2njE.md`
+- [6] How They Scaled Their YouTube Agency To $300K/Month → `videos/006_6Pv2dx4sEag.md`
+- [7] How This Agency Owner Scaled To $40K/Mo → `videos/007_1ZkSsNQyUiM.md`
+- [8] (Leaked Mastermind Footage) Agency Owner Reveals How He Scaled From $10K/Mo To $50K/Mo → `videos/008_xmQ0jHBtk2c.md`
+- [9] How He Scaled His Content Agency From $10K/Mo To $100K/Mo In 1 Year → `videos/009_Bd3ZFNZOruQ.md`
+- [13] Watch Me Live Scale This $10K/Mo Social Media Marketing Agency → `videos/013_fDzvgh6lRrU.md`
+- [16] From Chaotic "Yes Man" to $20K/mo Agency Owner in 4 Months → `videos/016_Cc39Z3yV0nU.md`
+- [23] From $4K/Mo to $16K/Mo - How He 4X'd His YouTube Agency → `videos/023_s2rBk6Tkumc.md`
+- [25] How This Videographer Built a $30K/mo Agency That Runs WITHOUT Him → `videos/025_41DYjRTgSLY.md`
+- [27] How He Doubled His Agency to $25K/mo in 4 Months → `videos/027_d7vDXgg1SWo.md`
+- [30] How She Signed Her First Client in 30 Days (Without Experience) → `videos/030_HoorDJNAzi4.md`
+- [37] How Tyler Went From $15K/Month to $40K/Month (While Working Less) → `videos/037_iXATbS0lINU.md`
+- [41] Helping An Agency Owner Go From $40-50K Month to $100K Month → `videos/041_hMcMa2SI1cA.md`
+- [42] How This Agency Owner Doubled Her Prices by Doing LESS → `videos/042_7HmJmFo4cyU.md`
+- [45] Helping An Agency Owner Go From $30K/Month to $60K/Month → `videos/045_mnB0cYJkx-A.md`
+- [47] From 80-Hour Workweek "Grind" To A Scalable Agency → `videos/047_SL-aJmXkL-k.md`
+- [49] From 60-Hour Weeks to True CEO: How She Automated Her Agency → `videos/049_PP0m5fIZX58.md`
+- [53] How Ian Doubled His Agency Profit Margins (30% to 66% Profit in 4 Months) → `videos/053_kfqLeDTjtqo.md`
+- [56] How She Went From Solo Operator To CEO (Social Media Agency) → `videos/056_-Epdh65xclQ.md`
+- [58] How This Agency Owner Did More in 6 WEEKS Than an Entire Year (And Working Less) → `videos/058_zgka6p0rU4U.md`
+- [59] Helping An Agency Owner Go From $10K/Month to $30K/Month → `videos/059_wv0-Urye72A.md`
+- [62] How Tony Took His Video Agency From $2.5K/mo to $15K/mo In Under 3 Months → `videos/062_EbVsuIfUqJY.md`
+- [65] How Jake Scaled His Agency From $7K/Mo to $21K/Mo → `videos/065_4rLXd-TSa7Q.md`
+- [67] Javier & Leslie Went From $0-$10K/month With Their Video Agency → `videos/067_hrCP0vVDy_8.md`
+- [69] How AJ Built A Client Getting System For His Video Agency → `videos/069_sMXoCitR4uI.md`
+- [70] Building A $100K/Month Agency For An Agency Owner In 28 Minutes → `videos/070_iH8tIRLiswg.md`
+- [74] How Marlo Went From $34K/mo to $80K/mo In Under 6 Months → `videos/074_P_01ldB1Bvk.md`
+- [78] How Justin Scaled His Agency From $10-15K/Mo to $50K/Mo → `videos/078_-AILv8Y60mM.md`
+- [81] How Albi Scaled His Agency From $12K/Mo to $40K/Mo → `videos/081_eUrfMvPUGGU.md`
+- [84] Dylan Scaled His Agency From $2K/Mo to $200K/Mo → `videos/084__TsElVjIsgQ.md`
+- [86] How Jacob Automated & Systemized His Video Agency → `videos/086_LSPJ52jh4cI.md`
+- [87] Building A $1,000,000 Agency For A Client In 29 Mins | Fix My Agency → `videos/087_BxEB7DHCV3E.md`
+- [89] She Took Her Agency From $1,600 → $47,000 in 8 Weeks → `videos/089_ykmz7HIwouY.md`
+- [94] Steve DOUBLED His Profit Margins For His Ad Agency → `videos/094_cVscb0aIgnQ.md`
+- [95] How Clayton Built A $200k/Month Video Agency → `videos/095_Fn4ZKLXfrKQ.md`
+- [96] This Agency Owner Was Skeptical—Until He Landed His First Client in 4 Weeks → `videos/096_4eOxK494MPU.md`
+- [101] Agency Scaled to $200k/Mo by QUITTING THIS → `videos/101_dVh263luJSM.md`
+- [102] He’s on Track for $100K/Month… and Works LESS Than You → `videos/102_FvjMjC0eaSA.md`
+- [108] Building a $100k/mo Agency For A Client In 23 Min → `videos/108_Gda3v3_C9Cw.md`
+- [112] Building a $100K/Month Agency For a Client in 27 Mins → `videos/112_l2mkxM_Rp30.md`
+- [116] Building a $100K/mo Agency For A Stranger in 26 Mins → `videos/116_UCuCiEm1Rlg.md`
+- [118] How This Freelancer Built a $100k/mo Agency & Studio in 6 Months → `videos/118_UnlJylXRAoY.md`
+- [126] THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS) → `videos/126_J4CG3HHi97E.md`
+- [133] THIS Creative Agency 9X Their Revenue With Our NEW Notion Systems → `videos/133_alGapqeMtKY.md`
+- [135] Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY) → `videos/135_W63UpHLnNZY.md`
+- [137] THIS Video Agency Owner Went From Burnout to $30K Months in 6 Months → `videos/137_YUSPn7pqoYw.md`
+- [139] The SYSTEM That Made THIS Freelancer into a Full-Time Agency → `videos/139_ZpJeLuJPMrY.md`
+- [140] Ken Made $100K in 7 Weeks this NEW Offer in His Agency (CASE STUDY) → `videos/140_uJ3RhIJnjj8.md`
+- [143] How THESE Agency Owners Are Building 7-Figure Agencies → `videos/143_7IDaqxE8ebs.md`
+- [150] Justin was a confused freelancer to having clarity with $40k/mo running a team (CASE STUDY) → `videos/150_xUKYgsdqeCk.md`
+- [152] $4K to $20K: The Accountability and Systems That CHANGED Our Agency (CASE STUDY) → `videos/152_AFP8g5ybFLw.md`
+- [158] How This Freelancer Went From $1k to $15k in 4 Weeks (CASE STUDY) → `videos/158_cSCcAIomSv4.md`
+- [160] Freelancer Scales to $50k MRR (CASE STUDY) → `videos/160_DD17nsWAPOA.md`
+- [163] pov: 31 year old $200k/mo Agency Owner CEO → `videos/163_HzFnVqjfdrk.md`
+- [165] How Ryan Added $34,000 in 2 Weeks in his SMMA → `videos/165_LyxUtEwuNiI.md`
+- [169] How Cutting 75% of His Clients Created Clarity → `videos/169_NnOfVZ7OdTk.md`
+- [172] The Retainer Model That Grew This Real Estate Agency to $100k → `videos/172_bpRIUw6iP0s.md`
+- [173] From Being Overwhelmed to Consistent $20k Months → `videos/173_tjRmEAFPmfo.md`
+- [176] How This 18-Year-Old Built a 50K/Month Business While in School! → `videos/176_SOt9NnNTZFA.md`
+- [208] How Max's Content Agency Makes Podcast Go Viral → `videos/208_71KEEApPO84.md`
+- [210] How Jordan CRUSHED $10k in 90 Days → `videos/210_xqw2mUDVp8Q.md`
+- [221] He fired himself from his agency…Here’s what happened → `videos/221_ahwUsWw9ph8.md`
+- [228] Gabe DOUBLED His Real Estate Media Agency Doing THIS... → `videos/228_FFK-LBAKHmM.md`
+- [235] How to Land Your Next 10 Agency Clients (PROOF) → `videos/235_4ooOfLCZB5E.md`
+- [239] Video Agency QUADRUPLED With This Simple Strategy → `videos/239_reak5WzmXks.md`
+- [241] How Think Bullish Grew To A $110K/Mo SMMA → `videos/241_-29-CkbBRFk.md`
+- [242] Freelancer to $50K/Mo Agency: Matt's Journey to Business Owner. → `videos/242_laSYEb_-Ku8.md`
+- [275] 6 Figure Agency in 6 Months → `videos/275_9TDwYbbDNlQ.md`
+- [278] Doubling His Business in 3 Months going from Freelancer to Agency Owner → `videos/278_Z716BCHOAwk.md`
+
+### Finanzen & Marge (23)
+- [3] $180K/mo Agency and Only Keeping 20% - Here's The Fix → `videos/003_cAGEGF0meNA.md`
+- [4] Building a $100K/Month Agency Offer From SCRATCH (Full Guide) → `videos/004_VDEbrYSHIpo.md`
+- [21] How To Raise Your Agency Prices Without Losing Clients → `videos/021_1qUnlkypA0Y.md`
+- [28] I Tracked 10 Metrics in 723 Agencies, Here’s What Works → `videos/028_LWYmO5Df-TU.md`
+- [35] The 7 Tracking Systems I Used To Scale My Agency Past $100K/month → `videos/035_Y0U0NISLaP0.md`
+- [39] How to Pay Video Editors and Videographers Per Client → `videos/039_dfKwWb7EnjI.md`
+- [44] How to Price Video Retainer Packages (Real Numbers) → `videos/044_U6hgYmZGm8c.md`
+- [46] retainer vs project based pricing for video agencies → `videos/046_PD4Blui3gOA.md`
+- [48] how to price video production retainer packages → `videos/048_a6VYG8jV-xk.md`
+- [53] How Ian Doubled His Agency Profit Margins (30% to 66% Profit in 4 Months) → `videos/053_kfqLeDTjtqo.md`
+- [92] Steal My $320K/month Agency’s Systems & Team Structure (Full Operations Masterclass) → `videos/092_nuJv3-tGXZc.md`
+- [94] Steve DOUBLED His Profit Margins For His Ad Agency → `videos/094_cVscb0aIgnQ.md`
+- [144] The BEST Team Structure For Scaling To $100k/mo In Your Marketing Agency → `videos/144_KHUkKVlUevM.md`
+- [171] $100k/mo Financial Plan For YOUR Agency → `videos/171_z0EsmBKlSZA.md`
+- [181] Alex Hormozi 4 Business Concepts for Agencies → `videos/181_88E4JR78tyM.md`
+- [184] you will never hit $100k/mo if you keep doing this → `videos/184_Qi4_J4hPBNc.md`
+- [186] Step-By-Step How I Get $50k in PROFIT For My Agency! → `videos/186_fABV_rVWjwI.md`
+- [200] How I Use Notion to Run a $200k/mo Agency → `videos/200_GOIXserpHpg.md`
+- [217] Agency Sales Mastery: A Comprehensive Guide To Land More Sales → `videos/217_R0rPHcg3Iik.md`
+- [246] Why Most Agencies FAIL: Mistakes You MUST Avoid → `videos/246_eHPGeGWO5P4.md`
+- [252] How To Buy Back Your Time & Increase Profit In Your Agency → `videos/252_qxtsD9QW7ok.md`
+- [257] How to Price Your Agency Services (FOR PROFIT AND SCALE) → `videos/257_h7ct-1Ztve4.md`
+- [273] How Our Multi-7 Figure Agency Prices Our Services → `videos/273_I99vyc_EvWc.md`
+
+### Fulfillment & Kundenbindung (32)
+- [9] How He Scaled His Content Agency From $10K/Mo To $100K/Mo In 1 Year → `videos/009_Bd3ZFNZOruQ.md`
+- [17] How AI Runs My $5M/Yr Agency For Me → `videos/017_IXyR300yMDE.md`
+- [19] How to Prove ROI to Agency Clients So They Never Want to Leave → `videos/019__pn6jL4u6Z4.md`
+- [21] How To Raise Your Agency Prices Without Losing Clients → `videos/021_1qUnlkypA0Y.md`
+- [22] When to Fire an Agency Client (5 Signs It's Time) → `videos/022_dSjwo9q_JKw.md`
+- [29] How I Fully Automated My Agency With 5 AI Employees → `videos/029_OvxkwBo1_24.md`
+- [32] How I Use AI To Run A $5M Agency → `videos/032_ReAwGno27qg.md`
+- [34] How I Hired My First Videographer For My $5M Video Agency → `videos/034_czSpbdcly4w.md`
+- [35] The 7 Tracking Systems I Used To Scale My Agency Past $100K/month → `videos/035_Y0U0NISLaP0.md`
+- [51] Scope Creep For Video Agencies (And How To Prevent It) → `videos/051__D5utdwbBfI.md`
+- [60] the EXACT video production workflow I used for my 5M agency → `videos/060_mRPFm-ze_nA.md`
+- [66] How I Manage 87 Clients On Notion (Copy My Template) → `videos/066_iMdUQ5b8HQU.md`
+- [75] How To Remove Yourself From Day To Day Agency Fulfillment → `videos/075_ysM1JJ2QgQI.md`
+- [83] Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver → `videos/083_WLurUGpDnYM.md`
+- [97] How I Use Notion To Run My $5M Agency (Steal My Template) → `videos/097_bZT9wYNx6Vg.md`
+- [99] Video Agencies: Get CRAZY Results For Your Clients (GUARANTEED) → `videos/099_6imElLkkfLU.md`
+- [103] How I Automated My 7 Figure Agency (FREE OPS COURSE) → `videos/103_4q5sK9kMjzc.md`
+- [112] Building a $100K/Month Agency For a Client in 27 Mins → `videos/112_l2mkxM_Rp30.md`
+- [119] I Built An Entire Agency Onboarding System In 45 Minutes → `videos/119_bkKSTyktenE.md`
+- [127] I Cracked The Code on Fulfillment in Notion (2025) → `videos/127_HlNs_bXgNBQ.md`
+- [129] The Simplest Way to Build a Client Portal That Keeps Clients Happy → `videos/129_0va8NT6HJ-I.md`
+- [135] Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY) → `videos/135_W63UpHLnNZY.md`
+- [139] The SYSTEM That Made THIS Freelancer into a Full-Time Agency → `videos/139_ZpJeLuJPMrY.md`
+- [141] How I AUTOMATE My Marketing Agency's Onboarding in 5 Minutes → `videos/141_MS8uZDP3_xk.md`
+- [142] Why Agencies FAIL (The Hidden Problem No One Talks About) → `videos/142_RC4Z-58Vck0.md`
+- [146] How I Deliver RESULTS For My Video Agency Clients → `videos/146_rHAdaeWcFpQ.md`
+- [172] The Retainer Model That Grew This Real Estate Agency to $100k → `videos/172_bpRIUw6iP0s.md`
+- [198] I Cracked the Code on Service Delivery → `videos/198_LkZlwRsVj0E.md`
+- [200] How I Use Notion to Run a $200k/mo Agency → `videos/200_GOIXserpHpg.md`
+- [216] How I onboarded 222 agency clients → `videos/216_geeaeu7ieE0.md`
+- [219] Hormozi's Advice for Agencies → `videos/219_IOkMlGRc2XQ.md`
+- [264] How To Automate Your Agency Onboarding Process | Step By Step Tutorial → `videos/264_JrKhNt4Aw-8.md`
+
+### Kundengewinnung & Outreach (85)
+- [2] How I Would Build a $6.4M/Year Agency (If I Had to Start Over) → `videos/002_Ryj3Iywg1SQ.md`
+- [9] How He Scaled His Content Agency From $10K/Mo To $100K/Mo In 1 Year → `videos/009_Bd3ZFNZOruQ.md`
+- [23] From $4K/Mo to $16K/Mo - How He 4X'd His YouTube Agency → `videos/023_s2rBk6Tkumc.md`
+- [24] How we generated 7 figures from Instagram → `videos/024_IF0lQNt2eLM.md`
+- [25] How This Videographer Built a $30K/mo Agency That Runs WITHOUT Him → `videos/025_41DYjRTgSLY.md`
+- [26] The Best Funnel for Video Agencies & Videographers → `videos/026_b58B_0c4xJg.md`
+- [31] How To Transition From Video Editor To Agency Owner → `videos/031_dPYgTlksigY.md`
+- [36] Scaling From Solo Videographer To Multi 6 Figure Agency → `videos/036_Yup0x3gjEO0.md`
+- [45] Helping An Agency Owner Go From $30K/Month to $60K/Month → `videos/045_mnB0cYJkx-A.md`
+- [57] I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency → `videos/057_ecqocK8bhHw.md`
+- [62] How Tony Took His Video Agency From $2.5K/mo to $15K/mo In Under 3 Months → `videos/062_EbVsuIfUqJY.md`
+- [64] How I Grew My Video Agency From $0- $225K/Month → `videos/064_-IsDXPDGe3s.md`
+- [65] How Jake Scaled His Agency From $7K/Mo to $21K/Mo → `videos/065_4rLXd-TSa7Q.md`
+- [69] How AJ Built A Client Getting System For His Video Agency → `videos/069_sMXoCitR4uI.md`
+- [72] "I just lost the biggest client in my agency, now what do I do?" → `videos/072_JttWv-YndBw.md`
+- [74] How Marlo Went From $34K/mo to $80K/mo In Under 6 Months → `videos/074_P_01ldB1Bvk.md`
+- [77] How I Added $116K In Video Retainers For My Agency → `videos/077_amUEjRARz-A.md`
+- [78] How Justin Scaled His Agency From $10-15K/Mo to $50K/Mo → `videos/078_-AILv8Y60mM.md`
+- [81] How Albi Scaled His Agency From $12K/Mo to $40K/Mo → `videos/081_eUrfMvPUGGU.md`
+- [87] Building A $1,000,000 Agency For A Client In 29 Mins | Fix My Agency → `videos/087_BxEB7DHCV3E.md`
+- [89] She Took Her Agency From $1,600 → $47,000 in 8 Weeks → `videos/089_ykmz7HIwouY.md`
+- [91] The Fastest Way To Make $100k/Month with Your Video Agency → `videos/091_7FmI3BgRw0s.md`
+- [96] This Agency Owner Was Skeptical—Until He Landed His First Client in 4 Weeks → `videos/096_4eOxK494MPU.md`
+- [98] How I Built a $5M Client Getting System (FREE COURSE) → `videos/098_5K1l2zTX_Xk.md`
+- [108] Building a $100k/mo Agency For A Client In 23 Min → `videos/108_Gda3v3_C9Cw.md`
+- [111] How I Grew My Marketing Agency From $0-$320K/month In Under 18 Months → `videos/111_1oyAVPhQIKU.md`
+- [113] Starting a $100k/mo Agency in 1 Day → `videos/113_ODCKv8NMjxc.md`
+- [117] i tried 16 ways of getting clients, here are the BEST (SMMA) → `videos/117_ZFxhuH_l9N4.md`
+- [121] I Built a +$100K/Mo Agency (So You Can Copy Me) → `videos/121_V_2D6hvBBd0.md`
+- [122] The ONLY Agency Sales Systems Training To Scale To $100k/mo → `videos/122_nKtb-Xr5HRE.md`
+- [123] FULL Notion Course For Agency Owners (112 Mins) → `videos/123_5mWj25dYkKo.md`
+- [126] THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS) → `videos/126_J4CG3HHi97E.md`
+- [128] The Sales System I Use To Book 4397 Sales Calls For My Agency → `videos/128_nlogfkOfcSo.md`
+- [135] Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY) → `videos/135_W63UpHLnNZY.md`
+- [136] NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion → `videos/136_9Klw68QX3l4.md`
+- [146] How I Deliver RESULTS For My Video Agency Clients → `videos/146_rHAdaeWcFpQ.md`
+- [149] How to Run a $200k/mo Marketing Agency in 1 Hour a Week → `videos/149_R2dVEktcmdY.md`
+- [151] i hit $200k month in my smma on easy mode lol → `videos/151_UMMMJ0ISsms.md`
+- [153] 24 Hour Agency Owner Mastermind → `videos/153_awRf0vNqxpA.md`
+- [157] Alex Hormozi’s Agency Strategy Will Blow Up Your Business → `videos/157_65WmMB-1Vg8.md`
+- [158] How This Freelancer Went From $1k to $15k in 4 Weeks (CASE STUDY) → `videos/158_cSCcAIomSv4.md`
+- [160] Freelancer Scales to $50k MRR (CASE STUDY) → `videos/160_DD17nsWAPOA.md`
+- [161] Want 20 New Clients for Your Agency? Watch this → `videos/161_UsCWjrFEJcM.md`
+- [162] The 4 Systems That Scaled Me To $200k in My Marketing Agency → `videos/162_jKlx9Loi_tQ.md`
+- [164] the laziest cold email outreach for $100k/mo in your agency → `videos/164_hI4K_Y-yZRM.md`
+- [178] How to Get Clients Predictably To Hit $100k/mo → `videos/178_WNfEVXyna6o.md`
+- [187] any idiot can make $10k/pm in an agency doing THIS → `videos/187_Wpn5ppaPAcM.md`
+- [188] How I Book 40+ Sales Calls A Month Guaranteed (2025) → `videos/188_PWZxZm2-0WU.md`
+- [191] the NEW Way of Cold Emailing for Agencies (2024) → `videos/191_VFIiplriMvo.md`
+- [192] Agencies: 10x Revenue with 1 New Sales Process → `videos/192_AzHMh_WYFlA.md`
+- [193] The Only Guide You'll Ever Need to Hit $100k/months in 2025 → `videos/193_MHOBpY7STRQ.md`
+- [199] How to Track Your $100k/Mo Agency Using Notion → `videos/199_kT7iYENYNZU.md`
+- [202] how i built a $200k month agency to prove it’s not luck → `videos/202_UsCcAh9jio8.md`
+- [203] Watch these 45 minutes if you want to 10x your agency in 2024 → `videos/203_7nSKdRH7mGs.md`
+- [204] I Studied 300 Agencies to Build a Perfect One → `videos/204_O5AxLg_005g.md`
+- [209] Agencies Are Dying... Do THIS Instead → `videos/209_vaCDjkm-vF4.md`
+- [212] How to Build a Agency in 2024 [FULL GUIDE] → `videos/212_dPWsCJRWAgY.md`
+- [213] The Only Agency Guide You'll Ever Need → `videos/213_VPrNFNQCB48.md`
+- [214] How I book 1-2 sales calls a day for my agency → `videos/214_mthVXqf1Y9M.md`
+- [218] Removing Myself From My Business in 7 Days → `videos/218_mI8HLqA0bF8.md`
+- [220] If I Were to Start an Agency in 2025, This Is What I'd Do [$0-$1M GUIDE] → `videos/220_LtY-O1GPqrQ.md`
+- [222] The Best Lead Generation Strategy in 2024 → `videos/222_bsemMP4f-1c.md`
+- [224] Why You're Not Getting New Clients... (For Content Agencies) → `videos/224_1yue8P7s6yM.md`
+- [225] $50,000/mo Agency with Appointment Setters → `videos/225_VMkUBziiBAU.md`
+- [226] I Sent 250 Instagram DMs a Day and Got This Many Clients → `videos/226_W302TvvABoU.md`
+- [227] I Broke Down Hormozi's Strategy to Get Clients in 2024 → `videos/227_cmeylkXZ3b4.md`
+- [232] Our Agencies First Million Dollars...Here's How. → `videos/232_eAM2ldHzkVI.md`
+- [235] How to Land Your Next 10 Agency Clients (PROOF) → `videos/235_4ooOfLCZB5E.md`
+- [240] 3 Tools for Unlimited Content Agency Leads → `videos/240_yQsjQ2MCmsk.md`
+- [242] Freelancer to $50K/Mo Agency: Matt's Journey to Business Owner. → `videos/242_laSYEb_-Ku8.md`
+- [243] THE Best SMMA Cold Email Script (PROVEN) → `videos/243_npynFvxKEGA.md`
+- [245] Get More Video Clients With This Outreach Strategy → `videos/245_91XJAZ6vprE.md`
+- [248] How I Hit $223K/Month in Our Agency (STEP BY STEP) → `videos/248_gtjR45UQ3ZU.md`
+- [249] We've generated MILLIONS from BRAND | Agency U Podcast Ep. 3 → `videos/249_bMf7MPmwI0Q.md`
+- [250] How to Get Unlimited Leads for Your Agency (STEP BY STEP) → `videos/250_Xk_9As0pasQ.md`
+- [258] LinkedIn Sales Navigator Lead Scraping: Step-by-Step Guide for Agency Owners → `videos/258_OgX9rNxjaW4.md`
+- [262] How to Scrape Leads from a Website Using THIS Bot 🤖 (SUPER EASY) → `videos/262_H8iAaGJJQJQ.md`
+- [263] How We Book 5+ Calls Per Day WITHOUT Ads (STEP BY STEP CREATIVE AGENCY TRAINING) → `videos/263_ywp_l52vMD8.md`
+- [266] Step By Step Guide for Chat GPT for Agency Cold Outreach → `videos/266__Z47lw96IPU.md`
+- [268] How we Send 2,000 Cold Emails a Day (SMMA COLD OUTREACH) → `videos/268_BUMh0BvrqpE.md`
+- [269] Day in Life of Creative Agency CEO (REALISTIC, 15 EMPLOYEES) → `videos/269_fe5yDx3C8NM.md`
+- [271] REVEALED: How Agents Can Close 5 Deals from Instagram (super simple tactics) → `videos/271_7LqBX7Vp0OM.md`
+- [276] The BEST Agency Niches 2022 (and ones to avoid) → `videos/276_nVfLgkiNbFo.md`
+- [280] REVEALED: How to find unlimited LEADS for your Marketing Agency. 🤩 → `videos/280_6YlPfDB2XFM.md`
+- [282] Neel Dhingra - Social media and mortgage, how to land BIG collabs, and financial freedom. → `videos/282_dd5Jl7UiPH0.md`
+
+### Mindset & Unternehmertum (51)
+- [12] How I Run A $5M Agency In 4 Hrs/Day (Full Ops Breakdown) → `videos/012_xdX-BDOSw28.md`
+- [14] I Almost Quit My Agency — Here's What Changed Everything → `videos/014_Zc7lHDG6A5Q.md`
+- [30] How She Signed Her First Client in 30 Days (Without Experience) → `videos/030_HoorDJNAzi4.md`
+- [31] How To Transition From Video Editor To Agency Owner → `videos/031_dPYgTlksigY.md`
+- [37] How Tyler Went From $15K/Month to $40K/Month (While Working Less) → `videos/037_iXATbS0lINU.md`
+- [47] From 80-Hour Workweek "Grind" To A Scalable Agency → `videos/047_SL-aJmXkL-k.md`
+- [50] the truth about running a 400K/month agency (not what you think) → `videos/050_2a8AdacVe58.md`
+- [54] i rewired my brain, then scaled my agency to $5M at 29 → `videos/054_BDZnjBfoV0s.md`
+- [55] "I'm working 16 hours per day in my agency" → `videos/055__LWAVSQw2no.md`
+- [71] The 4 Levels Of Building A $5M Agency → `videos/071_kRFqQ6-yurc.md`
+- [88] How To Scale Your Agency FAST With SOP's 2026 → `videos/088_9juQC7nlWkc.md`
+- [89] She Took Her Agency From $1,600 → $47,000 in 8 Weeks → `videos/089_ykmz7HIwouY.md`
+- [96] This Agency Owner Was Skeptical—Until He Landed His First Client in 4 Weeks → `videos/096_4eOxK494MPU.md`
+- [100] The TRUTH About Building a $100K/Mo Agency → `videos/100_wmeVIlUQMbI.md`
+- [104] 8 Brutal Lessons I Learned Scaling My Agency To $100K/mo → `videos/104_0KF2yBiyEBI.md`
+- [105] I Was Broke At 19. Now My Agency Makes +$100K/mos Without Me → `videos/105_VGdZHzlXoiw.md`
+- [106] i worked 4 hours a day and my agency kept hitting +$100K/Months → `videos/106_Ow2eietpqgA.md`
+- [109] Give me just 13 mins and I’ll DELETE your broken mindset → `videos/109_3m_SV_D1QOI.md`
+- [114] pov: helping 364 agencies buy back their time → `videos/114_nn7IPhiZE5Y.md`
+- [120] How I Built a +$100K/mo Agency That Runs Without Me → `videos/120_HFlRikA9uIo.md`
+- [133] THIS Creative Agency 9X Their Revenue With Our NEW Notion Systems → `videos/133_alGapqeMtKY.md`
+- [134] I Went From BROKE Freelancer to $200k/mo Agency CEO in 2 Years! → `videos/134_VVcqpHBexqQ.md`
+- [143] How THESE Agency Owners Are Building 7-Figure Agencies → `videos/143_7IDaqxE8ebs.md`
+- [148] How We Are Helping +150 Agencies Scale to $100k Months → `videos/148_qHDLQPqtHzo.md`
+- [153] 24 Hour Agency Owner Mastermind → `videos/153_awRf0vNqxpA.md`
+- [155] pov: helping +150 agencies scale 1:1 to $100km → `videos/155_hjD7KWuH7gE.md`
+- [156] 7 Years of No BS SMMA Advice in 18 Mins → `videos/156__yibGLQRA8o.md`
+- [163] pov: 31 year old $200k/mo Agency Owner CEO → `videos/163_HzFnVqjfdrk.md`
+- [168] This Simple Shift Could Take Your Agency to $50k → `videos/168_lpTXhD6Ogco.md`
+- [170] CEO Productivity SECRETS to scale to $100k/mo → `videos/170_QYjmsuUxgHs.md`
+- [174] I Debunked 200+ Agency Owner’s Myths → `videos/174_vFfjitL_Af4.md`
+- [175] Alex Hormozi SECRETS for Scaling an Agency to $100k/mo → `videos/175_QxpFwFFUGDk.md`
+- [179] Scaling Past 100k mo is EASIER Than You Think → `videos/179_ehMJPUOaKmo.md`
+- [181] Alex Hormozi 4 Business Concepts for Agencies → `videos/181_88E4JR78tyM.md`
+- [184] you will never hit $100k/mo if you keep doing this → `videos/184_Qi4_J4hPBNc.md`
+- [185] My Secret to Building a $100k/mo Agency Team (Step-By-Step) → `videos/185_CNTFjEDN32U.md`
+- [189] If I Wanted to Go From Broke to Agency CEO, Here’s What I’d Do → `videos/189_IgLjjjTsyWY.md`
+- [204] I Studied 300 Agencies to Build a Perfect One → `videos/204_O5AxLg_005g.md`
+- [205] Debunking The Most Common Agency Myths (Part 1) → `videos/205_JxDkAqWRK1U.md`
+- [211] exactly how i went from making 0 to 100k per month in 10 months step by step (so you can copy me) → `videos/211_nwFcEcyxDnc.md`
+- [217] Agency Sales Mastery: A Comprehensive Guide To Land More Sales → `videos/217_R0rPHcg3Iik.md`
+- [230] How I went from Freelance Videographer to 7 Figure Content Agency → `videos/230_hpa_4fxYFUU.md`
+- [236] Owning an Agency is Hard.... → `videos/236_PfBeskEX6K4.md`
+- [242] Freelancer to $50K/Mo Agency: Matt's Journey to Business Owner. → `videos/242_laSYEb_-Ku8.md`
+- [246] Why Most Agencies FAIL: Mistakes You MUST Avoid → `videos/246_eHPGeGWO5P4.md`
+- [247] The TRUTH About My $200,000p/m Agency → `videos/247_vidUriCPxws.md`
+- [253] How We Hit Our First Seven Figures | Agency U Podcast Ep. 1 → `videos/253_K7jjPlcMWZ8.md`
+- [256] 5 Steps To Go From Freelancer to Agency Owner (Fact not theory) → `videos/256_eEC3DrM8gvw.md`
+- [269] Day in Life of Creative Agency CEO (REALISTIC, 15 EMPLOYEES) → `videos/269_fe5yDx3C8NM.md`
+- [281] Should you start a marketing agency? → `videos/281_Rcvcu5S6Zgk.md`
+- [282] Neel Dhingra - Social media and mortgage, how to land BIG collabs, and financial freedom. → `videos/282_dd5Jl7UiPH0.md`
+
+### Operations & Systeme (108)
+- [1] Give Me 15 Minutes, I’ll Give You 10,000 Hours of Agency Knowledge → `videos/001_XWsJwENtXyU.md`
+- [2] How I Would Build a $6.4M/Year Agency (If I Had to Start Over) → `videos/002_Ryj3Iywg1SQ.md`
+- [7] How This Agency Owner Scaled To $40K/Mo → `videos/007_1ZkSsNQyUiM.md`
+- [11] How I Scaled From $10K to $50Kmo — Here Are the 5 Things That Changed → `videos/011_ig-ngoBT61w.md`
+- [12] How I Run A $5M Agency In 4 Hrs/Day (Full Ops Breakdown) → `videos/012_xdX-BDOSw28.md`
+- [15] How To Hire Your First AI Employee In 2026 (Step By Step) → `videos/015_iQT-5bnJlY4.md`
+- [17] How AI Runs My $5M/Yr Agency For Me → `videos/017_IXyR300yMDE.md`
+- [19] How to Prove ROI to Agency Clients So They Never Want to Leave → `videos/019__pn6jL4u6Z4.md`
+- [27] How He Doubled His Agency to $25K/mo in 4 Months → `videos/027_d7vDXgg1SWo.md`
+- [28] I Tracked 10 Metrics in 723 Agencies, Here’s What Works → `videos/028_LWYmO5Df-TU.md`
+- [29] How I Fully Automated My Agency With 5 AI Employees → `videos/029_OvxkwBo1_24.md`
+- [32] How I Use AI To Run A $5M Agency → `videos/032_ReAwGno27qg.md`
+- [33] How I Hired A Creative Strategist For My $5M Agency (Step By Step) → `videos/033_TP-FZhEWFjg.md`
+- [34] How I Hired My First Videographer For My $5M Video Agency → `videos/034_czSpbdcly4w.md`
+- [35] The 7 Tracking Systems I Used To Scale My Agency Past $100K/month → `videos/035_Y0U0NISLaP0.md`
+- [38] How I Scaled My Video Agency Past $100KMonth Without Being On Every Shoot → `videos/038_yC3_wg-ssbY.md`
+- [40] How to Build a Video Editing Team From Scratch → `videos/040_KfEgAagyjF4.md`
+- [42] How This Agency Owner Doubled Her Prices by Doing LESS → `videos/042_7HmJmFo4cyU.md`
+- [43] How to stop being the bottleneck in your video business → `videos/043_mTxbsvFMCFY.md`
+- [47] From 80-Hour Workweek "Grind" To A Scalable Agency → `videos/047_SL-aJmXkL-k.md`
+- [49] From 60-Hour Weeks to True CEO: How She Automated Her Agency → `videos/049_PP0m5fIZX58.md`
+- [52] my video editor onboarding process for agencies (copy me) → `videos/052_8Tw-9OtevVQ.md`
+- [53] How Ian Doubled His Agency Profit Margins (30% to 66% Profit in 4 Months) → `videos/053_kfqLeDTjtqo.md`
+- [55] "I'm working 16 hours per day in my agency" → `videos/055__LWAVSQw2no.md`
+- [58] How This Agency Owner Did More in 6 WEEKS Than an Entire Year (And Working Less) → `videos/058_zgka6p0rU4U.md`
+- [60] the EXACT video production workflow I used for my 5M agency → `videos/060_mRPFm-ze_nA.md`
+- [62] How Tony Took His Video Agency From $2.5K/mo to $15K/mo In Under 3 Months → `videos/062_EbVsuIfUqJY.md`
+- [63] Agency stuck in fulfillment? → `videos/063_TRX0KO8NHX8.md`
+- [66] How I Manage 87 Clients On Notion (Copy My Template) → `videos/066_iMdUQ5b8HQU.md`
+- [67] Javier & Leslie Went From $0-$10K/month With Their Video Agency → `videos/067_hrCP0vVDy_8.md`
+- [68] 4 Ways I Use Notion To Automate My $5M Agency → `videos/068_cEPNPs0nHfw.md`
+- [73] 5 Hiring Mistakes That Kill Agencies at $10K-30K/Month → `videos/073_NSiWAT_Uijo.md`
+- [75] How To Remove Yourself From Day To Day Agency Fulfillment → `videos/075_ysM1JJ2QgQI.md`
+- [76] Notion vs ClickUp: What's Best For Agencies? → `videos/076_87POr6yZRvg.md`
+- [80] How to Build Systems (so your business runs without you) → `videos/080_6VeJfIaoWlQ.md`
+- [82] The Ultimate Notion Hiring System For Agencies → `videos/082_FdfQWsX0CD0.md`
+- [83] Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver → `videos/083_WLurUGpDnYM.md`
+- [85] Notion Vs Monday.com: Which Is Better For Agencies → `videos/085_zBP-TuLAmPM.md`
+- [86] How Jacob Automated & Systemized His Video Agency → `videos/086_LSPJ52jh4cI.md`
+- [88] How To Scale Your Agency FAST With SOP's 2026 → `videos/088_9juQC7nlWkc.md`
+- [90] Notion vs Asana: Which Tool Is Right For Your Agency? → `videos/090_xJLu33s6e58.md`
+- [93] The Ultimate Notion Template For Agencies In 2026 (Steal My Template) → `videos/093__BlhWcMI1SQ.md`
+- [94] Steve DOUBLED His Profit Margins For His Ad Agency → `videos/094_cVscb0aIgnQ.md`
+- [95] How Clayton Built A $200k/Month Video Agency → `videos/095_Fn4ZKLXfrKQ.md`
+- [97] How I Use Notion To Run My $5M Agency (Steal My Template) → `videos/097_bZT9wYNx6Vg.md`
+- [99] Video Agencies: Get CRAZY Results For Your Clients (GUARANTEED) → `videos/099_6imElLkkfLU.md`
+- [100] The TRUTH About Building a $100K/Mo Agency → `videos/100_wmeVIlUQMbI.md`
+- [103] How I Automated My 7 Figure Agency (FREE OPS COURSE) → `videos/103_4q5sK9kMjzc.md`
+- [106] i worked 4 hours a day and my agency kept hitting +$100K/Months → `videos/106_Ow2eietpqgA.md`
+- [107] 3 AI Agents You MUST HAVE For Your Agency in 2025 → `videos/107_hkuPPcRY4AM.md`
+- [115] How I Built a $100K/Month Agency Using SYSTEMS → `videos/115_hggXDRwhfpE.md`
+- [118] How This Freelancer Built a $100k/mo Agency & Studio in 6 Months → `videos/118_UnlJylXRAoY.md`
+- [119] I Built An Entire Agency Onboarding System In 45 Minutes → `videos/119_bkKSTyktenE.md`
+- [120] How I Built a +$100K/mo Agency That Runs Without Me → `videos/120_HFlRikA9uIo.md`
+- [123] FULL Notion Course For Agency Owners (112 Mins) → `videos/123_5mWj25dYkKo.md`
+- [124] This is Boring, But You’ll Hit $100k/mo in Your Agency FAST → `videos/124_iH8tQCN6l4I.md`
+- [125] How I Built a $200k/mo Agency From My Personal Brand (Full Breakdown) → `videos/125_-8MEGEFG990.md`
+- [127] I Cracked The Code on Fulfillment in Notion (2025) → `videos/127_HlNs_bXgNBQ.md`
+- [128] The Sales System I Use To Book 4397 Sales Calls For My Agency → `videos/128_nlogfkOfcSo.md`
+- [129] The Simplest Way to Build a Client Portal That Keeps Clients Happy → `videos/129_0va8NT6HJ-I.md`
+- [130] Why Notion Forms Are a Game Changer for Agencies → `videos/130_8Qu7OVossCw.md`
+- [131] How I Turned Notion into a CRM For My Agency (10X SALES) → `videos/131_JH9QoJH6jys.md`
+- [132] $100K/Mo Hiring System for Agency Owners → `videos/132_SZLMdwck29E.md`
+- [133] THIS Creative Agency 9X Their Revenue With Our NEW Notion Systems → `videos/133_alGapqeMtKY.md`
+- [136] NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion → `videos/136_9Klw68QX3l4.md`
+- [138] NEW Way To Run A $100k/mo Agency Using Notion in 2026 → `videos/138_k3Kz1aQVtrM.md`
+- [140] Ken Made $100K in 7 Weeks this NEW Offer in His Agency (CASE STUDY) → `videos/140_uJ3RhIJnjj8.md`
+- [141] How I AUTOMATE My Marketing Agency's Onboarding in 5 Minutes → `videos/141_MS8uZDP3_xk.md`
+- [145] How I Built My $200k/mo Agency So It Runs Without Me → `videos/145_tmPGfUd8fZ8.md`
+- [147] 15 Marketing Tools For Agencies in 2025 → `videos/147_tmVW7uBlCVM.md`
+- [156] 7 Years of No BS SMMA Advice in 18 Mins → `videos/156__yibGLQRA8o.md`
+- [162] The 4 Systems That Scaled Me To $200k in My Marketing Agency → `videos/162_jKlx9Loi_tQ.md`
+- [166] if you want to scale your agency to $100k/mo. watch this. → `videos/166_3YZmT1pV2jE.md`
+- [167] How to Build $200k/mo Systems (So Your SMMA Runs Without You) → `videos/167_f95ci9_8rVA.md`
+- [173] From Being Overwhelmed to Consistent $20k Months → `videos/173_tjRmEAFPmfo.md`
+- [182] The 4 Pillars Your Agency Needs To Scale to $200k/pm → `videos/182_M88S2UId1zg.md`
+- [190] SECRETS For Managing Creatives Inside a $100k/mo Agency → `videos/190_EE2IYJwaRC8.md`
+- [193] The Only Guide You'll Ever Need to Hit $100k/months in 2025 → `videos/193_MHOBpY7STRQ.md`
+- [194] $200k/mo CEO Explains How to Build An Agency You Love → `videos/194_0efZT3jKV-s.md`
+- [195] 4 Reasons Your Agency Is Stuck at $20K/Month → `videos/195_xM7Po9uT5BI.md`
+- [197] This ONE Skill Took My Agency from Chaos to +$100K/Month → `videos/197_I7Lm5-lPZto.md`
+- [198] I Cracked the Code on Service Delivery → `videos/198_LkZlwRsVj0E.md`
+- [199] How to Track Your $100k/Mo Agency Using Notion → `videos/199_kT7iYENYNZU.md`
+- [200] How I Use Notion to Run a $200k/mo Agency → `videos/200_GOIXserpHpg.md`
+- [207] Scaling Content Systems For Agencies with Stephen G. Pope → `videos/207_zz0VuF7hNxU.md`
+- [208] How Max's Content Agency Makes Podcast Go Viral → `videos/208_71KEEApPO84.md`
+- [215] Watch this 15 minute video to automate your agency → `videos/215_gs8H7NTqNk0.md`
+- [216] How I onboarded 222 agency clients → `videos/216_geeaeu7ieE0.md`
+- [218] Removing Myself From My Business in 7 Days → `videos/218_mI8HLqA0bF8.md`
+- [225] $50,000/mo Agency with Appointment Setters → `videos/225_VMkUBziiBAU.md`
+- [226] I Sent 250 Instagram DMs a Day and Got This Many Clients → `videos/226_W302TvvABoU.md`
+- [228] Gabe DOUBLED His Real Estate Media Agency Doing THIS... → `videos/228_FFK-LBAKHmM.md`
+- [229] Building to Sell: Crafting a Valuable Agency with Brett Watts → `videos/229_9JMOF5-bdgE.md`
+- [233] Delegate Like a Pro: How to Hand Off Tasks Without Losing Quality → `videos/233_C817khPcccI.md`
+- [234] Scaling My Agency to $200,000 Per Month. → `videos/234_aosDZr6zE3c.md`
+- [239] Video Agency QUADRUPLED With This Simple Strategy → `videos/239_reak5WzmXks.md`
+- [252] How To Buy Back Your Time & Increase Profit In Your Agency → `videos/252_qxtsD9QW7ok.md`
+- [258] LinkedIn Sales Navigator Lead Scraping: Step-by-Step Guide for Agency Owners → `videos/258_OgX9rNxjaW4.md`
+- [261] Short Form Video Offer: A Step-by-Step Guide for SMMA Success → `videos/261_PEf-sLzRDCw.md`
+- [262] How to Scrape Leads from a Website Using THIS Bot 🤖 (SUPER EASY) → `videos/262_H8iAaGJJQJQ.md`
+- [264] How To Automate Your Agency Onboarding Process | Step By Step Tutorial → `videos/264_JrKhNt4Aw-8.md`
+- [266] Step By Step Guide for Chat GPT for Agency Cold Outreach → `videos/266__Z47lw96IPU.md`
+- [268] How we Send 2,000 Cold Emails a Day (SMMA COLD OUTREACH) → `videos/268_BUMh0BvrqpE.md`
+- [274] How to Scale Your Agency (What gurus don't talk about enough). → `videos/274_z-tqTFnAsDE.md`
+- [275] 6 Figure Agency in 6 Months → `videos/275_9TDwYbbDNlQ.md`
+- [277] Agency Owners, here's how to close more deals with Calendly! → `videos/277_t_tVaxIg6P4.md`
+- [279] 6 Tools your Marketing Agency NEEDS → `videos/279_lZWQpCpkYi0.md`
+- [280] REVEALED: How to find unlimited LEADS for your Marketing Agency. 🤩 → `videos/280_6YlPfDB2XFM.md`
+
+### Preise & Retainer (40)
+- [4] Building a $100K/Month Agency Offer From SCRATCH (Full Guide) → `videos/004_VDEbrYSHIpo.md`
+- [6] How They Scaled Their YouTube Agency To $300K/Month → `videos/006_6Pv2dx4sEag.md`
+- [10] The Exact Video Retainer Model I Used To Go From Project Work To $100K+Month → `videos/010_bokLFVIDAas.md`
+- [18] How I Sell $5K+ Mo Video Retainers to Local Businesses → `videos/018_-TGxrN1qliw.md`
+- [21] How To Raise Your Agency Prices Without Losing Clients → `videos/021_1qUnlkypA0Y.md`
+- [25] How This Videographer Built a $30K/mo Agency That Runs WITHOUT Him → `videos/025_41DYjRTgSLY.md`
+- [27] How He Doubled His Agency to $25K/mo in 4 Months → `videos/027_d7vDXgg1SWo.md`
+- [37] How Tyler Went From $15K/Month to $40K/Month (While Working Less) → `videos/037_iXATbS0lINU.md`
+- [39] How to Pay Video Editors and Videographers Per Client → `videos/039_dfKwWb7EnjI.md`
+- [42] How This Agency Owner Doubled Her Prices by Doing LESS → `videos/042_7HmJmFo4cyU.md`
+- [44] How to Price Video Retainer Packages (Real Numbers) → `videos/044_U6hgYmZGm8c.md`
+- [46] retainer vs project based pricing for video agencies → `videos/046_PD4Blui3gOA.md`
+- [48] how to price video production retainer packages → `videos/048_a6VYG8jV-xk.md`
+- [59] Helping An Agency Owner Go From $10K/Month to $30K/Month → `videos/059_wv0-Urye72A.md`
+- [109] Give me just 13 mins and I’ll DELETE your broken mindset → `videos/109_3m_SV_D1QOI.md`
+- [113] Starting a $100k/mo Agency in 1 Day → `videos/113_ODCKv8NMjxc.md`
+- [116] Building a $100K/mo Agency For A Stranger in 26 Mins → `videos/116_UCuCiEm1Rlg.md`
+- [150] Justin was a confused freelancer to having clarity with $40k/mo running a team (CASE STUDY) → `videos/150_xUKYgsdqeCk.md`
+- [151] i hit $200k month in my smma on easy mode lol → `videos/151_UMMMJ0ISsms.md`
+- [154] How I Scaled My Agency to $220,000/Month [FULL Masterclass] → `videos/154_XzTjYx3wlyc.md`
+- [158] How This Freelancer Went From $1k to $15k in 4 Weeks (CASE STUDY) → `videos/158_cSCcAIomSv4.md`
+- [159] How to Build A $100k/mo Agency Offer → `videos/159_8ggjfN6VA-4.md`
+- [165] How Ryan Added $34,000 in 2 Weeks in his SMMA → `videos/165_LyxUtEwuNiI.md`
+- [169] How Cutting 75% of His Clients Created Clarity → `videos/169_NnOfVZ7OdTk.md`
+- [172] The Retainer Model That Grew This Real Estate Agency to $100k → `videos/172_bpRIUw6iP0s.md`
+- [177] The Guy Behind Viral Personal Brands Sharing ALL His Secrets → `videos/177_r7QMKXSzQIs.md`
+- [180] What It Really Takes to Hit $100k/m In Your Agency → `videos/180_MRxq1krHw-c.md`
+- [186] Step-By-Step How I Get $50k in PROFIT For My Agency! → `videos/186_fABV_rVWjwI.md`
+- [212] How to Build a Agency in 2024 [FULL GUIDE] → `videos/212_dPWsCJRWAgY.md`
+- [215] Watch this 15 minute video to automate your agency → `videos/215_gs8H7NTqNk0.md`
+- [223] The BEST Agency Offer to Scale in 2024 → `videos/223_TYl4GYvX9yU.md`
+- [228] Gabe DOUBLED His Real Estate Media Agency Doing THIS... → `videos/228_FFK-LBAKHmM.md`
+- [238] How to FIRE YOURSELF from your Agency (And Become a TRUE CEO) → `videos/238_KCfLQFHual0.md`
+- [244] Scaling Your Agency To $10k A Month And Beyond - Here's What You Need To Know | Episode 4 → `videos/244_eSsV7zvArBs.md`
+- [252] How To Buy Back Your Time & Increase Profit In Your Agency → `videos/252_qxtsD9QW7ok.md`
+- [256] 5 Steps To Go From Freelancer to Agency Owner (Fact not theory) → `videos/256_eEC3DrM8gvw.md`
+- [257] How to Price Your Agency Services (FOR PROFIT AND SCALE) → `videos/257_h7ct-1Ztve4.md`
+- [261] Short Form Video Offer: A Step-by-Step Guide for SMMA Success → `videos/261_PEf-sLzRDCw.md`
+- [273] How Our Multi-7 Figure Agency Prices Our Services → `videos/273_I99vyc_EvWc.md`
+- [278] Doubling His Business in 3 Months going from Freelancer to Agency Owner → `videos/278_Z716BCHOAwk.md`
+
+### Sales & Closing (34)
+- [3] $180K/mo Agency and Only Keeping 20% - Here's The Fix → `videos/003_cAGEGF0meNA.md`
+- [17] How AI Runs My $5M/Yr Agency For Me → `videos/017_IXyR300yMDE.md`
+- [28] I Tracked 10 Metrics in 723 Agencies, Here’s What Works → `videos/028_LWYmO5Df-TU.md`
+- [29] How I Fully Automated My Agency With 5 AI Employees → `videos/029_OvxkwBo1_24.md`
+- [32] How I Use AI To Run A $5M Agency → `videos/032_ReAwGno27qg.md`
+- [57] I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency → `videos/057_ecqocK8bhHw.md`
+- [68] 4 Ways I Use Notion To Automate My $5M Agency → `videos/068_cEPNPs0nHfw.md`
+- [77] How I Added $116K In Video Retainers For My Agency → `videos/077_amUEjRARz-A.md`
+- [81] How Albi Scaled His Agency From $12K/Mo to $40K/Mo → `videos/081_eUrfMvPUGGU.md`
+- [84] Dylan Scaled His Agency From $2K/Mo to $200K/Mo → `videos/084__TsElVjIsgQ.md`
+- [87] Building A $1,000,000 Agency For A Client In 29 Mins | Fix My Agency → `videos/087_BxEB7DHCV3E.md`
+- [98] How I Built a $5M Client Getting System (FREE COURSE) → `videos/098_5K1l2zTX_Xk.md`
+- [107] 3 AI Agents You MUST HAVE For Your Agency in 2025 → `videos/107_hkuPPcRY4AM.md`
+- [122] The ONLY Agency Sales Systems Training To Scale To $100k/mo → `videos/122_nKtb-Xr5HRE.md`
+- [126] THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS) → `videos/126_J4CG3HHi97E.md`
+- [131] How I Turned Notion into a CRM For My Agency (10X SALES) → `videos/131_JH9QoJH6jys.md`
+- [136] NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion → `videos/136_9Klw68QX3l4.md`
+- [148] How We Are Helping +150 Agencies Scale to $100k Months → `videos/148_qHDLQPqtHzo.md`
+- [152] $4K to $20K: The Accountability and Systems That CHANGED Our Agency (CASE STUDY) → `videos/152_AFP8g5ybFLw.md`
+- [160] Freelancer Scales to $50k MRR (CASE STUDY) → `videos/160_DD17nsWAPOA.md`
+- [167] How to Build $200k/mo Systems (So Your SMMA Runs Without You) → `videos/167_f95ci9_8rVA.md`
+- [173] From Being Overwhelmed to Consistent $20k Months → `videos/173_tjRmEAFPmfo.md`
+- [178] How to Get Clients Predictably To Hit $100k/mo → `videos/178_WNfEVXyna6o.md`
+- [180] What It Really Takes to Hit $100k/m In Your Agency → `videos/180_MRxq1krHw-c.md`
+- [189] If I Wanted to Go From Broke to Agency CEO, Here’s What I’d Do → `videos/189_IgLjjjTsyWY.md`
+- [192] Agencies: 10x Revenue with 1 New Sales Process → `videos/192_AzHMh_WYFlA.md`
+- [196] Asking 7 Figure Agency Owners Their Secret To Their Success → `videos/196_UDICDiG3auw.md`
+- [199] How to Track Your $100k/Mo Agency Using Notion → `videos/199_kT7iYENYNZU.md`
+- [217] Agency Sales Mastery: A Comprehensive Guide To Land More Sales → `videos/217_R0rPHcg3Iik.md`
+- [224] Why You're Not Getting New Clients... (For Content Agencies) → `videos/224_1yue8P7s6yM.md`
+- [245] Get More Video Clients With This Outreach Strategy → `videos/245_91XJAZ6vprE.md`
+- [248] How I Hit $223K/Month in Our Agency (STEP BY STEP) → `videos/248_gtjR45UQ3ZU.md`
+- [251] Mastering Sales at Your SMMA (SECRETS REVEALED) | ep. 2 → `videos/251_ajpkbolCmII.md`
+- [277] Agency Owners, here's how to close more deals with Calendly! → `videos/277_t_tVaxIg6P4.md`
+
+### Skalierung & Wachstum (56)
+- [1] Give Me 15 Minutes, I’ll Give You 10,000 Hours of Agency Knowledge → `videos/001_XWsJwENtXyU.md`
+- [11] How I Scaled From $10K to $50Kmo — Here Are the 5 Things That Changed → `videos/011_ig-ngoBT61w.md`
+- [33] How I Hired A Creative Strategist For My $5M Agency (Step By Step) → `videos/033_TP-FZhEWFjg.md`
+- [36] Scaling From Solo Videographer To Multi 6 Figure Agency → `videos/036_Yup0x3gjEO0.md`
+- [41] Helping An Agency Owner Go From $40-50K Month to $100K Month → `videos/041_hMcMa2SI1cA.md`
+- [50] the truth about running a 400K/month agency (not what you think) → `videos/050_2a8AdacVe58.md`
+- [57] I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency → `videos/057_ecqocK8bhHw.md`
+- [64] How I Grew My Video Agency From $0- $225K/Month → `videos/064_-IsDXPDGe3s.md`
+- [70] Building A $100K/Month Agency For An Agency Owner In 28 Minutes → `videos/070_iH8tIRLiswg.md`
+- [71] The 4 Levels Of Building A $5M Agency → `videos/071_kRFqQ6-yurc.md`
+- [84] Dylan Scaled His Agency From $2K/Mo to $200K/Mo → `videos/084__TsElVjIsgQ.md`
+- [91] The Fastest Way To Make $100k/Month with Your Video Agency → `videos/091_7FmI3BgRw0s.md`
+- [92] Steal My $320K/month Agency’s Systems & Team Structure (Full Operations Masterclass) → `videos/092_nuJv3-tGXZc.md`
+- [104] 8 Brutal Lessons I Learned Scaling My Agency To $100K/mo → `videos/104_0KF2yBiyEBI.md`
+- [105] I Was Broke At 19. Now My Agency Makes +$100K/mos Without Me → `videos/105_VGdZHzlXoiw.md`
+- [110] $10k/mo Freelancer vs $100k/mo Agency → `videos/110_OCzrqh8hAGw.md`
+- [115] How I Built a $100K/Month Agency Using SYSTEMS → `videos/115_hggXDRwhfpE.md`
+- [121] I Built a +$100K/Mo Agency (So You Can Copy Me) → `videos/121_V_2D6hvBBd0.md`
+- [124] This is Boring, But You’ll Hit $100k/mo in Your Agency FAST → `videos/124_iH8tQCN6l4I.md`
+- [138] NEW Way To Run A $100k/mo Agency Using Notion in 2026 → `videos/138_k3Kz1aQVtrM.md`
+- [144] The BEST Team Structure For Scaling To $100k/mo In Your Marketing Agency → `videos/144_KHUkKVlUevM.md`
+- [145] How I Built My $200k/mo Agency So It Runs Without Me → `videos/145_tmPGfUd8fZ8.md`
+- [148] How We Are Helping +150 Agencies Scale to $100k Months → `videos/148_qHDLQPqtHzo.md`
+- [149] How to Run a $200k/mo Marketing Agency in 1 Hour a Week → `videos/149_R2dVEktcmdY.md`
+- [154] How I Scaled My Agency to $220,000/Month [FULL Masterclass] → `videos/154_XzTjYx3wlyc.md`
+- [166] if you want to scale your agency to $100k/mo. watch this. → `videos/166_3YZmT1pV2jE.md`
+- [168] This Simple Shift Could Take Your Agency to $50k → `videos/168_lpTXhD6Ogco.md`
+- [171] $100k/mo Financial Plan For YOUR Agency → `videos/171_z0EsmBKlSZA.md`
+- [175] Alex Hormozi SECRETS for Scaling an Agency to $100k/mo → `videos/175_QxpFwFFUGDk.md`
+- [179] Scaling Past 100k mo is EASIER Than You Think → `videos/179_ehMJPUOaKmo.md`
+- [180] What It Really Takes to Hit $100k/m In Your Agency → `videos/180_MRxq1krHw-c.md`
+- [182] The 4 Pillars Your Agency Needs To Scale to $200k/pm → `videos/182_M88S2UId1zg.md`
+- [184] you will never hit $100k/mo if you keep doing this → `videos/184_Qi4_J4hPBNc.md`
+- [196] Asking 7 Figure Agency Owners Their Secret To Their Success → `videos/196_UDICDiG3auw.md`
+- [201] how to add $15k+ into your agency → `videos/201_GQyPGAynEC4.md`
+- [203] Watch these 45 minutes if you want to 10x your agency in 2024 → `videos/203_7nSKdRH7mGs.md`
+- [204] I Studied 300 Agencies to Build a Perfect One → `videos/204_O5AxLg_005g.md`
+- [209] Agencies Are Dying... Do THIS Instead → `videos/209_vaCDjkm-vF4.md`
+- [211] exactly how i went from making 0 to 100k per month in 10 months step by step (so you can copy me) → `videos/211_nwFcEcyxDnc.md`
+- [220] If I Were to Start an Agency in 2025, This Is What I'd Do [$0-$1M GUIDE] → `videos/220_LtY-O1GPqrQ.md`
+- [229] Building to Sell: Crafting a Valuable Agency with Brett Watts → `videos/229_9JMOF5-bdgE.md`
+- [230] How I went from Freelance Videographer to 7 Figure Content Agency → `videos/230_hpa_4fxYFUU.md`
+- [231] Subscribe for more → `videos/231_sCcrliBE4PA.md`
+- [234] Scaling My Agency to $200,000 Per Month. → `videos/234_aosDZr6zE3c.md`
+- [238] How to FIRE YOURSELF from your Agency (And Become a TRUE CEO) → `videos/238_KCfLQFHual0.md`
+- [241] How Think Bullish Grew To A $110K/Mo SMMA → `videos/241_-29-CkbBRFk.md`
+- [244] Scaling Your Agency To $10k A Month And Beyond - Here's What You Need To Know | Episode 4 → `videos/244_eSsV7zvArBs.md`
+- [246] Why Most Agencies FAIL: Mistakes You MUST Avoid → `videos/246_eHPGeGWO5P4.md`
+- [247] The TRUTH About My $200,000p/m Agency → `videos/247_vidUriCPxws.md`
+- [248] How I Hit $223K/Month in Our Agency (STEP BY STEP) → `videos/248_gtjR45UQ3ZU.md`
+- [253] How We Hit Our First Seven Figures | Agency U Podcast Ep. 1 → `videos/253_K7jjPlcMWZ8.md`
+- [254] Why Your Agency Isn't Scaling Past $15k/mo... → `videos/254_hW_RyYAPgM4.md`
+- [259] How I Built a 7 Figure Agency (4 Key Steps) → `videos/259_jUTeGM_lMIQ.md`
+- [263] How We Book 5+ Calls Per Day WITHOUT Ads (STEP BY STEP CREATIVE AGENCY TRAINING) → `videos/263_ywp_l52vMD8.md`
+- [274] How to Scale Your Agency (What gurus don't talk about enough). → `videos/274_z-tqTFnAsDE.md`
+- [281] Should you start a marketing agency? → `videos/281_Rcvcu5S6Zgk.md`
+
+### Team & Hiring (90)
+- [1] Give Me 15 Minutes, I’ll Give You 10,000 Hours of Agency Knowledge → `videos/001_XWsJwENtXyU.md`
+- [5] From $17.5K to $180K/mo | How This Agency Scaled in 12 Months → `videos/005_MOM0FqF2njE.md`
+- [6] How They Scaled Their YouTube Agency To $300K/Month → `videos/006_6Pv2dx4sEag.md`
+- [7] How This Agency Owner Scaled To $40K/Mo → `videos/007_1ZkSsNQyUiM.md`
+- [11] How I Scaled From $10K to $50Kmo — Here Are the 5 Things That Changed → `videos/011_ig-ngoBT61w.md`
+- [12] How I Run A $5M Agency In 4 Hrs/Day (Full Ops Breakdown) → `videos/012_xdX-BDOSw28.md`
+- [13] Watch Me Live Scale This $10K/Mo Social Media Marketing Agency → `videos/013_fDzvgh6lRrU.md`
+- [14] I Almost Quit My Agency — Here's What Changed Everything → `videos/014_Zc7lHDG6A5Q.md`
+- [20] How I Built A Player Company Culture At My $5M Agency → `videos/020_u2qqCg4358c.md`
+- [33] How I Hired A Creative Strategist For My $5M Agency (Step By Step) → `videos/033_TP-FZhEWFjg.md`
+- [34] How I Hired My First Videographer For My $5M Video Agency → `videos/034_czSpbdcly4w.md`
+- [38] How I Scaled My Video Agency Past $100KMonth Without Being On Every Shoot → `videos/038_yC3_wg-ssbY.md`
+- [39] How to Pay Video Editors and Videographers Per Client → `videos/039_dfKwWb7EnjI.md`
+- [40] How to Build a Video Editing Team From Scratch → `videos/040_KfEgAagyjF4.md`
+- [43] How to stop being the bottleneck in your video business → `videos/043_mTxbsvFMCFY.md`
+- [52] my video editor onboarding process for agencies (copy me) → `videos/052_8Tw-9OtevVQ.md`
+- [56] How She Went From Solo Operator To CEO (Social Media Agency) → `videos/056_-Epdh65xclQ.md`
+- [61] Who to hire FIRST in your video agency → `videos/061_jav79PMk1Hs.md`
+- [63] Agency stuck in fulfillment? → `videos/063_TRX0KO8NHX8.md`
+- [68] 4 Ways I Use Notion To Automate My $5M Agency → `videos/068_cEPNPs0nHfw.md`
+- [70] Building A $100K/Month Agency For An Agency Owner In 28 Minutes → `videos/070_iH8tIRLiswg.md`
+- [71] The 4 Levels Of Building A $5M Agency → `videos/071_kRFqQ6-yurc.md`
+- [73] 5 Hiring Mistakes That Kill Agencies at $10K-30K/Month → `videos/073_NSiWAT_Uijo.md`
+- [75] How To Remove Yourself From Day To Day Agency Fulfillment → `videos/075_ysM1JJ2QgQI.md`
+- [80] How to Build Systems (so your business runs without you) → `videos/080_6VeJfIaoWlQ.md`
+- [82] The Ultimate Notion Hiring System For Agencies → `videos/082_FdfQWsX0CD0.md`
+- [86] How Jacob Automated & Systemized His Video Agency → `videos/086_LSPJ52jh4cI.md`
+- [88] How To Scale Your Agency FAST With SOP's 2026 → `videos/088_9juQC7nlWkc.md`
+- [92] Steal My $320K/month Agency’s Systems & Team Structure (Full Operations Masterclass) → `videos/092_nuJv3-tGXZc.md`
+- [101] Agency Scaled to $200k/Mo by QUITTING THIS → `videos/101_dVh263luJSM.md`
+- [102] He’s on Track for $100K/Month… and Works LESS Than You → `videos/102_FvjMjC0eaSA.md`
+- [103] How I Automated My 7 Figure Agency (FREE OPS COURSE) → `videos/103_4q5sK9kMjzc.md`
+- [110] $10k/mo Freelancer vs $100k/mo Agency → `videos/110_OCzrqh8hAGw.md`
+- [112] Building a $100K/Month Agency For a Client in 27 Mins → `videos/112_l2mkxM_Rp30.md`
+- [114] pov: helping 364 agencies buy back their time → `videos/114_nn7IPhiZE5Y.md`
+- [115] How I Built a $100K/Month Agency Using SYSTEMS → `videos/115_hggXDRwhfpE.md`
+- [116] Building a $100K/mo Agency For A Stranger in 26 Mins → `videos/116_UCuCiEm1Rlg.md`
+- [120] How I Built a +$100K/mo Agency That Runs Without Me → `videos/120_HFlRikA9uIo.md`
+- [121] I Built a +$100K/Mo Agency (So You Can Copy Me) → `videos/121_V_2D6hvBBd0.md`
+- [122] The ONLY Agency Sales Systems Training To Scale To $100k/mo → `videos/122_nKtb-Xr5HRE.md`
+- [132] $100K/Mo Hiring System for Agency Owners → `videos/132_SZLMdwck29E.md`
+- [134] I Went From BROKE Freelancer to $200k/mo Agency CEO in 2 Years! → `videos/134_VVcqpHBexqQ.md`
+- [137] THIS Video Agency Owner Went From Burnout to $30K Months in 6 Months → `videos/137_YUSPn7pqoYw.md`
+- [144] The BEST Team Structure For Scaling To $100k/mo In Your Marketing Agency → `videos/144_KHUkKVlUevM.md`
+- [145] How I Built My $200k/mo Agency So It Runs Without Me → `videos/145_tmPGfUd8fZ8.md`
+- [149] How to Run a $200k/mo Marketing Agency in 1 Hour a Week → `videos/149_R2dVEktcmdY.md`
+- [155] pov: helping +150 agencies scale 1:1 to $100km → `videos/155_hjD7KWuH7gE.md`
+- [162] The 4 Systems That Scaled Me To $200k in My Marketing Agency → `videos/162_jKlx9Loi_tQ.md`
+- [167] How to Build $200k/mo Systems (So Your SMMA Runs Without You) → `videos/167_f95ci9_8rVA.md`
+- [168] This Simple Shift Could Take Your Agency to $50k → `videos/168_lpTXhD6Ogco.md`
+- [171] $100k/mo Financial Plan For YOUR Agency → `videos/171_z0EsmBKlSZA.md`
+- [174] I Debunked 200+ Agency Owner’s Myths → `videos/174_vFfjitL_Af4.md`
+- [185] My Secret to Building a $100k/mo Agency Team (Step-By-Step) → `videos/185_CNTFjEDN32U.md`
+- [186] Step-By-Step How I Get $50k in PROFIT For My Agency! → `videos/186_fABV_rVWjwI.md`
+- [189] If I Wanted to Go From Broke to Agency CEO, Here’s What I’d Do → `videos/189_IgLjjjTsyWY.md`
+- [190] SECRETS For Managing Creatives Inside a $100k/mo Agency → `videos/190_EE2IYJwaRC8.md`
+- [194] $200k/mo CEO Explains How to Build An Agency You Love → `videos/194_0efZT3jKV-s.md`
+- [195] 4 Reasons Your Agency Is Stuck at $20K/Month → `videos/195_xM7Po9uT5BI.md`
+- [196] Asking 7 Figure Agency Owners Their Secret To Their Success → `videos/196_UDICDiG3auw.md`
+- [197] This ONE Skill Took My Agency from Chaos to +$100K/Month → `videos/197_I7Lm5-lPZto.md`
+- [202] how i built a $200k month agency to prove it’s not luck → `videos/202_UsCcAh9jio8.md`
+- [205] Debunking The Most Common Agency Myths (Part 1) → `videos/205_JxDkAqWRK1U.md`
+- [206] Agencies: DO THIS to Grow on Autopilot → `videos/206_ltUGT6rcFaw.md`
+- [210] How Jordan CRUSHED $10k in 90 Days → `videos/210_xqw2mUDVp8Q.md`
+- [211] exactly how i went from making 0 to 100k per month in 10 months step by step (so you can copy me) → `videos/211_nwFcEcyxDnc.md`
+- [213] The Only Agency Guide You'll Ever Need → `videos/213_VPrNFNQCB48.md`
+- [215] Watch this 15 minute video to automate your agency → `videos/215_gs8H7NTqNk0.md`
+- [218] Removing Myself From My Business in 7 Days → `videos/218_mI8HLqA0bF8.md`
+- [219] Hormozi's Advice for Agencies → `videos/219_IOkMlGRc2XQ.md`
+- [221] He fired himself from his agency…Here’s what happened → `videos/221_ahwUsWw9ph8.md`
+- [225] $50,000/mo Agency with Appointment Setters → `videos/225_VMkUBziiBAU.md`
+- [229] Building to Sell: Crafting a Valuable Agency with Brett Watts → `videos/229_9JMOF5-bdgE.md`
+- [230] How I went from Freelance Videographer to 7 Figure Content Agency → `videos/230_hpa_4fxYFUU.md`
+- [233] Delegate Like a Pro: How to Hand Off Tasks Without Losing Quality → `videos/233_C817khPcccI.md`
+- [234] Scaling My Agency to $200,000 Per Month. → `videos/234_aosDZr6zE3c.md`
+- [236] Owning an Agency is Hard.... → `videos/236_PfBeskEX6K4.md`
+- [237] How I Hire A PLAYER Video Editors for Our Agency (STEP BY STEP) → `videos/237_L3BG3DIRq8I.md`
+- [238] How to FIRE YOURSELF from your Agency (And Become a TRUE CEO) → `videos/238_KCfLQFHual0.md`
+- [239] Video Agency QUADRUPLED With This Simple Strategy → `videos/239_reak5WzmXks.md`
+- [241] How Think Bullish Grew To A $110K/Mo SMMA → `videos/241_-29-CkbBRFk.md`
+- [247] The TRUTH About My $200,000p/m Agency → `videos/247_vidUriCPxws.md`
+- [251] Mastering Sales at Your SMMA (SECRETS REVEALED) | ep. 2 → `videos/251_ajpkbolCmII.md`
+- [253] How We Hit Our First Seven Figures | Agency U Podcast Ep. 1 → `videos/253_K7jjPlcMWZ8.md`
+- [254] Why Your Agency Isn't Scaling Past $15k/mo... → `videos/254_hW_RyYAPgM4.md`
+- [256] 5 Steps To Go From Freelancer to Agency Owner (Fact not theory) → `videos/256_eEC3DrM8gvw.md`
+- [259] How I Built a 7 Figure Agency (4 Key Steps) → `videos/259_jUTeGM_lMIQ.md`
+- [263] How We Book 5+ Calls Per Day WITHOUT Ads (STEP BY STEP CREATIVE AGENCY TRAINING) → `videos/263_ywp_l52vMD8.md`
+- [269] Day in Life of Creative Agency CEO (REALISTIC, 15 EMPLOYEES) → `videos/269_fe5yDx3C8NM.md`
+- [274] How to Scale Your Agency (What gurus don't talk about enough). → `videos/274_z-tqTFnAsDE.md`
+- [278] Doubling His Business in 3 Months going from Freelancer to Agency Owner → `videos/278_Z716BCHOAwk.md`
+
+### Video-Produktion & Handwerk (8)
+- [60] the EXACT video production workflow I used for my 5M agency → `videos/060_mRPFm-ze_nA.md`
+- [83] Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver → `videos/083_WLurUGpDnYM.md`
+- [118] How This Freelancer Built a $100k/mo Agency & Studio in 6 Months → `videos/118_UnlJylXRAoY.md`
+- [177] The Guy Behind Viral Personal Brands Sharing ALL His Secrets → `videos/177_r7QMKXSzQIs.md`
+- [198] I Cracked the Code on Service Delivery → `videos/198_LkZlwRsVj0E.md`
+- [207] Scaling Content Systems For Agencies with Stephen G. Pope → `videos/207_zz0VuF7hNxU.md`
+- [237] How I Hire A PLAYER Video Editors for Our Agency (STEP BY STEP) → `videos/237_L3BG3DIRq8I.md`
+- [255] Are Short Form Video Agencies DEAD? (The TRUTH) → `videos/255_ZXSMmxDIpYE.md`
+
+## Alle Videos mit Kurzbeschreibung
+
+- **[1] Give Me 15 Minutes, I’ll Give You 10,000 Hours of Agency Knowledge** (Skalierung & Wachstum, Operations & Systeme, Team & Hiring) — Austin beschreibt die sechs Stufen, über die er von einem überarbeiteten "glorifizierten Freelancer" zu einer Agentur mit ca. 6 Mio. $ Jahresumsatz kam, die auch ohne ihn läuft. → `videos/001_XWsJwENtXyU.md`
+- **[2] How I Would Build a $6.4M/Year Agency (If I Had to Start Over)** (Angebot & Positionierung, Kundengewinnung & Outreach, Operations & Systeme) — Welche Bausteine Austin in welcher Reihenfolge aufbauen würde, wenn er ohne Kunden und Team neu anfangen müsste: Offer, Momentum-Kampagne, Lead-System, Sales-Prozess, Onboarding, Client Success und zuletzt AI. Das Video ist gleichzeitig ein Pitch für sein Coaching-Programm AgencyU. → `videos/002_Ryj3Iywg1SQ.md`
+- **[3] $180K/mo Agency and Only Keeping 20% - Here's The Fix** (Fallstudie / Coaching-Call, Sales & Closing, Finanzen & Marge) — Coaching-Call mit Mike. Seine Performance-Ads-Agentur für Home-Service-Betriebe und Med Spas macht 170–180K $/Monat, behält aber nur etwa 20 %. Gemeinsam mit Austin analysiert er Offer, Sales, Pod-Struktur und Client Success und legt fest, wie er in Richtung 500K $/Monat kommt. → `videos/003_cAGEGF0meNA.md`
+- **[4] Building a $100K/Month Agency Offer From SCRATCH (Full Guide)** (Angebot & Positionierung, Preise & Retainer, Finanzen & Marge) — Austin baut live mit Claude ein Agentur-Offer für Home-Service-Betriebe. Er legt Zielgruppe, Schmerzpunkte und Wunschergebnis fest, schreibt die Schritte zum Ergebnis auf und leitet daraus mit einer COGS-Rechnung den Mindestpreis ab. → `videos/004_VDEbrYSHIpo.md`
+- **[5] From $17.5K to $180K/mo | How This Agency Scaled in 12 Months** (Fallstudie / Coaching-Call, Angebot & Positionierung, Team & Hiring) — Interview mit Mike (Lead-Gen- und Ads-Agentur für Handwerksbetriebe und Med Spas). Er erzählt, wie seine Agentur in rund einem Jahr von 17,5K auf etwa 180K $/Monat wuchs: durch eine klare Rollenverteilung, ein neues Offer und den Aufbau eines Teams, das das Offer versteht. → `videos/005_MOM0FqF2njE.md`
+- **[6] How They Scaled Their YouTube Agency To $300K/Month** (Fallstudie / Coaching-Call, Team & Hiring, Preise & Retainer) — Mastermind-Vortrag von Andrew und Clayton. Ihre fusionierte Agentur produziert YouTube-Content für Immobilienmakler und macht 300K $/Monat. Sie erzählen, was auf dem Weg von 10K über 100K zu 300K funktioniert hat und was nicht. Themen sind Offer, Kundengewinnung und Talent, dazu Fragen aus dem Publikum. → `videos/006_6Pv2dx4sEag.md`
+- **[7] How This Agency Owner Scaled To $40K/Mo** (Fallstudie / Coaching-Call, Operations & Systeme, Team & Hiring) — Casey betreibt eine Content- und Ads-Agentur in San Diego und hat sie nach eigener Aussage „komplett rückwärts“ aufgebaut. Im Mastermind-Vortrag erzählt er, wie er nach seinem schwächsten Monat (14K $) alles neu aufsetzte: Notion-OS, Kündigung unpassender Kunden, richtiges Hiring. Heute macht er 40K $/Monat und kann mit 3–4 Stunden Arbeit am Tag auskommen. → `videos/007_1ZkSsNQyUiM.md`
+- **[8] (Leaked Mastermind Footage) Agency Owner Reveals How He Scaled From $10K/Mo To $50K/Mo** (Fallstudie / Coaching-Call, Angebot & Positionierung, Content & Personal Brand) — Mastermind-Vortrag von Justin Goudy (Goudy Creative, Content-Marketing für Makler, Mortgage Broker und verwandte Branchen). Er beschreibt, wie er vom Videografen für Immobilienvideos mit ca. 10K $/Monat zu 55K $/Monat kam: Offer aus Kundeninterviews, drei Preisstufen, viele Vorauszahlungen und kleine DM-Ads. Danach folgt eine Fragerunde zu Content-Produktion und Posting-Tools. → `videos/008_xmQ0jHBtk2c.md`
+- **[9] How He Scaled His Content Agency From $10K/Mo To $100K/Mo In 1 Year** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Fulfillment & Kundenbindung) — Mastermind-Vortrag von Remy (Kings Media). Seine Agentur produziert organischen Short-Form-Content für Gründer mit 7–9-stelligem Umsatz. Er zeigt, wie er in einem Jahr ohne Ads von rund 12–20K auf 100K $/Monat kam. Grundlage sind vier Säulen: Offer-Klarheit, Kundenbindung, Leads über Partnerschaften und Events sowie Mindset. Danach folgen ausführliche Fragen und Antworten zu Team, Pod-Struktur und Konkurrenz durch Inhouse-Teams. → `videos/009_Bd3ZFNZOruQ.md`
+- **[10] The Exact Video Retainer Model I Used To Go From Project Work To $100K+Month** (Angebot & Positionierung, Preise & Retainer) — Austin beschreibt, wie sich sein Video-Offer in drei Stufen entwickelt hat: vom Bauchladen über ein produktisiertes Content-Paket bis zum ergebnisorientierten Retainer aus Content und Ads. Außerdem zeigt er, wie man ein Offer vom Ergebnis her baut. → `videos/010_bokLFVIDAas.md`
+- **[11] How I Scaled From $10K to $50Kmo — Here Are the 5 Things That Changed** (Skalierung & Wachstum, Team & Hiring, Operations & Systeme) — Fünf Dinge, mit denen Austin aufgehört hat und die ihn von 10K auf 50K $/Monat gebracht haben: zu allem Ja sagen, alles selbst machen, alles im Kopf behalten, ohne System einstellen und unpassende Kunden annehmen. → `videos/011_ig-ngoBT61w.md`
+- **[12] How I Run A $5M Agency In 4 Hrs/Day (Full Ops Breakdown)** (Operations & Systeme, Team & Hiring, Mindset & Unternehmertum) — Austin erklärt, wie er seine Agentur so aufgebaut hat, dass er am Ende nur noch wenige Stunden arbeiten musste (im Video spricht er von 4 Stunden pro Woche). Der Weg führt über ein produktisiertes Offer, eine Rollenzuordnung pro Lieferschritt, eine COGS-basierte Preisuntergrenze, schrittweises Hiring mit KPIs, ein Agency-OS und schließlich Pods mit Führungsebenen. → `videos/012_xdX-BDOSw28.md`
+- **[13] Watch Me Live Scale This $10K/Mo Social Media Marketing Agency** (Fallstudie / Coaching-Call, Angebot & Positionierung, Team & Hiring) — Coaching-Call mit Natalie. Ihre Social-Media-Agentur (Content, Management, gelegentlich Ads) macht 10K $/Monat mit 6 Kunden, die alle Sonderpakete haben. Austin geht Offer, Systeme, Sales, Team und Ziele mit ihr durch und baut ihr eine neue Angebotsleiter sowie einen Plan für die erste richtige Einstellung. → `videos/013_fDzvgh6lRrU.md`
+- **[14] I Almost Quit My Agency — Here's What Changed Everything** (Mindset & Unternehmertum, Angebot & Positionierung, Team & Hiring) — In diesem persönlichen Video erzählt Austin, wie er vom Callcenter-Mitarbeiter über Sales und Immobilien zur Agentur kam, bei 20–30K $/Monat fast aufgegeben hätte und welche zwei Veränderungen die Wende brachten: ein klares Offer und Extreme Ownership bei Erwartungen. → `videos/014_Zc7lHDG6A5Q.md`
+- **[15] How To Hire Your First AI Employee In 2026 (Step By Step)** (Operations & Systeme) — Austin zeigt, wie man den ersten „AI-Employee“ ohne Programmierung in die Agentur holt. Die Schritte sind ein Task-Audit, die Frage an den Slack-Agenten „Victor“, was er übernehmen kann, und vor allem Systeme und SOPs, nach denen die AI arbeitet. → `videos/015_iQT-5bnJlY4.md`
+- **[16] From Chaotic "Yes Man" to $20K/mo Agency Owner in 4 Months** (Fallstudie / Coaching-Call, Angebot & Positionierung) — Christian aus Los Angeles ist Musiker und betreibt eine Videoproduktion für Musikproduzenten und Artists. Er erzählt, wie er nach seiner Kündigung im High-Ticket-Sales chaotisch mit der Kamera startete, und was sich änderte, nachdem er bei AgencyU eine Nische, ein Offer, ein Team und ein System bekam. → `videos/016_Cc39Z3yV0nU.md`
+- **[17] How AI Runs My $5M/Yr Agency For Me** (Operations & Systeme, Fulfillment & Kundenbindung, Sales & Closing) — Austin stellt die AI-Employees vor, die in seinem Unternehmen Sales, Marketing-Reporting, Onboarding, Fulfillment, Client Success und Finanzen übernehmen. Für jede Abteilung zeigt er, welche „Ursache“ (System, Daten, SOP) vorhanden sein muss, damit die AI überhaupt die gewünschte „Wirkung“ erzielen kann. → `videos/017_IXyR300yMDE.md`
+- **[18] How I Sell $5K+ Mo Video Retainers to Local Businesses** (Preise & Retainer, Angebot & Positionierung) — In drei Schritten erklärt Austin, wie man Retainer ab 5K $/Monat an lokale Unternehmen verkauft: umsatzbringende Skills identifizieren oder dazulernen, eine Zielgruppe mit hohem Ticket wählen und das Offer um Ergebnisse statt Deliverables bauen. → `videos/018_-TGxrN1qliw.md`
+- **[19] How to Prove ROI to Agency Clients So They Never Want to Leave** (Fulfillment & Kundenbindung, Angebot & Positionierung, Operations & Systeme) — Austins Client-Success-System besteht aus vier Teilen: einem ergebnisorientierten Offer, einem Kundenportal als verlässlicher Quelle für Ergebnisse, einem Wins-Tracker und einem monatlichen NPS-System. Damit belegt die Agentur ihren ROI, und Kunden bleiben zwei Jahre und länger. → `videos/019__pn6jL4u6Z4.md`
+- **[20] How I Built A Player Company Culture At My $5M Agency** (Team & Hiring) — Acht Säulen, mit denen Austin ein Team aus A-Playern aufgebaut hat, damit er einen CEO einsetzen und die Agentur verkaufen konnte: Werte, Mission und Vision, die drei C, eine Rollenbeschreibung (Role Blueprint), Systeme, Onboarding, Zukunftsperspektive, Teampflege und echte Fürsorge. → `videos/020_u2qqCg4358c.md`
+- **[21] How To Raise Your Agency Prices Without Losing Clients** (Preise & Retainer, Fulfillment & Kundenbindung, Finanzen & Marge) — In drei Schritten erklärt Austin, wie man die Preise bei Bestandskunden erhöht, ohne die richtigen Kunden zu verlieren: den neuen Preis begründen (ergebnisorientiertes Offer und COGS-Rechnung), festlegen, welche Kunden ideal sind, und im Gespräch vorbereitete Optionen anbieten, die immer aus Kundensicht formuliert sind. → `videos/021_1qUnlkypA0Y.md`
+- **[22] When to Fire an Agency Client (5 Signs It's Time)** (Fulfillment & Kundenbindung, Angebot & Positionierung) — Fünf Warnsignale, dass man sich von einem Kunden trennen sollte. Die gemeinsame Ursache sind fehlende Erwartungen. Zwei Systeme beugen dem vor: ein ergebnisorientiertes Offer und ein Onboarding, in dem Erwartungen ausdrücklich festgelegt werden. → `videos/022_dSjwo9q_JKw.md`
+- **[23] From $4K/Mo to $16K/Mo - How He 4X'd His YouTube Agency** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Angebot & Positionierung) — Thomas (25, Scottsdale) betreibt eine Done-for-you-YouTube-Agentur für Business-Creator. Er hatte nur einen Kunden, der ihn auf die Hälfte kürzte. Mit einem klaren Offer, personalisiertem Instagram-Outreach und einem Notion-System kam er innerhalb eines Monats auf ca. 16K $/Monat. → `videos/023_s2rBk6Tkumc.md`
+- **[24] How we generated 7 figures from Instagram** (Content & Personal Brand, Kundengewinnung & Outreach) — Austins System für organischen Instagram-Content, der Leads statt nur Views bringt. Es besteht aus vier Teilen: der richtigen Haltung (Leads statt Views), ManyChat-Infrastruktur für Keywords und Follower-DMs, einer Zuordnung jedes Posts zu einer Funnel-Stufe mit einer Bibliothek bewährter Formate und AI-Skills in Claude Cowork, mit denen er Content in großer Menge plant. → `videos/024_IF0lQNt2eLM.md`
+- **[25] How This Videographer Built a $30K/mo Agency That Runs WITHOUT Him** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Preise & Retainer) — Jivon aus Fort Lauderdale wollte vom Solo-Videografen zur Marketing-Agentur werden. Nach vier Monaten bei AgencyU hat er ein Offer mit Preiskalkulation, einen Authority-Funnel mit Landingpage und VSL und seine ersten großen Retainer-Deals direkt über Ads. Jetzt baut er SOPs und Hiring-Strukturen auf. Dass die Agentur ohne ihn läuft, wie der Titel sagt, ist im Gespräch eher das Ziel als der Ist-Zustand. → `videos/025_41DYjRTgSLY.md`
+- **[26] The Best Funnel for Video Agencies & Videographers** (Kundengewinnung & Outreach, Angebot & Positionierung) — Eine Akquise-Strategie für Video-Agenturen in drei Stufen: zuerst ein ergebnisorientiertes Offer, dann die „Momentum-Kampagne“ ohne Ads (Social-Media-Serie, Warm Outreach, Cold Outreach) und schließlich der „Authority-Funnel“ mit Paid Ads, die in die DMs führen. → `videos/026_b58B_0c4xJg.md`
+- **[27] How He Doubled His Agency to $25K/mo in 4 Months** (Fallstudie / Coaching-Call, Operations & Systeme, Preise & Retainer) — Mao betreibt eine Social-Media-Agentur in Charlotte (Content und Ads für lokale Dienstleister). Er erzählt, wie er mit einem Agency-OS, einem einzigen Offer, automatisiertem Onboarding und mehr Selbstvertrauen bei den Preisen in rund vier Monaten von 12K auf ca. 25K $ MRR kam. → `videos/027_d7vDXgg1SWo.md`
+- **[28] I Tracked 10 Metrics in 723 Agencies, Here’s What Works** (Finanzen & Marge, Sales & Closing, Operations & Systeme) — Die zehn Kennzahlen, auf die Austin bei jeder Agentur zuerst schaut, aufgeteilt in Sales, Marketing und Operations. Zu jeder gibt es einen Richtwert und eine Einordnung, was eine Abweichung verrät. Alle Zahlen laufen in einem Dashboard im Agency-OS zusammen. → `videos/028_LWYmO5Df-TU.md`
+- **[29] How I Fully Automated My Agency With 5 AI Employees** (Operations & Systeme, Sales & Closing, Fulfillment & Kundenbindung) — Austin stellt fünf seiner AI-Employees vor: Sales-Assistent, Onboarding-Koordinator, Client Success Manager, Content-Stratege und Projektmanager. Zu jedem zeigt er, welches System vorher stehen muss. Davor kommen die richtige Haltung zu AI und ein Task-Audit. → `videos/029_OvxkwBo1_24.md`
+- **[30] How She Signed Her First Client in 30 Days (Without Experience)** (Fallstudie / Coaching-Call, Mindset & Unternehmertum) — Tawny ist Krankenschwester aus Seattle und hat keine Marketing-Erfahrung. Sie erzählt, wie sie mit AgencyU-Coaching ihre halbfertige Agentur in 30 Tagen neu aufstellte, eine klare Positionierung fand, den ersten Kunden gewann und ihr Team erweiterte. Das Video ist vor allem ein Testimonial und enthält wenig konkrete Taktik. → `videos/030_HoorDJNAzi4.md`
+- **[31] How To Transition From Video Editor To Agency Owner** (Angebot & Positionierung, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Ein Fahrplan für Video-Editoren, die bei 5–10K $/Monat festhängen und eine echte Agentur aufbauen wollen. Die Schritte sind ein ergebnisorientiertes Offer, eine Momentum-Kampagne für die ersten Kunden, ein Operating System mit SOPs und Editor-Guides und der Wechsel der eigenen Identität vom Operator zum CEO. → `videos/031_dPYgTlksigY.md`
+- **[32] How I Use AI To Run A $5M Agency** (Operations & Systeme, Sales & Closing, Fulfillment & Kundenbindung) — Austin erklärt, wie er AI nicht als Werkzeug, sondern als Mitarbeiter einsetzt. Zuerst müssen drei Grundlagen stehen: ein produktisiertes Offer, dokumentierte Systeme und SOPs, die das Team tatsächlich nutzt. Danach zeigt er konkrete Einsätze: Task-Audit, Sales-Follow-up, Vorbereitung und Bewertung von Calls, Onboarding, Client Success, Projektmanagement, Content und Reporting. → `videos/032_ReAwGno27qg.md`
+- **[33] How I Hired A Creative Strategist For My $5M Agency (Step By Step)** (Team & Hiring, Skalierung & Wachstum, Operations & Systeme) — Austin zeigt, wie er über eine Pod-Struktur die Rolle des Creative Strategist besetzt hat, um Strategie, Account-Management und Kundenkommunikation abzugeben und nicht mehr selbst der Engpass zu sein. → `videos/033_TP-FZhEWFjg.md`
+- **[34] How I Hired My First Videographer For My $5M Video Agency** (Team & Hiring, Operations & Systeme, Fulfillment & Kundenbindung) — Wie Austin die Videografie komplett abgegeben hat, ohne Kunden zu verlieren: Erwartungen definieren, passende Leute finden, System aufsetzen, Probe-Drehs und ein schrittweiser Übergabeplan. → `videos/034_czSpbdcly4w.md`
+- **[35] The 7 Tracking Systems I Used To Scale My Agency Past $100K/month** (Operations & Systeme, Finanzen & Marge, Fulfillment & Kundenbindung) — Austin stellt die sieben Tracking-Systeme ("Operating Systems") in Notion vor, mit denen er seine Agentur datenbasiert steuert – von Fulfillment über Leads und Sales bis zu Kundenzufriedenheit und Finanzen. → `videos/035_Y0U0NISLaP0.md`
+- **[36] Scaling From Solo Videographer To Multi 6 Figure Agency** (Skalierung & Wachstum, Angebot & Positionierung, Kundengewinnung & Outreach) — Austin beschreibt seinen Weg vom Solo-Videografen zur Agentur mit über 200.000 $/Monat und über 20 Mitarbeitern – in der Reihenfolge Offer → Systeme → Hiring → Kundengewinnung, als sich wiederholender Kreislauf. → `videos/036_Yup0x3gjEO0.md`
+- **[37] How Tyler Went From $15K/Month to $40K/Month (While Working Less)** (Fallstudie / Coaching-Call, Preise & Retainer, Mindset & Unternehmertum) — Interview mit Tyler Vaden (Key Performance Impact, Sarasota, Florida; Paid Ads, Google Ads, Webdesign), der in rund einem Monat im Agency-U-Programm vom 15.000–23.000-$-Bereich auf seinen bisher besten Monat mit 40.000 $ kam – vor allem durch Offer-Überarbeitung, Kalkulation und Paid-in-Full-Verträge. → `videos/037_iXATbS0lINU.md`
+- **[38] How I Scaled My Video Agency Past $100KMonth Without Being On Every Shoot** (Team & Hiring, Angebot & Positionierung, Operations & Systeme) — Wie Austin sich aus den Drehs herausgezogen hat: skalierbares Offer, klare Erwartungen und KPIs für den Videografen, ein System, das diese KPIs messbar macht, bezahlte Cam-B-Probedrehs und eine langsame Übergabe von Kamera A. → `videos/038_yC3_wg-ssbY.md`
+- **[39] How to Pay Video Editors and Videographers Per Client** (Finanzen & Marge, Team & Hiring, Preise & Retainer) — Wie man ausrechnet, was man Videografen und Editoren pro Kunde zahlen kann, wie man das Angebot an sie formuliert und wie man mit einer Vision die richtigen Leute langfristig bindet. → `videos/039_dfKwWb7EnjI.md`
+- **[40] How to Build a Video Editing Team From Scratch** (Team & Hiring, Operations & Systeme) — Austin erklärt in vier Säulen (Rolle definieren, Infrastruktur, Hiring-Prozess, Führung), wie er von über 20 Stunden Eigenschnitt pro Woche zu einem Team von über 10 Editoren kam. → `videos/040_KfEgAagyjF4.md`
+- **[41] Helping An Agency Owner Go From $40-50K Month to $100K Month** (Fallstudie / Coaching-Call, Skalierung & Wachstum, Angebot & Positionierung) — Fallstudie über Agency-U-Mitglied Michael, der mit seiner Frau Steph eine Full-Service-Agentur betrieb und in acht Phasen von 17.000 $ auf über 145.000 $ Cash pro Monat wuchs. → `videos/041_hMcMa2SI1cA.md`
+- **[42] How This Agency Owner Doubled Her Prices by Doing LESS** (Fallstudie / Coaching-Call, Preise & Retainer, Operations & Systeme) — Interview mit Tara McElvey (Content-Agentur für Dienstleister in Dallas/DFW), die nach Burnout durch Scope Creep und Stundenpakete ihr Offer standardisierte, die Preise von 1.000 auf 2.000 $ Basis verdoppelte und durch Systeme 20–25 Stunden pro Woche zurückgewann. → `videos/042_7HmJmFo4cyU.md`
+- **[43] How to stop being the bottleneck in your video business** (Operations & Systeme, Team & Hiring) — Eine vierstufige Abfolge (dokumentierte Prozesse → Systeme → AI-Employee → echte Mitarbeiter), mit der Austin von 60–80 auf rund 30 Wochenstunden kam, die er nur noch *am* Business arbeitet. → `videos/043_mTxbsvFMCFY.md`
+- **[44] How to Price Video Retainer Packages (Real Numbers)** (Preise & Retainer, Angebot & Positionierung, Finanzen & Marge) — Schritt-für-Schritt-Anleitung, wie man Video-Retainer bepreist: ergebnisorientiertes Offer, drei Pakete (Einstieg, Kern, Preisanker), COGS-Tabelle pro Aufgabe und mindestens 60–66 % Marge. → `videos/044_U6hgYmZGm8c.md`
+- **[45] Helping An Agency Owner Go From $30K/Month to $60K/Month** (Fallstudie / Coaching-Call, Angebot & Positionierung, Kundengewinnung & Outreach) — Fallstudie über Justin, einen Videoproduzenten aus dem Raum Phoenix/Scottsdale, der von High-End-Einzelprojekten (~7.500 $/Monat, ~3.000 $ Gewinn) zu fünf Monaten in Folge mit über 50.000 $ Cash kam – in sechs Phasen. → `videos/045_mnB0cYJkx-A.md`
+- **[46] retainer vs project based pricing for video agencies** (Preise & Retainer, Finanzen & Marge) — Unterschied zwischen Projekt- und Retainer-Angeboten und wie man beide kalkuliert – Projekte über Kosten plus Marge, Retainer zusätzlich über den ROI für den Kunden. → `videos/046_PD4Blui3gOA.md`
+- **[47] From 80-Hour Workweek "Grind" To A Scalable Agency** (Fallstudie / Coaching-Call, Mindset & Unternehmertum, Operations & Systeme) — Interview mit Kayla Cuevas (After Hours Marketing, San Diego; Funnels, Ads, E-Mail-Nurturing), die von ~80 Wochenstunden im Freelancer-Modus zu einer Agentur mit Paketen, 3-Monats-Retainern, Team und Systemen kam – und so über 30 Stunden pro Woche zurückgewann. → `videos/047_SL-aJmXkL-k.md`
+- **[48] how to price video production retainer packages** (Preise & Retainer, Angebot & Positionierung, Finanzen & Marge) — Praktische Kurzanleitung zur Bepreisung eines Video-Retainers: Ergebnis definieren, "Steps to Desired Outcome" als Offer auflisten, jede Aufgabe mit Rolle, Zeit und Stundensatz kalkulieren, COGS ×3 als Untergrenze und dann am Kundenwert orientiert bepreisen. → `videos/048_a6VYG8jV-xk.md`
+- **[49] From 60-Hour Weeks to True CEO: How She Automated Her Agency** (Fallstudie / Coaching-Call, Operations & Systeme, Angebot & Positionierung) — Interview mit Annika, Mitgründerin einer Visual-Communications-Agentur (Branding, Print, Digital; USA und Haiti, 6–7 Mitarbeiter), die nach fünf Jahren "Ja zu allem" feste Offers einführte und ihr Onboarding automatisierte – das spart 15–20 Stunden pro Woche. → `videos/049_PP0m5fIZX58.md`
+- **[50] the truth about running a 400K/month agency (not what you think)** (Mindset & Unternehmertum, Skalierung & Wachstum) — Austin erzählt, wie er vom ausgebrannten "Ja-Sager" zum Agentur-CEO wurde, und argumentiert, dass für mehrere 100.000 $ pro Monat ein völlig anderes Selbstbild und Verhalten nötig ist als bei 20.000 $. → `videos/050_2a8AdacVe58.md`
+- **[51] Scope Creep For Video Agencies (And How To Prevent It)** (Fulfillment & Kundenbindung, Angebot & Positionierung) — Warum Kunden immer mehr Gratis-Leistungen verlangen und wie man das mit zwei Hebeln verhindert: einem produktisierten, ergebnisorientierten Offer und einer Onboarding-Präsentation, die alle Erwartungen von Anfang an klärt. → `videos/051__D5utdwbBfI.md`
+- **[52] my video editor onboarding process for agencies (copy me)** (Team & Hiring, Operations & Systeme) — Austins kompletter Ablauf, um Editoren zu finden, zu testen und einzuarbeiten – von Rollen-Blueprint und Intake-Formular über automatisierte Bewertung, Loom-Video und Testschnitt bis zu Editor-Board und kundenspezifischen Video-Editor-Guides. → `videos/052_8Tw-9OtevVQ.md`
+- **[53] How Ian Doubled His Agency Profit Margins (30% to 66% Profit in 4 Months)** (Fallstudie / Coaching-Call, Finanzen & Marge, Operations & Systeme) — Interview mit Ian Whitmarsh (Big Mammoth Media, Tulsa, Oklahoma; Social Media, Paid Ads, Websites), der in vier Monaten seine Marge von 30 % auf 60–66 % steigerte und von 60–65 auf rund 40 Wochenstunden kam. → `videos/053_kfqLeDTjtqo.md`
+- **[54] i rewired my brain, then scaled my agency to $5M at 29** (Mindset & Unternehmertum) — Austin erzählt seinen Weg vom Anstreicher und Callcenter-Mitarbeiter ohne Studium zum Inhaber einer 5-Mio.-$-Agentur mit 29 und stellt zehn hinderliche Glaubenssätze ("Stinking Thinking") ihren Gegenstücken gegenüber. → `videos/054_BDZnjBfoV0s.md`
+- **[55] "I'm working 16 hours per day in my agency"** (Operations & Systeme, Angebot & Positionierung, Mindset & Unternehmertum) — Ein 8-Schritte-Plan für Agenturinhaber, die 16 Stunden am Tag arbeiten: Zeit-Audit, Operating System, Delegieren/Automatisieren/KI, Offer produktisieren, Bestandskunden per "Reoffer" umstellen und dann skalieren. → `videos/055__LWAVSQw2no.md`
+- **[56] How She Went From Solo Operator To CEO (Social Media Agency)** (Fallstudie / Coaching-Call, Angebot & Positionierung, Team & Hiring) — Interview mit Cora (Maryland, remote), die Content und Ads für weibliche Online-Coaches macht. Sie erweiterte ihr rein organisches Angebot um Ads, gewann ihren ersten Paid-in-Full-Kunden, stellte eine Editorin ein und stieg von ClickUp auf ein Notion-Operating-System um. → `videos/056_-Epdh65xclQ.md`
+- **[57] I Studied 650 Agencies, Here’s How To ACTUALLY Grow Your Agency** (Skalierung & Wachstum, Kundengewinnung & Outreach, Sales & Closing) — Aus der Arbeit mit über 650–700 Agenturen leitet Austin fünf Systeme ab, die Agenturen über 100.000 $/Monat von denen bei 10.000–30.000 $ unterscheiden: Offer, Lead-Gen (Authority Funnel), Sales-System, Operating System und Hiring-System. → `videos/057_ecqocK8bhHw.md`
+- **[58] How This Agency Owner Did More in 6 WEEKS Than an Entire Year (And Working Less)** (Fallstudie / Coaching-Call, Operations & Systeme, Angebot & Positionierung) — Interview mit Brandon aus Roanoke, Virginia, der nach 15 Jahren im kirchlichen Dienst ein Design-Business startete, zu allem Ja sagte und ohne Verträge arbeitete. Mit Fokus auf ein Offer (Website in 7 Tagen für lokale Dienstleister) und automatisierten Abläufen schaffte er in sechs Wochen mehr als im ganzen Jahr davor. → `videos/058_zgka6p0rU4U.md`
+- **[59] Helping An Agency Owner Go From $10K/Month to $30K/Month** (Fallstudie / Coaching-Call, Angebot & Positionierung, Preise & Retainer) — Fallstudie über Gabrielle, eine Social-Media-Dienstleisterin, die bei ~10.000 $/Monat massiv zu wenig verlangte. Mit ergebnisorientiertem Offer für Interior Designer, Umstellung der Bestandskunden, Operating System und eigenen Ads verdreifachte sie Umsatz und Preise. → `videos/059_wv0-Urye72A.md`
+- **[60] the EXACT video production workflow I used for my 5M agency** (Operations & Systeme, Video-Produktion & Handwerk, Fulfillment & Kundenbindung) — Austin zeigt den Produktions-Workflow seiner Agentur im Notion-Operating-System: Vom Projekt-Template über Skript, Dreh, Schnitt und Qualitätskontrolle bis zum Posting läuft jede Content-Aufgabe über Status-Stufen durch die Boards der einzelnen Rollen. → `videos/060_mRPFm-ze_nA.md`
+- **[61] Who to hire FIRST in your video agency** (Team & Hiring) — Es gibt keine allgemeingültige erste Einstellung – Austin zeigt, wie man sie per Time Audit ermittelt: Aufgaben erfassen, Stunden pro Monat schätzen, zu Rollen bündeln und mit der Rolle mit den meisten Stunden beginnen. → `videos/061_jav79PMk1Hs.md`
+- **[62] How Tony Took His Video Agency From $2.5K/mo to $15K/mo In Under 3 Months** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Operations & Systeme) — Interview mit Tony aus Tampa, Florida, der neben seinem Konzernjob eine Content-Agentur für Blue-Collar-Unternehmer (Entrümpelung, Sanierung, Klempner, Tatortreinigung) aufbaute. In unter drei Monaten stieg er von 2.500–5.000 $ auf konstant 10.000–15.000 $/Monat und kündigte seinen sechsstelligen Job. → `videos/062_EbVsuIfUqJY.md`
+- **[63] Agency stuck in fulfillment?** (Operations & Systeme, Angebot & Positionierung, Team & Hiring) — Ein dreistufiger Ausweg für Inhaber, die im Fulfillment feststecken: Time Audit mit Delegieren/Eliminieren/Automatisieren, ein produktisiertes ergebnisorientiertes Offer mit Kundenumstellung und ein Operating System, in das neue Leute eingesetzt werden. → `videos/063_TRX0KO8NHX8.md`
+- **[64] How I Grew My Video Agency From $0- $225K/Month** (Skalierung & Wachstum, Angebot & Positionierung, Kundengewinnung & Outreach) — Austin erklärt die vier Hebel, mit denen er seine Video-Agentur in rund anderthalb Jahren von null auf mehrere 100.000 $ pro Monat brachte (im Video nennt er über 250.000 $): produktisiertes, vermarktbares Offer, Systeme, Einstellungen in diese Systeme und ein planbarer Weg zu Neukunden. → `videos/064_-IsDXPDGe3s.md`
+- **[65] How Jake Scaled His Agency From $7K/Mo to $21K/Mo** (Fallstudie / Coaching-Call, Angebot & Positionierung, Kundengewinnung & Outreach) — Interview mit Jake (Utah), der nach Jahren als Generalist-Freelancer durch eine klare Nische und ein spezifisches Offer seinen Umsatz in rund vier Monaten verdreifacht und seinen Job gekündigt hat. → `videos/065_4rLXd-TSa7Q.md`
+- **[66] How I Manage 87 Clients On Notion (Copy My Template)** (Operations & Systeme, Fulfillment & Kundenbindung) — Austin zeigt die Notion-Systeme, mit denen seine 5-Mio.-$-Agentur 87 Kunden mit ca. 20 Leuten betreute, während er selbst nur rund 10 Stunden pro Woche involviert war: Client OS, Fulfillment Funnel, Client Portal, NPS-Umfrage und Win-System. → `videos/066_iMdUQ5b8HQU.md`
+- **[67] Javier & Leslie Went From $0-$10K/month With Their Video Agency** (Fallstudie / Coaching-Call, Angebot & Positionierung, Operations & Systeme) — Das Paar Javier und Leslie (Video-Agentur für lokale Unternehmen) erzählt, wie sie von null Kunden und ohne Systeme auf knapp 10.000 $/Monat Retainer-Umsatz kamen – ohne Ads, über ein klares Offer, die Momentum-Kampagne und Notion-Systeme. → `videos/067_hrCP0vVDy_8.md`
+- **[68] 4 Ways I Use Notion To Automate My $5M Agency** (Operations & Systeme, Team & Hiring, Sales & Closing) — Austin zeigt vier in Notion gebaute und per Zapier automatisierte Systeme – Onboarding, Leads/Sales, Fulfillment und Hiring –, die Agenturen über die typische Hürde von 20–30.000 $/Monat bringen sollen. → `videos/068_cEPNPs0nHfw.md`
+- **[69] How AJ Built A Client Getting System For His Video Agency** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Content & Personal Brand) — AJ Caldwell (Vision Fit Films, Brooklyn) berichtet, wie er mit dem Notion-basierten Agency OS seine Kundengewinnung systematisiert hat – funktionierende Meta-Ads, konsistenter eigener Content und eine organisierte Cold-DM-Pipeline. → `videos/069_sMXoCitR4uI.md`
+- **[70] Building A $100K/Month Agency For An Agency Owner In 28 Minutes** (Fallstudie / Coaching-Call, Team & Hiring, Skalierung & Wachstum) — Live-Coaching mit Cora (Remote-Agentur für Content und Ads für weibliche Online-Coaches). Austin analysiert Offer, Sales, Systeme und Team und kommt zum Schluss: Der Engpass ist ihre Zeit – erste Maßnahme ist eine Assistenz-/Client-Success-Rolle, die aus ihren eigenen Aufgaben abgeleitet wird. → `videos/070_iH8tIRLiswg.md`
+- **[71] The 4 Levels Of Building A $5M Agency** (Skalierung & Wachstum, Mindset & Unternehmertum, Team & Hiring) — Austin beschreibt vier Wachstumsstufen einer Agentur – Freelancer, Builder, Operator, CEO – mit den typischen Problemen jeder Stufe und dem, was man ändern muss, um die nächste zu erreichen. → `videos/071_kRFqQ6-yurc.md`
+- **[72] "I just lost the biggest client in my agency, now what do I do?"** (Kundengewinnung & Outreach, Angebot & Positionierung) — Was tun, wenn der größte Kunde wegfällt? Austin empfiehlt, zuerst ein produktisiertes, ergebnisorientiertes Offer zu bauen und es dann per Momentum-Kampagne (warmes Netzwerk + Social-Post-Serie) schnell zu vermarkten. → `videos/072_JttWv-YndBw.md`
+- **[73] 5 Hiring Mistakes That Kill Agencies at $10K-30K/Month** (Team & Hiring, Operations & Systeme) — Aus Erfahrung mit 25–50 Einstellungen nennt Austin fünf typische Hiring-Fehler kleiner Agenturen und wie man sie vermeidet. → `videos/073_NSiWAT_Uijo.md`
+- **[74] How Marlo Went From $34K/mo to $80K/mo In Under 6 Months** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach) — Marlo (Partner in einer Growth-/Performance-Marketing-Agentur in Las Vegas mit globalem Team) erzählt, wie seine Agentur durch den Start von Meta-Ads nach bewährter Vorlage (Authority Funnel) von ca. 30k auf knapp 80k $ MRR wuchs. → `videos/074_P_01ldB1Bvk.md`
+- **[75] How To Remove Yourself From Day To Day Agency Fulfillment** (Team & Hiring, Fulfillment & Kundenbindung, Operations & Systeme) — Eine praktische Schritt-für-Schritt-Methode, wie Agenturinhaber sich aus der täglichen Lieferung herausziehen: Time-Audit, Aufgaben quantifizieren, zu Rollen bündeln, priorisieren, Stellenbeschreibung und System pro Rolle. → `videos/075_ysM1JJ2QgQI.md`
+- **[76] Notion vs ClickUp: What's Best For Agencies?** (Operations & Systeme) — Austin vergleicht Notion und ClickUp in zehn Kategorien aus Agentursicht. Fazit: ClickUp ist das bessere reine Projektmanagement-Tool, Notion gewinnt als komplettes Agentur-Betriebssystem mit Single Source of Truth. → `videos/076_87POr6yZRvg.md`
+- **[77] How I Added $116K In Video Retainers For My Agency** (Angebot & Positionierung, Kundengewinnung & Outreach, Sales & Closing) — Austin beschreibt drei Systeme, mit denen er über 116.000 $ in Retainern aufbaute: ein ergebnisorientiertes, produktisiertes Offer, den Authority Funnel (Instagram-DM-Ads) und ein Pre-Call-System, das Leads vor dem Sales-Call qualifiziert und vorwärmt. → `videos/077_amUEjRARz-A.md`
+- **[78] How Justin Scaled His Agency From $10-15K/Mo to $50K/Mo** (Fallstudie / Coaching-Call, Angebot & Positionierung, Kundengewinnung & Outreach) — Justin Godsy (Godsy Creative, Scottsdale) machte seit 2018 alles allein – Dreh, Schnitt, Lieferung für Makler und lokale Firmen. Mit einem gestuften, produktisierten Done-for-you-Offer, Momentum-Kampagne, ersten Meta-DM-Ads und Automatisierung gewann er über 50.000 $ Contracted Revenue. → `videos/078_-AILv8Y60mM.md`
+- **[80] How to Build Systems (so your business runs without you)** (Operations & Systeme, Team & Hiring) — Statt dicker Handbücher und großer Prozesslandkarten zeigt Austin einen schlanken 6-Schritte-Weg, um jeden Bereich einer Agentur in unter ca. 35 Minuten zu systematisieren – vom produktisierten Offer bis zu Loom-basierten SOPs. → `videos/080_6VeJfIaoWlQ.md`
+- **[81] How Albi Scaled His Agency From $12K/Mo to $40K/Mo** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Sales & Closing) — Albi (Video-Agentur aus Houston, selbstständig seit 2017) mied jahrelang Ads aus Angst, Kundengeld zu verbrennen. Mit Sales-Deck, Authority Funnel, ManyChat-Sequenz und Notion-OS löste er sein Lead-Problem in rund zwei Monaten. → `videos/081_eUrfMvPUGGU.md`
+- **[82] The Ultimate Notion Hiring System For Agencies** (Team & Hiring, Operations & Systeme) — Austin (über 50 Einstellungen) führt Schritt für Schritt durch sein Hiring-OS in Notion – von der Frage, wen man einstellt, über Stellenanzeige, Bewerbungsformular und Daily Winning Formula bis zu Interview, Probearbeit und selbstgeführtem Onboarding. → `videos/082_FdfQWsX0CD0.md`
+- **[83] Notion For Video Production (2026) - Plan, Shoot, Edit, Deliver** (Operations & Systeme, Video-Produktion & Handwerk, Fulfillment & Kundenbindung) — Detaillierter Walkthrough des „Fulfillment Funnel" in Notion für Video-Agenturen: Wie eine Videokarte von Skript über Dreh, Schnitt, QC und Kundenfreigabe bis zum Posting wandert – und jede Rolle nur ihre eigene Ansicht sieht. → `videos/083_WLurUGpDnYM.md`
+- **[84] Dylan Scaled His Agency From $2K/Mo to $200K/Mo** (Fallstudie / Coaching-Call, Skalierung & Wachstum, Sales & Closing) — Zweites Interview mit Dylan (Content/Leads für Versicherungsagenten): Nach 2k → 50k in ca. sechs Monaten schaffte er im Inner Circle (Done-for-you-Level) den Sprung auf über 200k $/Monat – durch Delegieren, Ads, VSL, Datentracking, ein Coaching-Offer und einen Mindset-Wechsel. → `videos/084__TsElVjIsgQ.md`
+- **[85] Notion Vs Monday.com: Which Is Better For Agencies** (Operations & Systeme) — Vergleich von Notion und Monday.com in zehn Kategorien aus Agentursicht. Monday gewinnt bei reinem Projektmanagement, Benachrichtigungen, Dashboards und nativen Automationen; Notion gewinnt als anpassbares Gesamt-Betriebssystem („Single Source of Truth"). → `videos/085_zBP-TuLAmPM.md`
+- **[86] How Jacob Automated & Systemized His Video Agency** (Fallstudie / Coaching-Call, Operations & Systeme, Team & Hiring) — Jake (Video-Produktionsagentur in Jackson, Michigan) war der Flaschenhals seiner Firma, weil nichts dokumentiert war. Durch eine durchgehende Customer-Roadmap im Operating System und einen strukturierten Hiring-Prozess arbeitet er jetzt am statt im Business. Im Interview werden keine Umsatzzahlen genannt. → `videos/086_LSPJ52jh4cI.md`
+- **[87] Building A $1,000,000 Agency For A Client In 29 Mins | Fix My Agency** (Fallstudie / Coaching-Call, Sales & Closing, Kundengewinnung & Outreach) — Live-Coaching in Tulum mit Dontell (Brand-Positioning-Firma für Med Spas, ca. 70k $/Monat, ca. 23 Kunden). Offer und Fulfillment laufen; der Engpass sind fehlende Daten in Lead-Gen, Setting und Sales. Austins Priorität: KPI-Tracking, Setter-System mit Qualifizierung und Bestätigung, VSL-Seite mit mehr Proof – danach Preise erhöhen. → `videos/087_BxEB7DHCV3E.md`
+- **[88] How To Scale Your Agency FAST With SOP's 2026** (Operations & Systeme, Team & Hiring, Mindset & Unternehmertum) — Austin erklärt sein Framework, um mit SOPs eine Agentur zu bauen, die ohne ihn läuft: produktisiertes Offer → Prozess-Mapping → Stellenbeschreibungen mit Daily Winning Formula und KPIs → zentrales Notion-OS → Trainingskurse pro Rolle → Team als wichtigster Kunde. → `videos/088_9juQC7nlWkc.md`
+- **[89] She Took Her Agency From $1,600 → $47,000 in 8 Weeks** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Briana (Social-Media-Management, Sudbury/Kanada, 8 Jahre Freelancerin) verlor im Januar fast alle Kunden – übrig blieb ein Retainer über 1.600 $/Monat. Mit geliehenem Geld trat sie dem Programm bei und sammelte in gut acht Wochen 47.000 $ Cash Collected ein – ohne Ads, nur über organischen Outreach, Positionierung und Referrals. → `videos/089_ykmz7HIwouY.md`
+- **[90] Notion vs Asana: Which Tool Is Right For Your Agency?** (Operations & Systeme) — Vergleich von Notion und Asana anhand von elf Kriterien. Asana punktet bei reinem Projektmanagement, Visuals und Automationen; Notion gewinnt insgesamt, weil es als vollständiges Agency Operating System mit verknüpften Daten dienen kann. → `videos/090_xJLu33s6e58.md`
+- **[91] The Fastest Way To Make $100k/Month with Your Video Agency** (Skalierung & Wachstum, Angebot & Positionierung, Kundengewinnung & Outreach) — Austins Gesamtfahrplan für Video-Agenturen zu 100k $/Monat in vier Bausteinen: ergebnisorientiertes Offer mit Paid Ads, planbare Kundengewinnung per Authority Funnel, Agentur-Infrastruktur in Notion und ein sauberer Hiring-Prozess. → `videos/091_7FmI3BgRw0s.md`
+- **[92] Steal My $320K/month Agency’s Systems & Team Structure (Full Operations Masterclass)** (Team & Hiring, Finanzen & Marge, Skalierung & Wachstum) — Austin leitet die Teamstruktur einer 300k-Agentur rechnerisch aus dem Offer ab: Aufgaben pro Kunde → Rollen → Stunden pro Rolle → Kapazität pro Person → Pods → Kostenziel (COGS) und Marge → Senior-Rollen und Overhead. → `videos/092_nuJv3-tGXZc.md`
+- **[93] The Ultimate Notion Template For Agencies In 2026 (Steal My Template)** (Operations & Systeme) — Kurzer Rundgang durch Austins Notion-Template als „Kommandozentrale" der Agentur – statt 20 verstreuter Tools eine zentrale Single Source of Truth. → `videos/093__BlhWcMI1SQ.md`
+- **[94] Steve DOUBLED His Profit Margins For His Ad Agency** (Fallstudie / Coaching-Call, Finanzen & Marge, Operations & Systeme) — Steve Shay (Everything Clicks, Performance-Marketing-Agentur aus Philadelphia, seit ca. 15 Jahren) ist Visionär, kein Operator. Nach einer tiefen Analyse von Kunden, Scopes, Preisen und Team, einem fokussierten Offer und einem maßgeschneiderten Notion-OS arbeitet er mit einem Drittel des Teams bei mindestens verdoppeltem Gewinn. → `videos/094_cVscb0aIgnQ.md`
+- **[95] How Clayton Built A $200k/Month Video Agency** (Fallstudie / Coaching-Call, Operations & Systeme) — Clayton betreibt eine YouTube-Agentur (viele Makler als Kunden) mit gut 200k $ MRR und großem Team. Im Inner Circle wurde sein zusammengestückeltes ClickUp-Setup in ca. 60 Tagen durch ein maßgeschneidertes, verknüpftes Notion-System ersetzt – mit spürbaren Effekten auf Engpässe, Verantwortlichkeit und Kundenzufriedenheit. → `videos/095_Fn4ZKLXfrKQ.md`
+- **[96] This Agency Owner Was Skeptical—Until He Landed His First Client in 4 Weeks** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Caleb (Content-Agentur für Service-Unternehmen im Raum Milwaukee, erst 4–5 Monate alt, vorher Musikproduktion) war nach einem enttäuschenden anderen Programm skeptisch. Im neuen Programm gewann er nach ca. einem Monat den ersten Kunden über den Authority Funnel und später einen Traumkunden (Remodeling-Firma). Umsatzzahlen werden nicht genannt. → `videos/096_4eOxK494MPU.md`
+- **[97] How I Use Notion To Run My $5M Agency (Steal My Template)** (Operations & Systeme, Fulfillment & Kundenbindung) — Austin führt durch das Notion-"Betriebssystem" seiner Agentur – eine zentrale Quelle der Wahrheit für Kunden, Fulfillment, Leads, Sales, Paid Media, Hiring und Finanzen – und bietet das Template zum Download an. → `videos/097_bZT9wYNx6Vg.md`
+- **[98] How I Built a $5M Client Getting System (FREE COURSE)** (Kundengewinnung & Outreach, Angebot & Positionierung, Sales & Closing) — Kompletter Gratiskurs zu Austins "Client Getting System": outcome-basiertes Offer bauen, B-Roll-Ad mit DM-Keyword erstellen, Leads per ManyChat → Zapier → Notion erfassen, Termine in den Instagram-DMs setzen, Meta-Ads launchen und täglich tracken. Das letzte Viertel ist ein Pitch für sein Programm AgencyU. → `videos/098_5K1l2zTX_Xk.md`
+- **[99] Video Agencies: Get CRAZY Results For Your Clients (GUARANTEED)** (Fulfillment & Kundenbindung, Angebot & Positionierung, Operations & Systeme) — "Client Results Masterclass": Wie Video- und Social-Agenturen vom Deliverable-Lieferanten zum ergebnisorientierten Partner werden, indem sie für ihre Kunden den "Authority Funnel" (Instagram-DM-Ads) aufsetzen – inklusive Onboarding, Kundenportal, Zugängen, Offer Breakdown, KI-Agent für Ad-Copy, Ad-Erstellung, Automationen und Auswertung. Die letzten ~10 Minuten sind ein Pitch für AgencyU. → `videos/099_6imElLkkfLU.md`
+- **[100] The TRUTH About Building a $100K/Mo Agency** (Mindset & Unternehmertum, Operations & Systeme, Angebot & Positionierung) — Interview-artiges Video, in dem Austin erzählt, wie er vom ausgebrannten "glorifizierten Freelancer" zu einer systemgetriebenen Agentur kam – und warum Systeme, planbare Kundengewinnung und ein outcome-basiertes Offer die entscheidenden Hebel sind. → `videos/100_wmeVIlUQMbI.md`
+- **[101] Agency Scaled to $200k/Mo by QUITTING THIS** (Fallstudie / Coaching-Call, Team & Hiring, Angebot & Positionierung) — Case-Study-Gespräch mit Andrew (Run Media, künftig "Known Local"), der Immobilienmaklern YouTube-Kanäle und E-Mail-Newsletter produziert. Er erklärt, wie Fokus auf ein einziges Kernangebot, schrittweise Preiserhöhungen, eine mathematisch geplante Pod-Struktur und die eigene Marke ihn auf über 100.000 $ MRR (mit Merger bald ~200.000 $/Monat) gebracht haben. → `videos/101_dVh263luJSM.md`
+- **[102] He’s on Track for $100K/Month… and Works LESS Than You** (Fallstudie / Coaching-Call, Angebot & Positionierung, Team & Hiring) — Follow-up-Gespräch mit Casey (21), einem Videografen, der nach einem früheren "Shark Tank"-Coaching sein Offer von billigen Content-Paketen auf ein 90-Tage-Programm mit Ads umgestellt, das Agency-OS eingeführt und erste Mitarbeitende eingestellt hat – mit weniger Kunden, mehr Umsatz und deutlich weniger Arbeitszeit. → `videos/102_FvjMjC0eaSA.md`
+- **[103] How I Automated My 7 Figure Agency (FREE OPS COURSE)** (Operations & Systeme, Fulfillment & Kundenbindung, Team & Hiring) — Fünfstündiger Gratiskurs, in dem Austin die 14 Teil-Systeme seines Notion-basierten "Agency Operating System" Schritt für Schritt live aufbaut: Onboarding, Fulfillment, Client-OS, Kundenportal, Client Success, Leads, Sales, SOPs, Hiring, interne Vermarktung, Finanzen, CEO-Board, Ad-Tracking und Daten-Dashboards. Anfang und Ende sind lange Pitches für AgencyU. → `videos/103_4q5sK9kMjzc.md`
+- **[104] 8 Brutal Lessons I Learned Scaling My Agency To $100K/mo** (Mindset & Unternehmertum, Angebot & Positionierung, Skalierung & Wachstum) — Austin fasst acht harte Lektionen aus dem Aufbau seiner Agentur (über 200.000 $/Monat, 25+ Leute, Studio in Seattle, eigener CEO) zusammen – von der Freelancer-Falle bis zum "Law of the Lid". → `videos/104_0KF2yBiyEBI.md`
+- **[105] I Was Broke At 19. Now My Agency Makes +$100K/mos Without Me** (Mindset & Unternehmertum, Skalierung & Wachstum, Angebot & Positionierung) — Austins Werdegang vom orientierungslosen 19-Jährigen über Callcenter, TV-Werbeverkauf und Immobilien zur Agentur mit CEO – plus drei typische Fehler und drei Säulen, die jede 100.000-$-Agentur habe. Endet mit einem AgencyU-Pitch. → `videos/105_VGdZHzlXoiw.md`
+- **[106] i worked 4 hours a day and my agency kept hitting +$100K/Months** (Mindset & Unternehmertum, Operations & Systeme) — Austins "CEO Time System": fünf Prinzipien, mit denen er von 80-Stunden-Wochen (4–20 Uhr) auf unter 35 Stunden kam, während die Agentur weiter sechsstellige Monate machte – inklusive seines konkreten Wochenplans. → `videos/106_Ow2eietpqgA.md`
+- **[107] 3 AI Agents You MUST HAVE For Your Agency in 2025** (Operations & Systeme, Content & Personal Brand, Sales & Closing) — Austin baut live drei KI-Helfer für Agenturen: einen Content-Agenten in Chipp.ai, einen automatisierten Appointment-Setter in ManyChat und einen Sales-Call-Bewerter aus Fathom + Zapier-KI mit Ausgabe in Slack. → `videos/107_hkuPPcRY4AM.md`
+- **[108] Building a $100k/mo Agency For A Client In 23 Min** (Fallstudie / Coaching-Call, Angebot & Positionierung, Kundengewinnung & Outreach) — Coaching-Call mit Juliana, die in New Jersey eine Social-Media-Agentur für lokale Dienstleister führt (8–15.000 $/Monat). Austin analysiert Offer, Leadgewinnung, Sales, Systeme und Team und kommt zu dem Schluss, dass das Problem in Offer und Ad-Messaging liegt, nicht in den Ad-Kosten. → `videos/108_Gda3v3_C9Cw.md`
+- **[109] Give me just 13 mins and I’ll DELETE your broken mindset** (Mindset & Unternehmertum, Angebot & Positionierung, Preise & Retainer) — Sieben limitierende Glaubenssätze, die Agenturinhaber am Wachstum hindern – jeweils mit Austins eigener Erfahrung und einem Kundenbeispiel. → `videos/109_3m_SV_D1QOI.md`
+- **[110] $10k/mo Freelancer vs $100k/mo Agency** (Skalierung & Wachstum, Angebot & Positionierung, Team & Hiring) — Gegenüberstellung von 10.000-$-Freelancer und 100.000-$-Agentur entlang von vier Systemen: Offer, Kundengewinnung, Operations und Talentgewinnung. Der Unterschied liegt laut Austin nicht im Talent, sondern in den Systemen. → `videos/110_OCzrqh8hAGw.md`
+- **[111] How I Grew My Marketing Agency From $0-$320K/month In Under 18 Months** (Kundengewinnung & Outreach, Content & Personal Brand) — Erklärung des "Authority Funnel" in vier Bausteinen – Content, DM-Ad, KI-gestütztes Appointment Setting in ManyChat, Retargeting – plus eine Rückwärtsrechnung, wie viel Ad Spend für 15.000 $ Neuumsatz nötig ist. (Der Titel bezieht sich nicht auf eine konkret erzählte Wachstumsgeschichte.) → `videos/111_1oyAVPhQIKU.md`
+- **[112] Building a $100K/Month Agency For a Client in 27 Mins** (Fallstudie / Coaching-Call, Team & Hiring, Fulfillment & Kundenbindung) — Coaching-Call mit Sev aus Los Angeles, der lokalen Dienstleistern Follower-Ads, Content und eine Appointment-Setting-Schulung verkauft (11 Kunden nach 4 Monaten). Austin findet zwei Engpässe: Die Kunden setzen ihre Termine schlecht, und Sev steckt selbst im Fulfillment fest, sodass seine eigene Leadgewinnung stockt. → `videos/112_l2mkxM_Rp30.md`
+- **[113] Starting a $100k/mo Agency in 1 Day** (Angebot & Positionierung, Preise & Retainer, Kundengewinnung & Outreach) — 24-Stunden-Challenge: Austin baut von null eine neue Agentur für Online-Coaches – Offer mit Preiskalkulation, Ad, Ankündigungs-Post, DM-Outreach, Onboarding-Automationen, Fulfillment-Grundlage und Hiring-Pipeline für Editoren. Ergebnis: ein Call gebucht, noch kein Abschluss, aber 24 Editor-Bewerbungen. → `videos/113_ODCKv8NMjxc.md`
+- **[114] pov: helping 364 agencies buy back their time** (Team & Hiring, Mindset & Unternehmertum) — Vlog eines Arbeitstags (Start 4:30 Uhr mit Deep Work, danach 3 km Schwimmen) mit Coaching-Calls; Kern ist ein Gruppencall, in dem Austin einen 11-Schritte-Prozess zum "Buy back your time" durch Einstellen vorstellt. → `videos/114_nn7IPhiZE5Y.md`
+- **[115] How I Built a $100K/Month Agency Using SYSTEMS** (Operations & Systeme, Team & Hiring, Skalierung & Wachstum) — Austin überträgt das Systemdenken von McDonald's auf Agenturen: drei Kernsysteme (Operations, Hiring, Kundengewinnung), ein 5-Schritte-Playbook, typische Einwände und ein 90-Tage-Fahrplan. → `videos/115_hggXDRwhfpE.md`
+- **[116] Building a $100K/mo Agency For A Stranger in 26 Mins** (Fallstudie / Coaching-Call, Team & Hiring, Preise & Retainer) — Coaching-Call mit Casey Schultz (Videoagentur in San Diego, ~25.000 $/Monat, "Content to Client System"). Leadgewinnung und Sales laufen hervorragend – der Engpass ist Casey selbst, der Ideation, Drehs, Posting, Ad-Copy und Reporting macht. Das ist offenbar das "Shark Tank"-Video, auf das sich Nr. 102 bezieht. → `videos/116_UCuCiEm1Rlg.md`
+- **[117] i tried 16 ways of getting clients, here are the BEST (SMMA)** (Kundengewinnung & Outreach, Content & Personal Brand) — Tier-Ranking von 16 Kanälen zur Kundengewinnung, die Austin beim Aufbau seiner Agentur (über 225.000 $/Monat) selbst ausprobiert hat – von S (Authority Funnel) bis D (Cold Calling, TikTok, Bewerbungen auf Jobanzeigen). → `videos/117_ZFxhuH_l9N4.md`
+- **[118] How This Freelancer Built a $100k/mo Agency & Studio in 6 Months** (Fallstudie / Coaching-Call, Operations & Systeme, Video-Produktion & Handwerk) — Studio-Tour mit Santiago ("Santi") aus San Diego, der vom Garagen-Freelancer mit Whiteboard-Projektmanagement zu einer Agentur mit 11+ Leuten und einem ~2.600-Quadratfuß-Studio gewachsen ist. Er zeigt sein Notion-System, das Team-Büro, den Podcast-Raum und das Produktionslager. → `videos/118_UnlJylXRAoY.md`
+- **[119] I Built An Entire Agency Onboarding System In 45 Minutes** (Operations & Systeme, Fulfillment & Kundenbindung) — Wette mit seinem Content-Verantwortlichen: Austin baut für die Agentur eines Kunden ("Saint", ~30–40.000 $/Monat) in unter 45 Minuten ein komplett automatisiertes Onboarding mit Notion, Zapier, eSignatures und Gmail – und gewinnt. → `videos/119_bkKSTyktenE.md`
+- **[120] How I Built a +$100K/mo Agency That Runs Without Me** (Mindset & Unternehmertum, Team & Hiring, Operations & Systeme) — Bühnenvortrag "Vom Hustler zum CEO": Austin erklärt anhand seiner eigenen Geschichte fünf Prinzipien – CEO-Mindset, produktisiertes Offer, Systeme, richtig delegieren und Führung. → `videos/120_HFlRikA9uIo.md`
+- **[121] I Built a +$100K/Mo Agency (So You Can Copy Me)** (Skalierung & Wachstum, Team & Hiring, Kundengewinnung & Outreach) — Wie man das Plateau bei ~50.000 $/Monat durchbricht: produktisiertes Offer, Systeme, ein Team mit klaren Erwartungen und planbare Leadgewinnung über den Authority Funnel. → `videos/121_V_2D6hvBBd0.md`
+- **[122] The ONLY Agency Sales Systems Training To Scale To $100k/mo** (Sales & Closing, Team & Hiring, Kundengewinnung & Outreach) — Dreiteiliges Sales-Training: 1) ein Appointment-Setting-Team aufbauen, 2) ein Video Sales Letter (VSL) zum Vorverkaufen, 3) Austins achtstufiges Sales-Call-Framework inklusive Einwandbehandlung. → `videos/122_nKtb-Xr5HRE.md`
+- **[123] FULL Notion Course For Agency Owners (112 Mins)** (Operations & Systeme, Content & Personal Brand, Kundengewinnung & Outreach) — Zusammenschnitt mehrerer Notion-Videos zum "AgencyU Operating System": Überblick über alle Bereiche (Marketing, Setting, Sales, Onboarding, Client-OS, Fulfillment, Client Success, Hiring, SOPs, OKRs, Finanzen, interne Vermarktung), danach Vertiefungen zu Leadgewinnung mit dem Authority Funnel, Formularen, Kundenportal, ManyChat-/Zapier-Automation, Fulfillment-Funnel, Personal-Brand-Content und Aufgabenmanagement. Inhaltlich stark überlappend mit Nr. 103. → `videos/123_5mWj25dYkKo.md`
+- **[124] This is Boring, But You’ll Hit $100k/mo in Your Agency FAST** (Skalierung & Wachstum, Angebot & Positionierung, Operations & Systeme) — Die vier Säulen, um aus der Falle unter 50.000 $/Monat herauszukommen: produktisiertes Offer, Leadgewinnung per Authority Funnel, ein Agency Operating System und ein strukturierter Hiring-Prozess. → `videos/124_iH8tQCN6l4I.md`
+- **[125] How I Built a $200k/mo Agency From My Personal Brand (Full Breakdown)** (Content & Personal Brand, Operations & Systeme) — Austins produktisierter Prozess für Personal-Brand-Content: die "ACE"-Content-Strategie, Ideenfindung mit ChatGPT auf Basis des Offer Breakdowns, eine feste Skriptformel und Planung im internen Marketing-OS in Notion. (Derselbe Inhalt erscheint auch als Teil von Nr. 123.) → `videos/125_-8MEGEFG990.md`
+- **[126] THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Sales & Closing) — Case-Study-Interview mit Todd, der in Südwest-Missouri/Nordwest-Arkansas eine etablierte Immobilien-Medienfirma (Listing-Fotos/-Videos, ~700 Makler als Kunden) führt und mit AgencyU ein zusätzliches Social-Content-Retainer-Angebot für Makler aufgebaut hat. → `videos/126_J4CG3HHi97E.md`
+- **[127] I Cracked The Code on Fulfillment in Notion (2025)** (Fulfillment & Kundenbindung, Operations & Systeme) — Live-Demo des Fulfillment-Systems ("Fulfillment Funnel") in Notion – einmal für Content-Agenturen mit Statuskette von Skript bis Posting, einmal für aufgabenbasierte Agenturen (z. B. Leadgen) mit Aufgaben-Templates. (Derselbe Inhalt ist auch Teil von Nr. 123.) → `videos/127_HlNs_bXgNBQ.md`
+- **[128] The Sales System I Use To Book 4397 Sales Calls For My Agency** (Kundengewinnung & Outreach, Operations & Systeme) — Schritt-für-Schritt-Anleitung, wie man Instagram-DMs mit einem Keyword per ManyChat automatisch beantwortet, taggt und über Zapier als Lead in einer Notion-Datenbank (Leads-/Setting-OS) ablegt – inklusive Slack-Benachrichtigung. (Derselbe Inhalt ist auch Teil von Nr. 123.) → `videos/128_nlogfkOfcSo.md`
+- **[129] The Simplest Way to Build a Client Portal That Keeps Clients Happy** (Operations & Systeme, Fulfillment & Kundenbindung) — Austin zeigt, wie man in Notion ein internes "Client OS" (zentrale Kundendatenbank) plus ein nach außen geteiltes Kundenportal baut, das Kunden transparent auf dem Laufenden hält und so die Kundenbindung erhöht. → `videos/129_0va8NT6HJ-I.md`
+- **[130] Why Notion Forms Are a Game Changer for Agencies** (Operations & Systeme) — Austin erklärt, wie seine Agentur die neue Formular-Funktion von Notion für Sales-Intake, Onboarding, NPS und End-of-Day-Reports nutzt und wie man Formulare samt Automationen aufsetzt. → `videos/130_8Qu7OVossCw.md`
+- **[131] How I Turned Notion into a CRM For My Agency (10X SALES)** (Sales & Closing, Operations & Systeme) — Austin legt das Fundament eines wiederholbaren Sales-Prozesses (VSL, qualifizierender Kalender, CRM, Sales-Framework, Payment-Links, Präsentation, Automation) und zeigt, wie alles in einem Notion-CRM mit Sales-Kennzahlen zusammenläuft. → `videos/131_JH9QoJH6jys.md`
+- **[132] $100K/Mo Hiring System for Agency Owners** (Team & Hiring, Operations & Systeme) — Schritt-für-Schritt-Prozess, wie Agenturinhaber herausfinden, wen sie einstellen, wie sie Stelle, Erwartungen und Infrastruktur vorbereiten und neue Mitarbeiter so onboarden, dass sie wirklich Zeit zurückgewinnen. → `videos/132_SZLMdwck29E.md`
+- **[133] THIS Creative Agency 9X Their Revenue With Our NEW Notion Systems** (Fallstudie / Coaching-Call, Operations & Systeme, Mindset & Unternehmertum) — Interview mit Philip Heck (Sidekick Creative Company, Arkansas), der mit seiner Partnerin von chaotischen 2–3k $ wiederkehrendem Umsatz auf rund 25–27k $/Monat kam – vor allem durch Fokus, Notion-Systeme, Auslagerung an Contractors und 1:1-Coaching. → `videos/133_alGapqeMtKY.md`
+- **[134] I Went From BROKE Freelancer to $200k/mo Agency CEO in 2 Years!** (Mindset & Unternehmertum, Team & Hiring, Angebot & Positionierung) — Mastermind-Vortrag, in dem Austin anhand seiner eigenen Geschichte mit Brand Tactic vier CEO-Prinzipien erklärt: CEO-Mindset, Fundament (Offer), Loslassen (Delegation) und Leadership. → `videos/134_VVcqpHBexqQ.md`
+- **[135] Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY)** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Fulfillment & Kundenbindung) — Interview mit Demetri (Agentur "More", Nashville), der von einer Full-Service-Agentur mit Projekt- und Empfehlungsgeschäft zu einem produktisierten Video-Retainer-Offer wechselte und dieses mit einer einzigen Anzeige in 3–4 Monaten auf ca. 30.000 $/Monat brachte. → `videos/135_W63UpHLnNZY.md`
+- **[136] NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion** (Kundengewinnung & Outreach, Operations & Systeme, Sales & Closing) — Austin erklärt den "Authority Funnel" (DM-Ads) als planbare Leadquelle und zeigt, wie Leads per ManyChat und Zapier in ein Notion-Appointment-Setting-System fließen und dort bis zum Abschluss samt Kennzahlen verfolgt werden. → `videos/136_9Klw68QX3l4.md`
+- **[137] THIS Video Agency Owner Went From Burnout to $30K Months in 6 Months** (Fallstudie / Coaching-Call, Angebot & Positionierung, Team & Hiring) — Interview mit Taj, Videograf aus Atlanta mit Fokus Restaurants, der nach einem viralen Reel und anschließendem Burnout mit klarem Offer, Systemen und Team wieder Fuß fasste und nun selbstbewusst Kunden auswählt. → `videos/137_YUSPn7pqoYw.md`
+- **[138] NEW Way To Run A $100k/mo Agency Using Notion in 2026** (Operations & Systeme, Skalierung & Wachstum) — Rundgang durch Austins komplettes "Agency OS" in Notion – von Marketing, Appointment Setting und Sales über Onboarding, Client Management und Fulfillment bis zu Client Success, Hiring, SOPs, OKRs, Finanzen und eigener Content-Planung. → `videos/138_k3Kz1aQVtrM.md`
+- **[139] The SYSTEM That Made THIS Freelancer into a Full-Time Agency** (Fallstudie / Coaching-Call, Angebot & Positionierung, Fulfillment & Kundenbindung) — Interview mit Austin Lord (Nashville), früher Hochzeits- und Fashion-Fotograf, der vom austauschbaren Video-Dienstleister zu einem strategiegetriebenen Short-Form-Content-Offer wechselte und in einigen Monaten von null auf sieben Retainer (ca. 23.000 $/Monat) kam. → `videos/139_ZpJeLuJPMrY.md`
+- **[140] Ken Made $100K in 7 Weeks this NEW Offer in His Agency (CASE STUDY)** (Fallstudie / Coaching-Call, Angebot & Positionierung, Operations & Systeme) — Interview mit Ken (20X Agency, Japan), der mit 24 Mitarbeitern und Multi-Year-Retainern eigentlich nur besseres Projektmanagement suchte – und auf Austins Rat ein produktisiertes Coaching-Offer für Coaches launchte, das in 7 Wochen knapp 100.000 $ Umsatz brachte. → `videos/140_uJ3RhIJnjj8.md`
+- **[141] How I AUTOMATE My Marketing Agency's Onboarding in 5 Minutes** (Operations & Systeme, Fulfillment & Kundenbindung) — Schritt-für-Schritt-Anleitung, wie Austin das Kunden-Onboarding mit Notion-Formularen, eSignatures, Zapier und Gmail automatisiert – plus Aufbau der Onboarding-Präsentation, die Erwartungen setzt. → `videos/141_MS8uZDP3_xk.md`
+- **[142] Why Agencies FAIL (The Hidden Problem No One Talks About)** (Fulfillment & Kundenbindung, Angebot & Positionierung) — Podcast-Folge mit Austin und Gilberto über Kundenbindung: Ergebnisse statt Output, Quick Wins in der ersten Woche, Erwartungsmanagement im Onboarding und eine proaktive Kommunikations-Kadenz. → `videos/142_RC4Z-58Vck0.md`
+- **[143] How THESE Agency Owners Are Building 7-Figure Agencies** (Fallstudie / Coaching-Call, Mindset & Unternehmertum) — Zusammenschnitt kurzer Statements von sieben Agenturinhabern auf einem AgencyU-Mastermind in San Diego zu ihren früheren Engpässen, Aha-Momenten und Vorsätzen. → `videos/143_7IDaqxE8ebs.md`
+- **[144] The BEST Team Structure For Scaling To $100k/mo In Your Marketing Agency** (Team & Hiring, Finanzen & Marge, Skalierung & Wachstum) — Austin leitet aus einem produktisierten Offer die billable Hours pro Rolle, die Kosten, den Mindestpreis und die Kapazität pro Mitarbeiter ab und zeigt, wie daraus ein Pod-basiertes Team plus Sales- und Management-Struktur für 100.000 $/Monat entsteht. → `videos/144_KHUkKVlUevM.md`
+- **[145] How I Built My $200k/mo Agency So It Runs Without Me** (Skalierung & Wachstum, Operations & Systeme, Team & Hiring) — Austin erzählt, wie er Brand Tactic von der Ein-Mann-Show zu über 200.000 $/Monat skalierte und Mark als CEO einsetzte, und erklärt die vier Säulen dahinter: Offer produktisieren, Systeme bauen, richtig einstellen, andere multiplizieren. → `videos/145_tmPGfUd8fZ8.md`
+- **[146] How I Deliver RESULTS For My Video Agency Clients** (Fulfillment & Kundenbindung, Angebot & Positionierung, Kundengewinnung & Outreach) — Austin zeigt, wie Content-/Video-Agenturen ihr Offer ROI-orientiert aufstellen, indem sie den Authority Funnel (Follow-Ad + Carousel-DM-Ad) für ihre Kunden einbauen – am Beispiel eines Maklers in La Jolla, inklusive ChatGPT-Workflow für Ad-Skripte. → `videos/146_rHAdaeWcFpQ.md`
+- **[147] 15 Marketing Tools For Agencies in 2025** (Operations & Systeme) — Überblick über 15 Softwaretools, die Austins Unternehmen nutzt, jeweils mit dem konkreten Einsatzzweck. → `videos/147_tmVW7uBlCVM.md`
+- **[148] How We Are Helping +150 Agencies Scale to $100k Months** (Mindset & Unternehmertum, Sales & Closing, Skalierung & Wachstum) — Lockeres Gespräch zwischen Austin und seinem Geschäftspartner Gilberto über die Entstehung von AgencyU, typische Wachstumsdeckel von Agenturen, Sales-Blockaden, Beispiele erfolgreicher Mitglieder, die Partnerschaft und ihre persönlichen Antriebe. → `videos/148_qHDLQPqtHzo.md`
+- **[149] How to Run a $200k/mo Marketing Agency in 1 Hour a Week** (Skalierung & Wachstum, Kundengewinnung & Outreach, Team & Hiring) — Austin erklärt die vier Schritte, mit denen er seine Agentur auf über 200.000 $/Monat (über 5 Mio. $ Gesamtumsatz) brachte und sich gleichzeitig herausarbeitete: Offer produktisieren, Akquise planbar machen, Fulfillment/Business produktisieren, Talent Acquisition Funnel. → `videos/149_R2dVEktcmdY.md`
+- **[150] Justin was a confused freelancer to having clarity with $40k/mo running a team (CASE STUDY)** (Fallstudie / Coaching-Call, Angebot & Positionierung, Preise & Retainer) — Interview mit Justin Hughes (Creative Founders, Gold Coast, Australien), der mit seiner Frau vom schwankenden Content-Freelancing für Restaurants zu einer Personal-Brand-Agentur für Gründer mit vierköpfigem Team und 40.000 $-Monaten kam. → `videos/150_xUKYgsdqeCk.md`
+- **[151] i hit $200k month in my smma on easy mode lol** (Angebot & Positionierung, Preise & Retainer, Kundengewinnung & Outreach) — Austin erklärt die Grundpfeiler seiner 200k-Agentur: ein produktisiertes, skalierbares, wiederholbares und profitables Offer (mit COGS-Rechnung), SOP-Library und Systeme sowie planbare Kundengewinnung über den Authority Funnel – durchgerechnet am Beispiel Door-to-Door-Sales-Recruiter. → `videos/151_UMMMJ0ISsms.md`
+- **[152] $4K to $20K: The Accountability and Systems That CHANGED Our Agency (CASE STUDY)** (Fallstudie / Coaching-Call, Content & Personal Brand, Sales & Closing) — Interview mit Danny Thomas (RevConstruct, Südkalifornien; Web, SEO, PPC für Contractors und Home-Service-Betriebe), der in rund sechs Monaten von ca. 4.000 $ auf konstant 15.000 $ (Spitze 20.000 $) pro Monat kam – vor allem durch Systeme, Personal Brand und Authority Funnel. → `videos/152_AFP8g5ybFLw.md`
+- **[153] 24 Hour Agency Owner Mastermind** (Mindset & Unternehmertum, Kundengewinnung & Outreach) — Eventvideo von einem Networking-Mastermind mit ca. 30 Agenturinhabern, im Kern eine kurze Q&A mit Austin und Gilberto zu Ad-Testbudgets, Personal Brand vs. Firmenprofil und dem Umgang mit Höhen und Tiefen. → `videos/153_awRf0vNqxpA.md`
+- **[154] How I Scaled My Agency to $220,000/Month [FULL Masterclass]** (Skalierung & Wachstum, Angebot & Positionierung, Preise & Retainer) — Kompakte Masterclass zu den sieben Säulen, mit denen Austin seine Agentur auf über 200.000 $/Monat skalierte: CEO-Mindset, Offer, Preisstrategie, Systeme/SOPs, Kundengewinnung per Paid Ads, Hiring über einen Talent Acquisition Funnel und Leadership. → `videos/154_XzTjYx3wlyc.md`
+- **[155] pov: helping +150 agencies scale 1:1 to $100km** (Mindset & Unternehmertum, Team & Hiring) — Day-in-the-Life-Vlog: Austins Tag als Coach von AgencyU mit Triathlon-Training, Deep-Work-Block, Kundencalls, Einarbeitung einer neuen Client-Success-Managerin und einem Gespräch mit seiner Frau Sabrina über Beziehung und Unternehmertum. → `videos/155_hjD7KWuH7gE.md`
+- **[156] 7 Years of No BS SMMA Advice in 18 Mins** (Angebot & Positionierung, Operations & Systeme, Mindset & Unternehmertum) — Austin destilliert sieben Jahre Agenturerfahrung in sieben Lektionen: nicht zu allem Ja sagen, Offer produktisieren, planbare Leadgenerierung, wiederholbare Systeme, richtig delegieren, Ergebnisse statt Output messen, Leader werden. → `videos/156__yibGLQRA8o.md`
+- **[157] Alex Hormozi’s Agency Strategy Will Blow Up Your Business** (Content & Personal Brand, Kundengewinnung & Outreach) — Reaction-Video: Austin kommentiert Aussagen von Alex Hormozi zu organischem Content, Ads, Branding und Ideenfindung und überträgt sie auf Agenturen und deren Kunden. → `videos/157_65WmMB-1Vg8.md`
+- **[158] How This Freelancer Went From $1k to $15k in 4 Weeks (CASE STUDY)** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Preise & Retainer) — Interview mit Juliana Evangelista (Social-Media-/Ads-Agentur für Beauty-Dienstleister wie Salons, Kosmetikerinnen, Med Spas, New Jersey), die in rund drei Monaten von 1.750 $ auf 14.300 $ im Monat kam – durch gestaffeltes Offer, neue Preise, Authority Funnel und einen Appointment Setter. → `videos/158_cSCcAIomSv4.md`
+- **[159] How to Build A $100k/mo Agency Offer** (Angebot & Positionierung, Preise & Retainer) — Schritt-für-Schritt-Anleitung für ein unwiderstehliches Agentur-Offer: Nische, Pain Points, Outcomes, Steps to Desired Outcome, Unique Selling Proposition, Garantie und Pricing – mit ChatGPT-Beispielen für Klempner und Online-Coaches. → `videos/159_8ggjfN6VA-4.md`
+- **[160] Freelancer Scales to $50k MRR (CASE STUDY)** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Sales & Closing) — Interview mit Zach Wood (Provo, Utah), der mit Partner Mike für Door-to-Door-Sales-Firmen Instagram-Profile betreibt und per Authority Funnel neue Vertriebler rekrutiert – in knapp einem Jahr von ca. 4–5k auf 50.000 $ MRR. → `videos/160_DD17nsWAPOA.md`
+- **[161] Want 20 New Clients for Your Agency? Watch this** (Kundengewinnung & Outreach, Content & Personal Brand) — Austin stellt seinen "Authority Funnel" vor: Instagram-Ads plus Personal-Brand-Content, die Leads in die DMs bringen, wo Termine gesetzt werden. Damit sollen Agenturen planbar 3–5 Kunden pro Woche gewinnen, statt sich auf Empfehlungen zu verlassen. → `videos/161_UsCWjrFEJcM.md`
+- **[162] The 4 Systems That Scaled Me To $200k in My Marketing Agency** (Operations & Systeme, Kundengewinnung & Outreach, Team & Hiring) — Austin stellt vier Systeme vor, mit denen seine Agentur vom knappen sechsstelligen Umsatz auf siebenstellig gewachsen ist: automatisiertes Onboarding, Lead-Gen-System, ein Operating System in Notion und ein Hiring-Funnel. → `videos/162_jKlx9Loi_tQ.md`
+- **[163] pov: 31 year old $200k/mo Agency Owner CEO** (Mindset & Unternehmertum, Angebot & Positionierung, Fallstudie / Coaching-Call) — Ein Day-in-the-Life-Vlog: Austin zeigt einen Mittwoch mit Calls von 10 bis 18:30 Uhr. Er spricht mit Mitgliedern seines Coaching-Programms "Agency U", hat einen Buchhaltungstermin und erklärt nebenbei, wie er Agenturen beim Umbau ihres Offers hilft. → `videos/163_HzFnVqjfdrk.md`
+- **[164] the laziest cold email outreach for $100k/mo in your agency** (Kundengewinnung & Outreach) — Mitschnitt eines Agency-U-Gruppencalls mit Felipe von Instantly (Cold-E-Mail-Software). Es geht um die vier Säulen erfolgreicher Cold E-Mails, eine Live-Demo von Instantly (Domain-Setup, Warm-up, Lead Finder, KI-Sequenzen, Unibox) und eine Fragerunde. → `videos/164_hI4K_Y-yZRM.md`
+- **[165] How Ryan Added $34,000 in 2 Weeks in his SMMA** (Fallstudie / Coaching-Call, Angebot & Positionierung, Preise & Retainer) — Fallstudien-Interview mit Ryan Samuels, der von Immobilienfotografie im Akkord zu einer Content-Agentur mit Retainer-Offer für Makler gewechselt ist. In zwei Wochen schloss er rund 34–40k $ an Verträgen ab. → `videos/165_LyxUtEwuNiI.md`
+- **[166] if you want to scale your agency to $100k/mo. watch this.** (Skalierung & Wachstum, Angebot & Positionierung, Operations & Systeme) — Austin nennt fünf häufige Gründe, warum Agenturen nicht zu einem echten CEO-Business wachsen: ein schwaches Offer, schlechte Systeme, keine planbare Kundengewinnung, fehlendes Delegieren und mangelnde Führung. → `videos/166_3YZmT1pV2jE.md`
+- **[167] How to Build $200k/mo Systems (So Your SMMA Runs Without You)** (Operations & Systeme, Sales & Closing, Team & Hiring) — Austin beschreibt vier Systeme (Fulfillment inkl. Onboarding, Lead Gen, Sales, Hiring), mit denen seine Agentur von 20k auf über 200k im Monat kam, ohne dass er dafür mehr arbeiten musste. → `videos/167_f95ci9_8rVA.md`
+- **[168] This Simple Shift Could Take Your Agency to $50k** (Mindset & Unternehmertum, Skalierung & Wachstum, Team & Hiring) — Interview mit Jared, Gründer und CEO der Millennial Media Group (seit 2015, laut eigener Aussage deutlich siebenstellig). Es geht um die Phasen 0 → 10k, 10k → 50k und 50k → 100k+ pro Monat und darum, was sich in jeder Phase am Denken ändern muss. → `videos/168_lpTXhD6Ogco.md`
+- **[169] How Cutting 75% of His Clients Created Clarity** (Fallstudie / Coaching-Call, Angebot & Positionierung, Preise & Retainer) — Fallstudien-Interview mit Ian Gaty (Milwaukee). Seine Agentur hat sich von Immobilien-Foto und -Video für über 500 Makler auf Content-/Social-Media-Management im Retainer umgestellt und dafür rund 75 % der alten Kunden aufgegeben. → `videos/169_NnOfVZ7OdTk.md`
+- **[170] CEO Productivity SECRETS to scale to $100k/mo** (Mindset & Unternehmertum) — Fünf Produktivitätsgewohnheiten, mit denen Austin nach eigener Aussage aus dem Tagesgeschäft bei ~110k/Monat herauskam und auf über 200k/Monat skalierte. → `videos/170_QYjmsuUxgHs.md`
+- **[171] $100k/mo Financial Plan For YOUR Agency** (Finanzen & Marge, Team & Hiring, Skalierung & Wachstum) — Austin zeigt anhand einer Tabelle, wie man für die Agentur eine Finanzprognose baut: Umsatz, COGS, Kosten, Nettogewinn, dazu eine Kapazitätsrechnung pro Rolle. Daraus leitet er ab, wann Einstellungen nötig werden. → `videos/171_z0EsmBKlSZA.md`
+- **[172] The Retainer Model That Grew This Real Estate Agency to $100k** (Fallstudie / Coaching-Call, Preise & Retainer, Fulfillment & Kundenbindung) — Fallstudien-Interview mit Cam (Upstate New York), der eine Immobilien-Medienagentur für Listing-Fotos und -Videos betreibt. Er hat zusätzlich ein Short-Form-Content-Retainer-Offer für Makler eingeführt und damit in sechs Monaten rund 15k $/Monat an wiederkehrendem Umsatz aufgebaut. → `videos/172_bpRIUw6iP0s.md`
+- **[173] From Being Overwhelmed to Consistent $20k Months** (Fallstudie / Coaching-Call, Sales & Closing, Operations & Systeme) — Fallstudien-Interview mit Dylan (San Diego). Seine knapp ein Jahr alte Agentur hilft Network-Marketern in der Finanzbranche beim Aufbau einer Personal Brand. Mit einer klaren Nische, Systemen und Sales-Training wuchs sie in rund fünf Monaten von ~2k auf fast 20k $/Monat wiederkehrenden Umsatz. → `videos/173_tjRmEAFPmfo.md`
+- **[174] I Debunked 200+ Agency Owner’s Myths** (Angebot & Positionierung, Mindset & Unternehmertum, Team & Hiring) — Austin und sein Co-Founder Gilberto nehmen im zweiten Teil ihrer Reihe typische Irrtümer von Agenturinhabern auseinander: mehr Services, niedrigere Preise, Automatisierung, selbst machen statt einstellen, Full-Service, Systeme als Engpass, Perfektionismus vor dem Verkauf und die Suche nach "Unicorn"-Mitarbeitern. → `videos/174_vFfjitL_Af4.md`
+- **[175] Alex Hormozi SECRETS for Scaling an Agency to $100k/mo** (Mindset & Unternehmertum, Angebot & Positionierung, Skalierung & Wachstum) — Reaction-Video: Austin kommentiert Ausschnitte von Alex Hormozi zum Thema Fokus und überträgt sie auf Agenturen. Seine These: Nicht das, was er getan hat, sondern das, was er gelassen hat, brachte ihn auf über 200k/Monat. → `videos/175_QxpFwFFUGDk.md`
+- **[176] How This 18-Year-Old Built a 50K/Month Business While in School!** (Fallstudie / Coaching-Call, Angebot & Positionierung) — Fallstudien-Interview mit dem 18-jährigen Owen von AOK Studios (Raum Philadelphia). Die Agentur macht Markenstrategie und Content-Produktion. Mit einem klaren Offer und Mentoring kam er neben der Schule auf seinen ersten Monat mit 40–50k $. → `videos/176_SOt9NnNTZFA.md`
+- **[177] The Guy Behind Viral Personal Brands Sharing ALL His Secrets** (Content & Personal Brand, Video-Produktion & Handwerk, Preise & Retainer) — Mitschnitt eines Agency-U-Gruppencalls mit Ryan Magin, Gründer der Short-Form-Agentur Viral Edits (Kunden u. a. Grant Cardone und Jordan Peterson). Er erklärt, wie virale Videos entstehen (breites Thema + starke Überzeugung), wie er Retainer bepreist und Kunden führt und wie er Editoren und Clipper aufbaut. Danach folgt eine Q&A-Runde mit Mitgliedern. → `videos/177_r7QMKXSzQIs.md`
+- **[178] How to Get Clients Predictably To Hit $100k/mo** (Kundengewinnung & Outreach, Sales & Closing) — Austin befragt seinen Co-Founder Gilberto zur Kundengewinnung: warum Empfehlungen nicht reichen, welches Setup man für den Anfang braucht, wie man mit Ads und Settern skaliert, und wie eine Datenbank-Reaktivierung schnell Termine bringt. → `videos/178_WNfEVXyna6o.md`
+- **[179] Scaling Past 100k mo is EASIER Than You Think** (Skalierung & Wachstum, Mindset & Unternehmertum) — Austin beschreibt drei Stufen von Agenturen (0–5k, 10–30k, 100k+ pro Monat) mit ihren typischen Merkmalen und erklärt, was sich ändern muss, um über 100k/Monat zu kommen. Er selbst ging in unter 12 Monaten von 10k auf über 100k und im Jahr darauf auf über 200k (insgesamt über 5 Mio. $ Umsatz). → `videos/179_ehMJPUOaKmo.md`
+- **[180] What It Really Takes to Hit $100k/m In Your Agency** (Skalierung & Wachstum, Preise & Retainer, Sales & Closing) — Austin geht die Säulen für 100k/Monat Schritt für Schritt durch: Offer (mit Preis- und Kapazitätsrechnung), Marketing (Inbound und Outbound), Sales-Prozess, Fulfillment-System und Hiring. Zu jeder Säule nennt er Zielwerte. → `videos/180_MRxq1krHw-c.md`
+- **[181] Alex Hormozi 4 Business Concepts for Agencies** (Mindset & Unternehmertum, Finanzen & Marge, Angebot & Positionierung) — Reaction-Video: Austin kommentiert Hormozis Video über vier Business-Konzepte und überträgt sie auf Agenturen: Zielkunde, Pricing und Marge, Umsatz als Folge der Inputs, Durchhalten und Eigenverantwortung. → `videos/181_88E4JR78tyM.md`
+- **[182] The 4 Pillars Your Agency Needs To Scale to $200k/pm** (Skalierung & Wachstum, Angebot & Positionierung, Operations & Systeme) — Austin erzählt seinen Werdegang und stellt die vier Säulen vor, mit denen er von ~10k auf über 200k/Monat kam: Offer, Kundengewinnung, Systeme und Talent. Die zweite Hälfte ist ein ausführlicher Pitch für sein Programm "Agency U Scale". → `videos/182_M88S2UId1zg.md`
+- **[183] Ranking Every SMMA Niche From Best to Worst (2024)** (Angebot & Positionierung) — Austin bewertet rund 50 mögliche Agentur-Nischen als "great", "okay" oder "bad". Kriterien sind Zahlungskraft bzw. Marge, Ticketgröße, Wachstum der Branche, Auffindbarkeit und ob ein Geschäftsmodell nur Zeit gegen Geld tauscht. → `videos/183_Z-3jvO0meNA.md`
+- **[184] you will never hit $100k/mo if you keep doing this** (Mindset & Unternehmertum, Finanzen & Marge, Skalierung & Wachstum) — Sieben Gewohnheiten, die Austin nach eigener Aussage ablegen musste, um in unter zwei Jahren von rund 15k auf über 150k im Monat zu wachsen. → `videos/184_Qi4_J4hPBNc.md`
+- **[185] My Secret to Building a $100k/mo Agency Team (Step-By-Step)** (Team & Hiring, Mindset & Unternehmertum) — Austin stellt sein "LEADER"-Modell vor. Es soll ein Team aus A-Playern formen, die an die Vision glauben, selbst Führungskräfte hervorbringen und den Inhaber aus dem Tagesgeschäft lösen, bis hin zur Einstellung eines CEO. → `videos/185_CNTFjEDN32U.md`
+- **[186] Step-By-Step How I Get $50k in PROFIT For My Agency!** (Finanzen & Marge, Preise & Retainer, Team & Hiring) — Austin rechnet an einem Beispiel-Offer für Online-Coaches durch, wie eine Agentur mit ~72k Umsatz und ~54k Rohertrag im Monat aussieht: von den Steps to Outcome über Stunden und COGS bis zum Preis und zur Teamkapazität eines "Pods". → `videos/186_fABV_rVWjwI.md`
+- **[187] any idiot can make $10k/pm in an agency doing THIS** (Kundengewinnung & Outreach, Angebot & Positionierung, Content & Personal Brand) — Austin zeigt die Reihenfolge, mit der man eine Video- oder Content-Agentur auf die ersten 10–15k $/Monat bringt: erst das Offer, dann manuelle Cold Outreach, danach automatisierte Cold E-Mails (Instantly), bezahlte Ads (Authority Inbound Funnel) und organischer Content. Er liefert Nachrichtenvorlagen und KPI-Rechnungen dazu. → `videos/187_Wpn5ppaPAcM.md`
+- **[188] How I Book 40+ Sales Calls A Month Guaranteed (2025)** (Kundengewinnung & Outreach, Content & Personal Brand) — Eine Schritt-für-Schritt-Anleitung für den Authority Inbound Funnel, mit dem Austin nach eigener Aussage mindestens 40 Sales-Calls pro Monat bucht. Sie enthält Script-Vorlagen für Follow-Ad, Carousel-Ad und Retargeting, konkrete Einstellungen im Ads Manager, einen Ablauf für Appointment Setting in den DMs und eine Budgetrechnung. → `videos/188_PWZxZm2-0WU.md`
+- **[189] If I Wanted to Go From Broke to Agency CEO, Here’s What I’d Do** (Mindset & Unternehmertum, Sales & Closing, Team & Hiring) — Vier Mindset-Wechsel vom Freelancer (~10k/Monat) zum Agentur-CEO: wie ein Unternehmer denken, Nein sagen und ein Offer bauen, als helfender Verkäufer auftreten und führen. → `videos/189_IgLjjjTsyWY.md`
+- **[190] SECRETS For Managing Creatives Inside a $100k/mo Agency** (Team & Hiring, Operations & Systeme) — Ein Notion-Tutorial zur Teamführung in Content-Agenturen mit drei Bausteinen: End-of-Day-Formulare (EOD), wöchentliche Ziele mit Fortschrittsbalken und ein OKR-basierter Task-Manager. Am Ende werden alle drei in einer persönlichen Ansicht pro Teammitglied zusammengeführt. → `videos/190_EE2IYJwaRC8.md`
+- **[191] the NEW Way of Cold Emailing for Agencies (2024)** (Kundengewinnung & Outreach) — Eine Schritt-für-Schritt-Anleitung für Cold E-Mail mit Instantly: Domains und Postfächer per Done-for-you-Setup, Warm-up, Leads über den Lead Finder oder eine VA, Kampagne und Sequenz (KI oder manuell), Versandplan, Unibox als CRM, Benchmarks und eine Umsatzrechnung. → `videos/191_VFIiplriMvo.md`
+- **[192] Agencies: 10x Revenue with 1 New Sales Process** (Sales & Closing, Kundengewinnung & Outreach) — Austin stellt einen dreiteiligen Sales-Prozess vor, mit dem Agenturen unabhängig von Empfehlungen werden: 1) planbare Lead-Gen über Inbound-Ads und Outbound-E-Mail, 2) eine VSL zur Vorqualifizierung, 3) ein festes Sales-Call-Framework mit Preis-Framing. → `videos/192_AzHMh_WYFlA.md`
+- **[193] The Only Guide You'll Ever Need to Hit $100k/months in 2025** (Angebot & Positionierung, Kundengewinnung & Outreach, Operations & Systeme) — Austin stellt vier Säulen vor, mit denen Content-/Video-Agenturen über 50k $/Monat wachsen: ein ergebnisorientiertes Offer, planbare Kundengewinnung über einen "Authority Funnel", ein Agency Operating System in Notion und das Einstellen von A-Playern. → `videos/193_MHOBpY7STRQ.md`
+- **[194] $200k/mo CEO Explains How to Build An Agency You Love** (Angebot & Positionierung, Team & Hiring, Operations & Systeme) — Vier Probleme, die Agenturinhaber ins "Agency Prison" führen (schwaches Offer, fehlende Systeme, schlechtes Delegieren, alles selbst für den Kunden erledigen), und wie man die Agentur so baut, dass sie ohne den Gründer läuft. → `videos/194_0efZT3jKV-s.md`
+- **[195] 4 Reasons Your Agency Is Stuck at $20K/Month** (Angebot & Positionierung, Operations & Systeme, Team & Hiring) — Vier Gründe, warum Content-Agenturen bei 15–30k $/Monat stagnieren – zu allem Ja sagen, keine Systeme, kein Delegieren, keine Automatisierung – und was man jeweils dagegen tut, um vom Operator zum Orchestrator zu werden. → `videos/195_xM7Po9uT5BI.md`
+- **[196] Asking 7 Figure Agency Owners Their Secret To Their Success** (Skalierung & Wachstum, Sales & Closing, Team & Hiring) — Austin stellt vier Agenturinhabern mit siebenstelligem Umsatz dieselben drei Fragen: Was ist der Schlüssel von 0 auf 10k, von 10k auf 50k und von 50k auf 100k $/Monat? Die Antworten ähneln sich stark. → `videos/196_UDICDiG3auw.md`
+- **[197] This ONE Skill Took My Agency from Chaos to +$100K/Month** (Team & Hiring, Operations & Systeme) — Die entscheidende Führungsfähigkeit ist, Erwartungen an das Team klar zu setzen, zu messen und nachzuhalten. Austin zeigt SMART-Erwartungen, End-of-Day-Formulare und wöchentliches Goal Tracking. → `videos/197_I7Lm5-lPZto.md`
+- **[198] I Cracked the Code on Service Delivery** (Operations & Systeme, Fulfillment & Kundenbindung, Video-Produktion & Handwerk) — Screen-Walkthrough des "Fulfillment Funnels" in Notion: wie ein Video vom Planen über Dreh, Schnitt und Review bis zum Posting läuft und dabei automatisch an die jeweils verantwortliche Person übergeben wird. → `videos/198_LkZlwRsVj0E.md`
+- **[199] How to Track Your $100k/Mo Agency Using Notion** (Operations & Systeme, Sales & Closing, Kundengewinnung & Outreach) — Austin zeigt, wie man Notion als CRM nutzt – aufgeteilt in drei Bausteine: Momentum OS (für 0–10k/Monat), Leads OS und Sales OS. → `videos/199_kT7iYENYNZU.md`
+- **[200] How I Use Notion to Run a $200k/mo Agency** (Operations & Systeme, Fulfillment & Kundenbindung, Finanzen & Marge) — Kompletter Rundgang durch das "Agency U Operating System" in Notion: Leads OS, Sales OS, Client OS, Fulfillment Funnel, Rollenansichten fürs Team, CEO-Board mit OKRs und ein Finanz-OS mit Stripe-Anbindung. → `videos/200_GOIXserpHpg.md`
+- **[201] how to add $15k+ into your agency** (Angebot & Positionierung, Skalierung & Wachstum) — Videoagenturen werden zur austauschbaren Ware. Austin stellt das "Creative Partner Model" vor: ein ergebnisorientiertes Offer, das teilweise als Coaching/Done-with-you geliefert wird und damit über den lokalen Radius hinaus skaliert. → `videos/201_GQyPGAynEC4.md`
+- **[202] how i built a $200k month agency to prove it’s not luck** (Angebot & Positionierung, Kundengewinnung & Outreach, Team & Hiring) — Austin baut live eine Beispielagentur für Immobilienmakler auf ("Elevate Media") und zeigt den kompletten Fahrplan: Offer und Preis, Authority Funnel mit Ads, Sales-Prozess, Systeme und Talent Acquisition. → `videos/202_UsCcAh9jio8.md`
+- **[203] Watch these 45 minutes if you want to 10x your agency in 2024** (Skalierung & Wachstum, Angebot & Positionierung, Kundengewinnung & Outreach) — Mitschnitt eines Live-Vortrags (vor einem Publikum in einer Kirchengemeinde, nicht nur Agenturen) über sechs Säulen, mit denen man vom "Operator" zum "Orchestrator" wird: Offer, Lead Generation, Sales, Brand, Systeme und Hiring. Die Beispiele reichen von Videoagenturen bis zu Solaranlagen-Reinigung. → `videos/203_7nSKdRH7mGs.md`
+- **[204] I Studied 300 Agencies to Build a Perfect One** (Skalierung & Wachstum, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Nach der Arbeit mit über 300 Videoagenturen nennt Austin sechs Bausteine der "perfekten Agentur" auf dem Weg zu 100k $/Monat: Offer, Lead Generation, Sales-Prozess, Systeme, Talent Acquisition/Growth und Leadership. → `videos/204_O5AxLg_005g.md`
+- **[205] Debunking The Most Common Agency Myths (Part 1)** (Mindset & Unternehmertum, Team & Hiring, Angebot & Positionierung) — Podcast-Folge von Agency U: Austin und sein Partner Gilberto zerlegen typische Glaubenssätze von Agenturinhabern, die sie aus Sales- und Coaching-Calls kennen – von "Ich finde keine guten Leute" bis "Ich warte noch, bis …". → `videos/205_JxDkAqWRK1U.md`
+- **[206] Agencies: DO THIS to Grow on Autopilot** (Team & Hiring) — Der Schlüssel zum Wachstum ohne ständige Anwesenheit ist strategisches Einstellen. Austin zeigt einen Sechs-Schritte-Prozess: Start-Stop-Liste, Rollen identifizieren, Job Description, Talent Acquisition Funnel, SOPs und Einarbeitungsphase. → `videos/206_ltUGT6rcFaw.md`
+- **[207] Scaling Content Systems For Agencies with Stephen G. Pope** (Operations & Systeme, Content & Personal Brand, Video-Produktion & Handwerk) — Podcast-Interview mit Stephen G. Pope, einem ehemaligen Softwareagentur-Gründer, der heute "Content Engines" für Agenturen und Personal Brands baut. Themen: aus einer Aufnahme 100+ Content-Pieces machen, Tool-Stack, ChatGPT-Prompting, Clip-Auswahl, KPIs und warum Qualität in einer KI-Content-Flut wichtiger wird. → `videos/207_zz0VuF7hNxU.md`
+- **[208] How Max's Content Agency Makes Podcast Go Viral** (Fallstudie / Coaching-Call, Angebot & Positionierung, Operations & Systeme) — Erfahrungsbericht von Max, Student an der USC und Gründer von "Podfluence", einer Agentur, die Video-Podcasts in Short-Form-Clips schneidet. Er erzählt, wie er mit Agency U von unregelmäßigen Einzelaufträgen zu 15k $/Monat an Retainern kam. → `videos/208_71KEEApPO84.md`
+- **[209] Agencies Are Dying... Do THIS Instead** (Angebot & Positionierung, Kundengewinnung & Outreach, Skalierung & Wachstum) — Vorstellung der "New Era Agency Protocols" – sechs Säulen (Offer, Lead Gen, Sales, Brand, Systeme, Hiring), mit denen Austins Agentur auf über 200k $/Monat wuchs. Der letzte Teil ist ein Pitch für das Coaching-Programm Agency U. → `videos/209_vaCDjkm-vF4.md`
+- **[210] How Jordan CRUSHED $10k in 90 Days** (Fallstudie / Coaching-Call, Team & Hiring, Content & Personal Brand) — Erfahrungsbericht von Jordan, Mitgründer von "Forward Marketing" (Short-Form-Content für Dienstleister). In rund vier Monaten mit Agency U kam er von einem Kunden mit ca. 2.000 $ auf seinen ersten 10k-Monat – über ein klares Offer, organischen Content und einen Offshore-Editor. → `videos/210_xqw2mUDVp8Q.md`
+- **[211] exactly how i went from making 0 to 100k per month in 10 months step by step (so you can copy me)** (Mindset & Unternehmertum, Skalierung & Wachstum, Team & Hiring) — Austin erzählt ungeschönt seinen Werdegang – von schwierigen Familienverhältnissen über Callcenter, TV-Werbeverkauf und Immobilien bis zur eigenen Agentur Brandtastic mit über 200k $/Monat – und welche Wendepunkte das Wachstum brachten. → `videos/211_nwFcEcyxDnc.md`
+- **[212] How to Build a Agency in 2024 [FULL GUIDE]** (Angebot & Positionierung, Kundengewinnung & Outreach, Preise & Retainer) — Schritt-für-Schritt-Anleitung zum Aufbau einer Video-/Creative-Agentur von null in sechs Schritten: Offer & Nische inkl. Kalkulation, Sales Funnel (Authority Funnel), Sales-Prozess, produktisierter Prozess, Talent Acquisition und Personal Brand. → `videos/212_dPWsCJRWAgY.md`
+- **[213] The Only Agency Guide You'll Ever Need** (Angebot & Positionierung, Kundengewinnung & Outreach, Team & Hiring) — Komplett-Training, wie Austin seine Creative Agency in knapp zwei Jahren auf über 200k $/Monat brachte: Spezialisten-Offer mit drei Stufen, Authority Funnel mit Budgetverteilung, DM-Setting, Sales-Prozess, produktisierter Prozess und Talent Acquisition. → `videos/213_VPrNFNQCB48.md`
+- **[214] How I book 1-2 sales calls a day for my agency** (Kundengewinnung & Outreach, Content & Personal Brand) — Austins Protokoll für täglich 1–2 Sales-Calls aus drei Quellen: organische Marke mit DM-Engagement, der bezahlte Authority Inbound Funnel und eine automatisierte Cold-Email-Maschine. → `videos/214_mthVXqf1Y9M.md`
+- **[215] Watch this 15 minute video to automate your agency** (Operations & Systeme, Team & Hiring, Preise & Retainer) — Acht Schritte, um sich aus dem Tagesgeschäft einer Creative Agency herauszunehmen: delegierbares Offer mit Kapazitätsrechnung, produktisierter Prozess, Job Descriptions, Projektmanagement-Boards, SOP-Library, EOD-Formulare, Talent Acquisition Funnel und das Aufbauen weiterer Führungskräfte. → `videos/215_gs8H7NTqNk0.md`
+- **[216] How I onboarded 222 agency clients** (Fulfillment & Kundenbindung, Operations & Systeme) — Austins automatisierter Onboarding-Prozess, mit dem er in vier Jahren über 222 Kunden aufgenommen hat: vom Sales-Intake-Form über automatischen Vertragsversand bis zum Onboarding-Call mit Präsentation zur Erwartungssteuerung. → `videos/216_geeaeu7ieE0.md`
+- **[217] Agency Sales Mastery: A Comprehensive Guide To Land More Sales** (Sales & Closing, Mindset & Unternehmertum, Finanzen & Marge) — Agency-U-Podcast mit Austin und Gilberto im Frage-Antwort-Format: wie man verkauft, ohne "salesy" zu wirken, welches Volumen Akquise wirklich braucht, wie man mit Geld umgeht, warum und wie man eine Nische wählt und was man zuerst delegiert. → `videos/217_R0rPHcg3Iik.md`
+- **[218] Removing Myself From My Business in 7 Days** (Operations & Systeme, Team & Hiring, Kundengewinnung & Outreach) — Ein Sieben-Tage-Plan am Beispiel einer Agentur für Zahnärzte, um sich aus dem eigenen Business herauszunehmen: Offer kalkulieren, Prozess dokumentieren, Lead Gen automatisieren, Talent Acquisition, SOPs, EOD-Formulare/Trainings und schließlich die Management-Rolle delegieren. → `videos/218_mI8HLqA0bF8.md`
+- **[219] Hormozi's Advice for Agencies** (Angebot & Positionierung, Fulfillment & Kundenbindung, Team & Hiring) — Austin reagiert auf Aussagen von Alex Hormozi über Agenturen – was Hormozi als Auftraggeber von Agenturen erwartet – und leitet daraus Lektionen für Creative Agencies ab. → `videos/219_IOkMlGRc2XQ.md`
+- **[220] If I Were to Start an Agency in 2025, This Is What I'd Do [$0-$1M GUIDE]** (Skalierung & Wachstum, Angebot & Positionierung, Kundengewinnung & Outreach) — Austins Stufenplan, wie er eine Creative Agency heute von null auf 1 Mio. $ Jahresumsatz bringen würde – mit klarem Fokus je Umsatzphase: Offer + Editor, Lead Gen + Sales, Systeme + A-Player, Skalieren, Leadership. → `videos/220_LtY-O1GPqrQ.md`
+- **[221] He fired himself from his agency…Here’s what happened** (Fallstudie / Coaching-Call, Team & Hiring, Angebot & Positionierung) — Interview mit Cameron (CDS Visuals, Videoproduktion für Firmen mit erklärungsbedürftigen Produkten), der nach rund anderthalb Jahren in Agency U von einem unstrukturierten Drei-Mann-Team zu einer fast siebenstelligen Agentur wurde, die auch ohne ihn läuft. → `videos/221_ahwUsWw9ph8.md`
+- **[222] The Best Lead Generation Strategy in 2024** (Kundengewinnung & Outreach, Content & Personal Brand) — Austins Lead-Gen-Strategie für Creative Agencies aus zwei Teilen: dem Authority Funnel (Content + Instagram-Ads + DM-Setting) für nachhaltiges Vertrauen und automatisierter Cold Email für planbares Volumen – beide zusammen verstärken sich gegenseitig. → `videos/222_bsemMP4f-1c.md`
+- **[223] The BEST Agency Offer to Scale in 2024** (Angebot & Positionierung, Preise & Retainer) — Der Markt für Creative Agencies wird enger (Upwork-Freelancer, UGC, anspruchsvollere Kunden). Austin zeigt, wie sich sein eigenes Offer seit 2018 wandeln musste, warum viele Offers scheitern, und stellt drei Offers für 2024 vor: VIP Content Day, Appointment Setter als Add-on und Strategie als eigene Leistung. → `videos/223_TYl4GYvX9yU.md`
+- **[224] Why You're Not Getting New Clients... (For Content Agencies)** (Kundengewinnung & Outreach, Sales & Closing, Content & Personal Brand) — Vier Gründe, warum Content-Agenturen keine neuen Kunden gewinnen – zu wenig Outreach, unklares Offer, inkonsistente Sales-Frameworks und vernachlässigter Markenaufbau – jeweils mit Lösung. → `videos/224_1yue8P7s6yM.md`
+- **[225] $50,000/mo Agency with Appointment Setters** (Team & Hiring, Kundengewinnung & Outreach, Operations & Systeme) — Podcast-Folge (Agency U) mit Lloyd Yip, der Unternehmen beim Aufbau von Setter-/SDR-Teams hilft. Es geht darum, wann eine Agentur überhaupt bereit für einen Appointment Setter ist und wie man Setter einstellt, trainiert und führt. → `videos/225_VMkUBziiBAU.md`
+- **[226] I Sent 250 Instagram DMs a Day and Got This Many Clients** (Kundengewinnung & Outreach, Operations & Systeme) — Austin testet 46 Tage lang Cold-Outreach per Instagram-DM (250 Nachrichten pro Tag über einen VA) und zeigt Setup, SOPs und Ergebnis. Das Ergebnis war ernüchternd, deshalb bleibt er bei Cold Email. → `videos/226_W302TvvABoU.md`
+- **[227] I Broke Down Hormozi's Strategy to Get Clients in 2024** (Kundengewinnung & Outreach) — Austin zerlegt die Cold-Email-Strategie von Alex Hormozi (die Gym Launch in der Corona-Zeit gerettet haben soll) in vier Schritte und zeigt die Umsetzung Schritt für Schritt im Tool Instantly am Beispiel Klempner. → `videos/227_cmeylkXZ3b4.md`
+- **[228] Gabe DOUBLED His Real Estate Media Agency Doing THIS...** (Fallstudie / Coaching-Call, Operations & Systeme, Preise & Retainer) — Gespräch mit Gabe, der in Phoenix (Arizona) eine Immobilien-Media-Agentur betreibt und zweimal Agency U durchlaufen hat. Zuerst hat er seine Abläufe systematisiert, danach vom Listing-Geschäft auf Short-Form-Retainer umgestellt. → `videos/228_FFK-LBAKHmM.md`
+- **[229] Building to Sell: Crafting a Valuable Agency with Brett Watts** (Skalierung & Wachstum, Operations & Systeme, Team & Hiring) — Agency-U-Podcast mit Brett Watts. Er hat seine Med-Spa-Lead-Gen-Agentur „Patient Rhino“ über rund sechs Jahre auf knapp 300.000 $ Monatsumsatz gebracht und dann verkauft. Themen sind Nischenwahl, Partnerschaft, Productizing, Hiring-Funnel, Führung und worauf Käufer beim Agenturverkauf achten. → `videos/229_9JMOF5-bdgE.md`
+- **[230] How I went from Freelance Videographer to 7 Figure Content Agency** (Team & Hiring, Skalierung & Wachstum, Mindset & Unternehmertum) — Austin erklärt, warum er vom Freelancer zum Agenturinhaber geworden ist, warum viele Freelancer zu spät einstellen und welche Schritte den Übergang ermöglichen. → `videos/230_hpa_4fxYFUU.md`
+- **[231] Subscribe for more** (Skalierung & Wachstum, Content & Personal Brand) — Kurzer Vorstellungs- und Folge-Aufruf. Wer mit einer Content- oder Lead-Gen-Agentur bei 10–20k $/Monat feststeckt, hat laut Austin meist eines von drei Problemen: leerer Sales-Kalender, alles selbst im Fulfillment oder unklar, wen man als Nächstes einstellt. → `videos/231_sCcrliBE4PA.md`
+- **[232] Our Agencies First Million Dollars...Here's How.** (Content & Personal Brand, Kundengewinnung & Outreach) — Austin führt die erste Umsatzmillion seiner Agentur auf konsequenten Markenaufbau zurück. Er erklärt, warum eine Marke Vertrauen skaliert, und nennt die konkreten Schritte dafür. → `videos/232_eAM2ldHzkVI.md`
+- **[233] Delegate Like a Pro: How to Hand Off Tasks Without Losing Quality** (Team & Hiring, Operations & Systeme) — Kurzvideo über das Delegieren ohne Qualitätsverlust. Austin erinnert sich, wie er mit Mark in einer Zweizimmerwohnung von 6 bis 20 Uhr gearbeitet hat. Wer nicht delegiert, stagniert. → `videos/233_C817khPcccI.md`
+- **[234] Scaling My Agency to $200,000 Per Month.** (Skalierung & Wachstum, Team & Hiring, Operations & Systeme) — Fünf Prinzipien, mit denen Austin seine Kreativagentur auf 200.000 $ Monatsumsatz gebracht hat. Sie gelten für Freelancer auf dem Weg zur Agentur ebenso wie für Agenturen auf dem Weg zu sieben Stellen. → `videos/234_aosDZr6zE3c.md`
+- **[235] How to Land Your Next 10 Agency Clients (PROOF)** (Kundengewinnung & Outreach, Angebot & Positionierung, Fallstudie / Coaching-Call) — Anhand von drei Agency-U-Kunden (Gabe, Matt, Jordan) zeigt Austin drei schnelle Wege zu Neukunden: Cash-Kampagne, KI-gestützter Outbound-Funnel und organisches Posten. Voraussetzung für alle drei ist ein geschärftes Offer mit klarer Nische und Botschaft. → `videos/235_4ooOfLCZB5E.md`
+- **[236] Owning an Agency is Hard....** (Mindset & Unternehmertum, Team & Hiring) — Agency-U-Podcast mit Austin und Gilberto über schwere Phasen als Agenturinhaber (Corona, Kündigungen, Verluste, Entlassungen). Sie erzählen, welche Denkweisen und Routinen ihnen da durchgeholfen haben. → `videos/236_PfBeskEX6K4.md`
+- **[237] How I Hire A PLAYER Video Editors for Our Agency (STEP BY STEP)** (Team & Hiring, Video-Produktion & Handwerk) — Austin zeigt den Hiring-Funnel, mit dem seine Agentur gute Video-Editoren findet. Fehlbesetzungen hatten vorher interne Frustration, Verzögerungen und schlechte Kundenergebnisse verursacht. → `videos/237_L3BG3DIRq8I.md`
+- **[238] How to FIRE YOURSELF from your Agency (And Become a TRUE CEO)** (Skalierung & Wachstum, Preise & Retainer, Team & Hiring) — Austin erklärt Schritt für Schritt am Miro-Board, wie man sich als Inhaber aus dem operativen Geschäft herausarbeitet: vom produktisierten Offer über Preise, die Delegation erlauben, bis zu Leuten, die man zu Führungskräften entwickelt. So hat er selbst seinen CEO aufgebaut. → `videos/238_KCfLQFHual0.md`
+- **[239] Video Agency QUADRUPLED With This Simple Strategy** (Fallstudie / Coaching-Call, Operations & Systeme, Team & Hiring) — Interview mit Steven Sanchez (Sovereign Media, Coeur d'Alene, Idaho). Er ist vom Solo-Creator zur kleinen, systematisierten Boutique-Agentur für Short-Form-Content im Immobilienbereich geworden. Möglich wurde das durch Agency-U-Vorlagen, einen ausgelagerten Schnitt und ein Offer, das auch für Kunden in anderen Bundesstaaten funktioniert. → `videos/239_reak5WzmXks.md`
+- **[240] 3 Tools for Unlimited Content Agency Leads** (Kundengewinnung & Outreach) — Austin stellt drei Wege vor, wie seine Agentur laufend verifizierte Kontakte für Cold Outreach beschafft: Instantly Lead Finder, LinkedIn Sales Navigator mit dem Scraper Lin.ai und manuelle List Builder von Upwork. → `videos/240_yQsjQ2MCmsk.md`
+- **[241] How Think Bullish Grew To A $110K/Mo SMMA** (Fallstudie / Coaching-Call, Skalierung & Wachstum, Team & Hiring) — Agency-U-Podcast mit Zach Siegel von Think Bullish, einer Agentur für Chiropraktiker mit ca. 110.000 $ Monatsumsatz und 32 Mitarbeitern. Themen sind sein nicht-linearer Weg über sechs Jahre, Systeme, Hiring, die Entwicklung des Offers, Kundenbindung und Investitionen in Coaching. → `videos/241_-29-CkbBRFk.md`
+- **[242] Freelancer to $50K/Mo Agency: Matt's Journey to Business Owner.** (Fallstudie / Coaching-Call, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Interview mit Matt Seadra (Savvy Media, Inland Empire, Südkalifornien). In gut einem Jahr Agency U ist er vom „glorifizierten Freelancer“ zum Inhaber einer Short-Form-Agentur mit acht bis neun Leuten geworden. → `videos/242_laSYEb_-Ku8.md`
+- **[243] THE Best SMMA Cold Email Script (PROVEN)** (Kundengewinnung & Outreach) — Austin stellt sein Cold-Email-Skript vor, mit dem er nach eigener Aussage mindestens 10 Sales Calls pro Woche bucht. Er baut es live am Beispiel einer Lead-Gen-Agentur für Anwaltskanzleien auf. → `videos/243_npynFvxKEGA.md`
+- **[244] Scaling Your Agency To $10k A Month And Beyond - Here's What You Need To Know | Episode 4** (Skalierung & Wachstum, Angebot & Positionierung, Preise & Retainer) — Agency-U-Podcast (Folge 4) mit Austin und Gilberto über die Hürde bei 10.000 $ Monatsumsatz: warum man dort als Allein-Macher feststeckt und was es braucht, um auf 30k, 50k und 100k zu kommen (Nische, Akquisesystem, Systeme, erste Einstellungen, Pricing, Führung). → `videos/244_eSsV7zvArBs.md`
+- **[245] Get More Video Clients With This Outreach Strategy** (Kundengewinnung & Outreach, Sales & Closing) — Austin erklärt seinen „Value Funnel“ für Cold Email: gezielte Leadliste, personalisierte Einstiegszeile, ein Video-Sales-Letter (VSL) als Mehrwert-Angebot, eine Sequenz in Instantly und schnelles Nachfassen bei positiven Antworten. → `videos/245_91XJAZ6vprE.md`
+- **[246] Why Most Agencies FAIL: Mistakes You MUST Avoid** (Mindset & Unternehmertum, Finanzen & Marge, Skalierung & Wachstum) — Bei rund 880.000 Marketingagenturen in den USA scheitern die meisten. Austin nennt sechs Gründe dafür und sagt, wie man sie vermeidet. → `videos/246_eHPGeGWO5P4.md`
+- **[247] The TRUTH About My $200,000p/m Agency** (Skalierung & Wachstum, Team & Hiring, Mindset & Unternehmertum) — Austin nennt die fünf Prinzipien, mit denen seine Agentur mehrere Jahre in Folge siebenstellig war und bis zu 200.000 $ im Monat umsetzte. Als Beleg zeigt er einen GuV-Screenshot. → `videos/247_vidUriCPxws.md`
+- **[248] How I Hit $223K/Month in Our Agency (STEP BY STEP)** (Skalierung & Wachstum, Kundengewinnung & Outreach, Sales & Closing) — Austin stellt die sechs Säulen seines „New Era Agency Protocol“ vor, mit dem Brandtegic in der Spitze 223.000 $ im Monat erreicht hat: Offer, Lead-Gen, Sales, Brand, Systeme und Hiring. Am Ende pitcht er sein Coaching-Programm „New Era“. → `videos/248_gtjR45UQ3ZU.md`
+- **[249] We've generated MILLIONS from BRAND | Agency U Podcast Ep. 3** (Content & Personal Brand, Kundengewinnung & Outreach) — In Folge 3 des Agency-U-Podcasts interviewt Gilberto Austin zu Markenaufbau und Beziehungen. Austins Agentur ist vor allem über Marke, Networking und strategische Partnerschaften gewachsen und hat so auch Milliardenkonzerne und Fortune-500-Firmen als Kunden gewonnen. → `videos/249_bMf7MPmwI0Q.md`
+- **[250] How to Get Unlimited Leads for Your Agency (STEP BY STEP)** (Kundengewinnung & Outreach) — Austin zeigt als Schritt-für-Schritt-Anleitung, wie man mit dem Instantly Lead Finder in wenigen Minuten große, gezielte Leadlisten baut, verifiziert und direkt in eine Cold-Email-Kampagne lädt. → `videos/250_Xk_9As0pasQ.md`
+- **[251] Mastering Sales at Your SMMA (SECRETS REVEALED) | ep. 2** (Sales & Closing, Team & Hiring) — In Folge 2 des Agency-U-Podcasts befragt Austin seinen Mitgründer Gilberto zu Sales. Gilberto hat über sechs Jahre rund 1.000 bis 1.100 Sales Calls selbst geführt und ein Closer-Team aufgebaut. Themen sind der typische Fehler, das Call-Framework, der Aufbau eines Sales-Teams, Close Rates, Follow-up und Training. → `videos/251_ajpkbolCmII.md`
+- **[252] How To Buy Back Your Time & Increase Profit In Your Agency** (Finanzen & Marge, Preise & Retainer, Operations & Systeme) — Austin zeigt fünf Schritte, mit denen Agenturinhaber sich Zeit zurückkaufen und die Marge erhöhen: Start-Stop-Liste, Profit-Audit, Price for Profit, laufendes Recruiting und Systeme. → `videos/252_qxtsD9QW7ok.md`
+- **[253] How We Hit Our First Seven Figures | Agency U Podcast Ep. 1** (Skalierung & Wachstum, Team & Hiring, Mindset & Unternehmertum) — In der ersten Folge des Agency-U-Podcasts erzählen Austin (Brandtegic, Kreativagentur) und Gilberto (Lead-Gen- und Recruiting-Agentur für Mortgage Loan Officers) ihren Weg zu sieben Stellen. Weitere Themen sind die Weiterentwicklung des Offers, die nächsten Agentur-Trends und die Führungsaufgaben ab 100k $ im Monat. → `videos/253_K7jjPlcMWZ8.md`
+- **[254] Why Your Agency Isn't Scaling Past $15k/mo...** (Skalierung & Wachstum, Angebot & Positionierung, Team & Hiring) — Austin nennt fünf Gründe, warum Agenturen bei etwa 15.000 $ im Monat hängen bleiben, und sagt jeweils, was man stattdessen tun sollte. → `videos/254_hW_RyYAPgM4.md`
+- **[255] Are Short Form Video Agencies DEAD? (The TRUTH)** (Angebot & Positionierung, Video-Produktion & Handwerk) — Apps und KI erzeugen heute auf Knopfdruck Captions, Editoren bieten sich massenhaft an, und der wahrgenommene Wert von Short-Form-Schnitt sinkt. Austin hält Short-Form-Agenturen trotzdem für eine große Chance, sofern man vier Dinge richtig macht. → `videos/255_ZXSMmxDIpYE.md`
+- **[256] 5 Steps To Go From Freelancer to Agency Owner (Fact not theory)** (Mindset & Unternehmertum, Preise & Retainer, Team & Hiring) — Fünf Schritte für den Übergang vom überlasteten Freelancer zum Agenturinhaber: Mindset, Preise für Skalierung, ein Agency Operating System, Delegation und Führung. → `videos/256_eEC3DrM8gvw.md`
+- **[257] How to Price Your Agency Services (FOR PROFIT AND SCALE)** (Preise & Retainer, Finanzen & Marge, Angebot & Positionierung) — Austin rechnet anhand einer Tabelle ein Short-Form-Video-Offer durch und zeigt, wie man den Monatspreis aus den tatsächlichen Fulfillment-Kosten (Rollen × Stunden × Stundensatz) plus Aufschlag ableitet – damit das Angebot auch mit Team profitabel bleibt. → `videos/257_h7ct-1Ztve4.md`
+- **[258] LinkedIn Sales Navigator Lead Scraping: Step-by-Step Guide for Agency Owners** (Kundengewinnung & Outreach, Operations & Systeme) — Schritt-für-Schritt-Anleitung, wie man mit LinkedIn Sales Navigator, einem Scraper (Lynn) und MillionVerifier verifizierte E-Mail-Listen qualifizierter Kontakte für Cold-Email-Kampagnen erstellt. → `videos/258_OgX9rNxjaW4.md`
+- **[259] How I Built a 7 Figure Agency (4 Key Steps)** (Skalierung & Wachstum, Team & Hiring, Angebot & Positionierung) — Austin erzählt, wie er vom ausgebrannten Solo-Dienstleister zum Inhaber seiner Creative Agency Brandtegic mit mehreren Jahren Siebenstelligkeit wurde – anhand von vier Schritten: delegieren, Offer produktisieren, planbare Kundengewinnung, Führung. → `videos/259_jUTeGM_lMIQ.md`
+- **[261] Short Form Video Offer: A Step-by-Step Guide for SMMA Success** (Angebot & Positionierung, Preise & Retainer, Operations & Systeme) — Austin baut live ein Short-Form-Video-Offer für Immobilienmakler auf – über die Schritte Nische, Traumergebnis, Pain Points, Lösungen, Offer, Fulfillment-Systeme und Pricing – und zeigt die Denkweise, mit der Brandtegic hunderte Videos pro Monat produziert. → `videos/261_PEf-sLzRDCw.md`
+- **[262] How to Scrape Leads from a Website Using THIS Bot 🤖 (SUPER EASY)** (Kundengewinnung & Outreach, Operations & Systeme) — Tutorial zum Browser-Bot Axiom.ai, mit dem man Kontaktdaten aus Online-Verzeichnissen (z. B. Makler-Finder auf Zillow/realtor.com) automatisch in ein Google Sheet schreibt – als SOP für einen List Builder. → `videos/262_H8iAaGJJQJQ.md`
+- **[263] How We Book 5+ Calls Per Day WITHOUT Ads (STEP BY STEP CREATIVE AGENCY TRAINING)** (Kundengewinnung & Outreach, Skalierung & Wachstum, Team & Hiring) — Training von Gilberto Rosas (Maverick Media Lab, Mitgründer von Agency U), wie er und Austin ihre Agenturen ohne Ads über 100k $/Monat skaliert haben: fünf Schritte von Listenaufbau über KI-Videos und Omnichannel-Outreach bis zu VAs und einem stufenweisen „Scaling Codex“. Der letzte Teil ist überwiegend Werbung für Agency U mit Testimonials. → `videos/263_ywp_l52vMD8.md`
+- **[264] How To Automate Your Agency Onboarding Process | Step By Step Tutorial** (Operations & Systeme, Fulfillment & Kundenbindung) — Austin zeigt das automatisierte Onboarding, mit dem Brandtegic über 100 Kunden aufgenommen hat: Ein einziges Sales-Intake-Formular löst Vertrag, Willkommensmail, Onboarding-Formular und zuletzt die Buchung des Onboarding-Calls aus. → `videos/264_JrKhNt4Aw-8.md`
+- **[266] Step By Step Guide for Chat GPT for Agency Cold Outreach** (Kundengewinnung & Outreach, Operations & Systeme) — Anleitung, wie man mit dem Add-on „GPT for Sheets“ automatisch personalisierte Eröffnungszeilen für Cold Emails, SMS oder DMs erzeugt – aus der Bio einer Person oder der Website eines Unternehmens. → `videos/266__Z47lw96IPU.md`
+- **[268] How we Send 2,000 Cold Emails a Day (SMMA COLD OUTREACH)** (Kundengewinnung & Outreach, Operations & Systeme) — Austin zeigt das Cold-Email-System von Brandtegic: Leadlisten über günstige List Builder und Scraping-Tools, zusätzliche Domains und Postfächer bei Namecheap, Einrichtung und Warm-up in Instantly sowie Kampagnen-Setup. → `videos/268_BUMh0BvrqpE.md`
+- **[269] Day in Life of Creative Agency CEO (REALISTIC, 15 EMPLOYEES)** (Mindset & Unternehmertum, Kundengewinnung & Outreach, Team & Hiring) — Ungeschönter Tagesablauf von Austin als CEO von Brandtegic (ca. 50 Kunden, 16–20 Mitarbeitende): Morgensport, Deep Work, Sales-Meeting, Experimente mit ChatGPT für Cold Outreach, Mentoring-Call und ein Strategie-Call mit einem Neukunden. → `videos/269_fe5yDx3C8NM.md`
+- **[271] REVEALED: How Agents Can Close 5 Deals from Instagram (super simple tactics)** (Content & Personal Brand, Kundengewinnung & Outreach) — Webinar für Immobilienmakler und Loan Officers (Content Masterclass mit Partner Sean Batista): drei Schlüssel, um ohne Ad-Budget fünf zusätzliche Deals pro Jahr über Instagram zu gewinnen – System, magnetischer Content (Script-Formel) und „digitales Klinkenputzen“. Für Agenturen ist es auch eine Vorlage, was man Makler-Kunden inhaltlich vermitteln kann. → `videos/271_7LqBX7Vp0OM.md`
+- **[272] Your Brand Has Value** (Content & Personal Brand) — Short über den Wert einer Marke, vor allem in Geschäften mit langen Kaufzyklen wie Immobilien. → `videos/272_Ed-AtdFiaA8.md`
+- **[273] How Our Multi-7 Figure Agency Prices Our Services** (Preise & Retainer, Finanzen & Marge) — Austin erklärt die Pricing-Formel von Brandtegic: Offer in konkrete Leistungen zerlegen, jeder Leistung eine Rolle mit Stunden und Stundensatz zuordnen, daraus die Fulfillment-Kosten (COGS) berechnen und mit Faktor 3 auf ca. 66 % Rohertrag kommen. → `videos/273_I99vyc_EvWc.md`
+- **[274] How to Scale Your Agency (What gurus don't talk about enough).** (Skalierung & Wachstum, Operations & Systeme, Team & Hiring) — Ein „Rant“ gegen Gurus, die garantierte Termine versprechen: Bevor mehr Leads sinnvoll sind, braucht eine Agentur (typisch bei 7–15k $/Monat) ein klares Offer, dokumentierte Systeme und die richtigen Leute. → `videos/274_z-tqTFnAsDE.md`
+- **[275] 6 Figure Agency in 6 Months** (Fallstudie / Coaching-Call, Operations & Systeme) — Testimonial-Interview mit Santiago Castro (Optic Element, Branding-/Video-Agentur), der nach acht Monaten Selbstständigkeit und rund sechs Monaten in Agency U einen sechsstelligen Jahresumsatz erreicht hat – vor allem dank übernommener Systeme. → `videos/275_9TDwYbbDNlQ.md`
+- **[276] The BEST Agency Niches 2022 (and ones to avoid)** (Angebot & Positionierung, Kundengewinnung & Outreach) — Warum eine Agentur sich auf eine Nische spezialisieren sollte, welche Nischen Austin aus Erfahrung meidet (Startups, Restaurants, Solopreneure) und welche er empfiehlt (Makler-Brokerages, Personal-Injury-Anwälte, Home Services, lokale Werbetreibende). → `videos/276_nVfLgkiNbFo.md`
+- **[277] Agency Owners, here's how to close more deals with Calendly!** (Sales & Closing, Operations & Systeme) — Wie Brandtegic Calendly im Vertrieb einsetzt: Discovery-Call-Termintyp mit Pflicht-Qualifizierungsfragen, automatische Erinnerungen gegen No-Shows, Dankes-Video nach der Buchung und Einbindung des Kalenders überall dort, wo Interessenten auftauchen. → `videos/277_t_tVaxIg6P4.md`
+- **[278] Doubling His Business in 3 Months going from Freelancer to Agency Owner** (Fallstudie / Coaching-Call, Team & Hiring, Preise & Retainer) — Interview mit Agency-U-Mitglied Chase Fade (Vertical Media, Real-Estate-Video und Social Management), der nach vier Jahren als Solo-Videograf in drei Monaten ein Team aufgebaut und seinen Monatsumsatz verdoppelt hat. → `videos/278_Z716BCHOAwk.md`
+- **[279] 6 Tools your Marketing Agency NEEDS** (Operations & Systeme) — Austin stellt den Tool-Stack von Brandtegic vor und zeigt, wie jedes Tool organisiert ist: Notion, Calendly, Sprout Social, Zapier, Slack und Google Drive. → `videos/279_lZWQpCpkYi0.md`
+- **[280] REVEALED: How to find unlimited LEADS for your Marketing Agency. 🤩** (Kundengewinnung & Outreach, Operations & Systeme) — Drei-Schritte-Prozess für große Mengen qualitativ guter Leads: Listen mit D7 Lead Finder ziehen, von günstigen Upwork-Freelancern bereinigen und anreichern lassen, und diese über eine SOP in Notion plus Slack steuern. → `videos/280_6YlPfDB2XFM.md`
+- **[281] Should you start a marketing agency?** (Mindset & Unternehmertum, Skalierung & Wachstum) — Sechs Gründe, warum eine Social-Media-Marketing-Agentur aus Austins Sicht ein attraktives Geschäftsmodell ist. → `videos/281_Rcvcu5S6Zgk.md`
+- **[282] Neel Dhingra - Social media and mortgage, how to land BIG collabs, and financial freedom.** (Content & Personal Brand, Kundengewinnung & Outreach, Mindset & Unternehmertum) — Folge des Ryze Podcast mit Neel Dhingra, Mortgage Banker und Immobilieninvestor, der sich als „Content Creator zuerst“ versteht: wie er sein Einkommen mit Content in zwei Jahren verzehnfacht hat, welcher Content konvertiert, wie man Content für Networking und große Kooperationen (z. B. Gary Vee) nutzt, und seine Sicht auf Risiko und Geldanlage. → `videos/282_dd5Jl7UiPH0.md`
