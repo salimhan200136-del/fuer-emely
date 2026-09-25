@@ -1,6 +1,6 @@
 # Wissensdatenbank: Austin Schneider (@AustinrSchneider)
 
-Notizen zu 309 von 318 Videos des Kanals, auf Deutsch zusammengefasst: Kernaussagen, Frameworks, Zahlen und Umsetzungsschritte, mit Zeitstempel-Links ins Video.
+Notizen zu 312 von 318 Videos des Kanals, auf Deutsch zusammengefasst: Kernaussagen, Frameworks, Zahlen und Umsetzungsschritte, mit Zeitstempel-Links ins Video.
 
 Nr. 1 ist das neueste Video, Nr. 318 das älteste. Die ältesten Videos (ca. ab Nr. 289) stammen aus der Zeit vor dem Agentur-Thema (Podcast, Immobilien-Tipps).
 
@@ -10,16 +10,16 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 
 - [Angebot & Positionierung](#angebot--positionierung) (92)
 - [Preise & Retainer](#preise--retainer) (41)
-- [Kundengewinnung & Outreach](#kundengewinnung--outreach) (86)
-- [Sales & Closing](#sales--closing) (36)
+- [Kundengewinnung & Outreach](#kundengewinnung--outreach) (88)
+- [Sales & Closing](#sales--closing) (37)
 - [Content & Personal Brand](#content--personal-brand) (36)
 - [Team & Hiring](#team--hiring) (94)
-- [Operations & Systeme](#operations--systeme) (107)
-- [Fulfillment & Kundenbindung](#fulfillment--kundenbindung) (31)
+- [Operations & Systeme](#operations--systeme) (109)
+- [Fulfillment & Kundenbindung](#fulfillment--kundenbindung) (32)
 - [Skalierung & Wachstum](#skalierung--wachstum) (58)
 - [Finanzen & Marge](#finanzen--marge) (24)
 - [Mindset & Unternehmertum](#mindset--unternehmertum) (68)
-- [Fallstudie / Coaching-Call](#fallstudie--coaching-call) (70)
+- [Fallstudie / Coaching-Call](#fallstudie--coaching-call) (71)
 - [Video-Produktion & Handwerk](#video-produktion--handwerk) (13)
 - [Sonstiges](#sonstiges) (8)
 
@@ -195,6 +195,8 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 - [121 · I Built a +$100K/Mo Agency (So You Can Copy Me)](121_V_2D6hvBBd0.md) — 17.0 min
 - [122 · The ONLY Agency Sales Systems Training To Scale To $100k/mo](122_nKtb-Xr5HRE.md) — 43.9 min
 - [123 · FULL Notion Course For Agency Owners (112 Mins)](123_5mWj25dYkKo.md) — 112.8 min
+- [126 · THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)](126_J4CG3HHi97E.md) — 16.6 min
+- [128 · The Sales System I Use To Book 4397 Sales Calls For My Agency](128_nlogfkOfcSo.md) — 11.2 min
 - [135 · Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY)](135_W63UpHLnNZY.md) — 22.9 min
 - [136 · NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion](136_9Klw68QX3l4.md) — 16.8 min
 - [146 · How I Deliver RESULTS For My Video Agency Clients](146_rHAdaeWcFpQ.md) — 21.1 min
@@ -267,6 +269,7 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 - [098 · How I Built a $5M Client Getting System (FREE COURSE)](098_5K1l2zTX_Xk.md) — 108.7 min
 - [107 · 3 AI Agents You MUST HAVE For Your Agency in 2025](107_hkuPPcRY4AM.md) — 17.7 min
 - [122 · The ONLY Agency Sales Systems Training To Scale To $100k/mo](122_nKtb-Xr5HRE.md) — 43.9 min
+- [126 · THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)](126_J4CG3HHi97E.md) — 16.6 min
 - [131 · How I Turned Notion into a CRM For My Agency (10X SALES)](131_JH9QoJH6jys.md) — 24.1 min
 - [136 · NEW WAY For Lead Gen To Scale a $100k/mo Agency in Notion](136_9Klw68QX3l4.md) — 16.8 min
 - [148 · How We Are Helping +150 Agencies Scale to $100k Months](148_qHDLQPqtHzo.md) — 24.4 min
@@ -485,6 +488,8 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 - [123 · FULL Notion Course For Agency Owners (112 Mins)](123_5mWj25dYkKo.md) — 112.8 min
 - [124 · This is Boring, But You’ll Hit $100k/mo in Your Agency FAST](124_iH8tQCN6l4I.md) — 30.4 min
 - [125 · How I Built a $200k/mo Agency From My Personal Brand (Full Breakdown)](125_-8MEGEFG990.md) — 11.6 min
+- [127 · I Cracked The Code on Fulfillment in Notion (2025)](127_HlNs_bXgNBQ.md) — 13.3 min
+- [128 · The Sales System I Use To Book 4397 Sales Calls For My Agency](128_nlogfkOfcSo.md) — 11.2 min
 - [129 · The Simplest Way to Build a Client Portal That Keeps Clients Happy](129_0va8NT6HJ-I.md) — 17.7 min
 - [130 · Why Notion Forms Are a Game Changer for Agencies](130_8Qu7OVossCw.md) — 7.3 min
 - [131 · How I Turned Notion into a CRM For My Agency (10X SALES)](131_JH9QoJH6jys.md) — 24.1 min
@@ -557,6 +562,7 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 - [103 · How I Automated My 7 Figure Agency (FREE OPS COURSE)](103_4q5sK9kMjzc.md) — 302.9 min
 - [112 · Building a $100K/Month Agency For a Client in 27 Mins](112_l2mkxM_Rp30.md) — 26.3 min
 - [119 · I Built An Entire Agency Onboarding System In 45 Minutes](119_bkKSTyktenE.md) — 14.2 min
+- [127 · I Cracked The Code on Fulfillment in Notion (2025)](127_HlNs_bXgNBQ.md) — 13.3 min
 - [129 · The Simplest Way to Build a Client Portal That Keeps Clients Happy](129_0va8NT6HJ-I.md) — 17.7 min
 - [135 · Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY)](135_W63UpHLnNZY.md) — 22.9 min
 - [139 · The SYSTEM That Made THIS Freelancer into a Full-Time Agency](139_ZpJeLuJPMrY.md) — 26.1 min
@@ -774,6 +780,7 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 - [112 · Building a $100K/Month Agency For a Client in 27 Mins](112_l2mkxM_Rp30.md) — 26.3 min
 - [116 · Building a $100K/mo Agency For A Stranger in 26 Mins](116_UCuCiEm1Rlg.md) — 25.8 min
 - [118 · How This Freelancer Built a $100k/mo Agency & Studio in 6 Months](118_UnlJylXRAoY.md) — 14.6 min
+- [126 · THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)](126_J4CG3HHi97E.md) — 16.6 min
 - [133 · THIS Creative Agency 9X Their Revenue With Our NEW Notion Systems](133_alGapqeMtKY.md) — 28.5 min
 - [135 · Established Agency Owner Received $30k With Just ONE Ad (CASE STUDY)](135_W63UpHLnNZY.md) — 22.9 min
 - [137 · THIS Video Agency Owner Went From Burnout to $30K Months in 6 Months](137_YUSPn7pqoYw.md) — 17.1 min
@@ -958,9 +965,9 @@ Die Notizen wurden aus automatischen YouTube-Untertiteln erstellt. Zahlen, die d
 | 123 | [FULL Notion Course For Agency Owners (112 Mins)](123_5mWj25dYkKo.md) | 112.8 | Zusammenschnitt mehrerer Notion-Videos zum "AgencyU Operating System": Überblick über alle Bereiche (Marketing, Setting, Sales, Onboarding, Client-OS, Fulfillment, Client Success, Hiring, SOPs, OKRs, Finanzen, interne Vermarktung), danach Vertiefungen zu Leadgewinnung mit dem Authority Funnel, Formularen, Kundenportal, ManyChat-/Zapier-Automation, Fulfillment-Funnel, Personal-Brand-Content und Aufgabenmanagement. Inhaltlich stark überlappend mit Nr. 103. |
 | 124 | [This is Boring, But You’ll Hit $100k/mo in Your Agency FAST](124_iH8tQCN6l4I.md) | 30.4 | Die vier Säulen, um aus der Falle unter 50.000 $/Monat herauszukommen: produktisiertes Offer, Leadgewinnung per Authority Funnel, ein Agency Operating System und ein strukturierter Hiring-Prozess. |
 | 125 | [How I Built a $200k/mo Agency From My Personal Brand (Full Breakdown)](125_-8MEGEFG990.md) | 11.6 | Austins produktisierter Prozess für Personal-Brand-Content: die "ACE"-Content-Strategie, Ideenfindung mit ChatGPT auf Basis des Offer Breakdowns, eine feste Skriptformel und Planung im internen Marketing-OS in Notion. (Derselbe Inhalt erscheint auch als Teil von Nr. 123.) |
-| 126 | [THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)](https://www.youtube.com/watch?v=J4CG3HHi97E) | 16.6 | *kein Transkript verfügbar* |
-| 127 | [I Cracked The Code on Fulfillment in Notion (2025)](https://www.youtube.com/watch?v=HlNs_bXgNBQ) | 13.3 | *kein Transkript verfügbar* |
-| 128 | [The Sales System I Use To Book 4397 Sales Calls For My Agency](https://www.youtube.com/watch?v=nlogfkOfcSo) | 11.2 | *kein Transkript verfügbar* |
+| 126 | [THIS Real Estate Media Agency Adds $20k from $140 in Ads (IN 2 WEEKS)](126_J4CG3HHi97E.md) | 16.6 | Case-Study-Interview mit Todd, der in Südwest-Missouri/Nordwest-Arkansas eine etablierte Immobilien-Medienfirma (Listing-Fotos/-Videos, ~700 Makler als Kunden) führt und mit AgencyU ein zusätzliches Social-Content-Retainer-Angebot für Makler aufgebaut hat. |
+| 127 | [I Cracked The Code on Fulfillment in Notion (2025)](127_HlNs_bXgNBQ.md) | 13.3 | Live-Demo des Fulfillment-Systems ("Fulfillment Funnel") in Notion – einmal für Content-Agenturen mit Statuskette von Skript bis Posting, einmal für aufgabenbasierte Agenturen (z. B. Leadgen) mit Aufgaben-Templates. (Derselbe Inhalt ist auch Teil von Nr. 123.) |
+| 128 | [The Sales System I Use To Book 4397 Sales Calls For My Agency](128_nlogfkOfcSo.md) | 11.2 | Schritt-für-Schritt-Anleitung, wie man Instagram-DMs mit einem Keyword per ManyChat automatisch beantwortet, taggt und über Zapier als Lead in einer Notion-Datenbank (Leads-/Setting-OS) ablegt – inklusive Slack-Benachrichtigung. (Derselbe Inhalt ist auch Teil von Nr. 123.) |
 | 129 | [The Simplest Way to Build a Client Portal That Keeps Clients Happy](129_0va8NT6HJ-I.md) | 17.7 | Austin zeigt, wie man in Notion ein internes "Client OS" (zentrale Kundendatenbank) plus ein nach außen geteiltes Kundenportal baut, das Kunden transparent auf dem Laufenden hält und so die Kundenbindung erhöht. |
 | 130 | [Why Notion Forms Are a Game Changer for Agencies](130_8Qu7OVossCw.md) | 7.3 | Austin erklärt, wie seine Agentur die neue Formular-Funktion von Notion für Sales-Intake, Onboarding, NPS und End-of-Day-Reports nutzt und wie man Formulare samt Automationen aufsetzt. |
 | 131 | [How I Turned Notion into a CRM For My Agency (10X SALES)](131_JH9QoJH6jys.md) | 24.1 | Austin legt das Fundament eines wiederholbaren Sales-Prozesses (VSL, qualifizierender Kalender, CRM, Sales-Framework, Payment-Links, Präsentation, Automation) und zeigt, wie alles in einem Notion-CRM mit Sales-Kennzahlen zusammenläuft. |
